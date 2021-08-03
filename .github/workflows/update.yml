@@ -21,7 +21,7 @@ jobs:
         ls SCTranslationData/
     - name: get story tree
       run: |
-        python scripts/getTree.py
+        python repoMaster/scripts/getTree.py
     - name: list dir
       run: |
         ls
