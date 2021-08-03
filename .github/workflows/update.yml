@@ -28,8 +28,8 @@ jobs:
     - name: copy and commit
       run: |
         cp ./story_tree.json repoMaster/story_tree.json
-        git config --local user.email "daerwendeshu@outlook.com"
-        git config --local user.name "七草葉月"
+        git config --global user.email "daerwendeshu@outlook.com"
+        git config --global user.name "七草葉月"
         cd repoMaster
         git add .
         git commit -m "update story tree"
