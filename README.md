@@ -1,0 +1,1 @@
+# sc-viewer-config
