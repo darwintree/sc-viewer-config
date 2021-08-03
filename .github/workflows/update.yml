@@ -11,25 +11,24 @@ jobs:
     - uses: actions/checkout@v2
       with:
         ref: main
-        path: repoMaster
     - name: fetch resource translation repo
       env:
         IDOL_INFO_URL: https://raw.githubusercontent.com/biuuu/shiny-image/master/idol-info.json
         TRANSLATION_REPO: https://github.com/ShinyGroup/SCTranslationData.git
       run: |
         git clone $TRANSLATION_REPO
-        wget $IDOL_INFO_URL
+        wget $IDOL_INFO_URL -O idol-info.json
     
     - name: get story tree
       run: |
-        python repoMaster/scripts/getTree.py
+        python scripts/getTree.py
     - name: list dir
       run: |
         ls
-    - name: copy
-      run: |
-        cp ./idol-info.json repoMaster/idol-info.json
-        cp ./story-tree.json repoMaster/story-tree.json
+    # - name: copy
+    #   run: |
+    #     cp ./idol-info.json repoMaster/idol-info.json
+    #     cp ./story-tree.json repoMaster/story-tree.json
     - name: push changes
       uses: actions-go/push@master
       with:
