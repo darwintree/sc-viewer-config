@@ -1,0 +1,14 @@
+name: Update
+on: push
+
+jobs:
+  index:
+    name: 
+    runs-on: ubuntu-latest
+    steps:
+    - name: Print a greeting
+      env:
+        IDOL_INFO_URL: https://raw.githubusercontent.com/biuuu/shiny-image/master/idol-info.json
+        TRANSLATION_REPO: https://github.com/ShinyGroup/SCTranslationData.git
+      run: |
+        echo $IDOL_INFO_URL $TRANSLATION_REPO
