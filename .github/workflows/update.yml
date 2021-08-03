@@ -6,6 +6,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+      with:
+        ref: main
+        path: repoMaster
     - name: checkout translation repo
       env:
         IDOL_INFO_URL: https://raw.githubusercontent.com/biuuu/shiny-image/master/idol-info.json
@@ -16,3 +19,16 @@ jobs:
     - name: list checkout
       run: |
         ls SCTranslationData/
+    - name: get story tree
+      run: |
+        python scripts/getTree.py
+    - name: list dir
+      run: |
+        ls
+    - name: copy and commit
+      run: |
+        cp ./story_tree.json repoMaster/story_tree.json
+        cd repoMaster
+        git add .
+        git commit -m "update story tree"
+        git push origin main
