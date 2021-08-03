@@ -9,16 +9,14 @@ jobs:
       with:
         ref: main
         path: repoMaster
-    - name: checkout translation repo
+    - name: fetch resource translation repo
       env:
         IDOL_INFO_URL: https://raw.githubusercontent.com/biuuu/shiny-image/master/idol-info.json
         TRANSLATION_REPO: https://github.com/ShinyGroup/SCTranslationData.git
       run: |
         git clone $TRANSLATION_REPO
+        wget $IDOL_INFO_URL
     
-    - name: list checkout
-      run: |
-        ls SCTranslationData/
     - name: get story tree
       run: |
         python repoMaster/scripts/getTree.py
@@ -27,7 +25,8 @@ jobs:
         ls
     - name: copy and commit
       run: |
-        cp ./story_tree.json repoMaster/story_tree.json
+        cp ./idol-info.json repoMaster/idol-info.json
+        cp ./story-tree.json repoMaster/story-tree.json
         git config --global user.email "daerwendeshu@outlook.com"
         git config --global user.name "七草葉月"
         cd repoMaster
