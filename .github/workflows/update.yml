@@ -3,9 +3,9 @@ on: push
 
 jobs:
   index:
-    name: 
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v2
     - name: checkout translation repo
       env:
         IDOL_INFO_URL: https://raw.githubusercontent.com/biuuu/shiny-image/master/idol-info.json
