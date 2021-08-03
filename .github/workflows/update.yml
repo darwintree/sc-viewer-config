@@ -22,10 +22,26 @@ jobs:
     - name: Generate story tree
       run: |
         python scripts/getTree.py
-    - name: Push changes
-      uses: actions-go/push@master
-      with:
-        author-email: 17946284+darwintree@users.noreply.github.com
-        author-name: "七草葉月"
-        commit-message: 'Update sc-viewer config'
-        remote: origin
+    # - name: Push changes
+    #   uses: actions-go/push@master
+    #   with:
+    #     author-email: 17946284+darwintree@users.noreply.github.com
+    #     author-name: "七草葉月"
+    #     commit-message: 'Update sc-viewer config'
+    #     remote: origin
+    - name: Check if there are changes
+      id: changes
+      uses: UnicornGlobal/has-changes-action@v1.0.11
+    # You can now access a variable indicating if there have been changes
+    - name: Process changes
+      if: steps.changes.outputs.changed == 1
+      # run: echo "Changes exist"
+    # - name: add and commit if changes
+    #   if: steps.check-changes.outputs.changed == 1
+      run: |
+        git config --global user.email "17946284+darwintree@users.noreply.github.com"
+        git config --global user.name "七草葉月"
+        cd repoMaster
+        git add .
+        git commit -m "Update config json"
+        git push origin main
