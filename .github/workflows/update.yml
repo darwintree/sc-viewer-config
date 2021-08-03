@@ -5,13 +5,13 @@ on:
     - cron: '30 9,21 * * *'
 
 jobs:
-  index:
+  index translation data and idol info:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
       with:
         ref: main
-    - name: fetch resource translation repo
+    - name: Fetch resource
       env:
         IDOL_INFO_URL: https://raw.githubusercontent.com/biuuu/shiny-image/master/idol-info.json
         TRANSLATION_REPO: https://github.com/ShinyGroup/SCTranslationData.git
@@ -19,29 +19,13 @@ jobs:
         git clone $TRANSLATION_REPO
         wget $IDOL_INFO_URL -O idol-info.json
     
-    - name: get story tree
+    - name: Generate story tree
       run: |
         python scripts/getTree.py
-    - name: list dir
-      run: |
-        ls
-    # - name: copy
-    #   run: |
-    #     cp ./idol-info.json repoMaster/idol-info.json
-    #     cp ./story-tree.json repoMaster/story-tree.json
-    - name: push changes
+    - name: Push changes
       uses: actions-go/push@master
       with:
         author-email: 17946284+darwintree@users.noreply.github.com
         author-name: "七草葉月"
         commit-message: 'Update sc-viewer config'
         remote: origin
-    # - name: add and commit if changes
-    #   if: steps.check-changes.outputs.changed == 1
-    #   run: |
-    #     git config --global user.email "17946284+darwintree@users.noreply.github.com"
-    #     git config --global user.name "七草葉月"
-    #     cd repoMaster
-    #     git add .
-    #     git commit -m "update story tree"
-    #     git push origin main
