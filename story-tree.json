@@ -5113,6 +5113,32 @@
       "type":"directory",
       "children":[
         {
+          "name":"【淡雪の戯れ】風野灯織",
+          "type":"directory",
+          "children":[
+            {
+              "name":"『楽しむ』ということ.csv",
+              "type":"file"
+            },
+            {
+              "name":"心のアルバムの隣に.csv",
+              "type":"file"
+            },
+            {
+              "name":"ご褒美はリポートの後で.csv",
+              "type":"file"
+            },
+            {
+              "name":"備えあれば……？.csv",
+              "type":"file"
+            },
+            {
+              "name":"無邪気な結晶.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"誕生日",
           "type":"directory",
           "children":[
