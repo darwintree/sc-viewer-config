@@ -13,4 +13,4 @@ def path_to_dict(path):
     return d
 
 with open("./story-tree.json","w", encoding="utf8") as f:
-    json.dump(path_to_dict('./SCTranslationData/data/story'),f,ensure_ascii=False)
+    json.dump(path_to_dict('./SCTranslationData/data/story'),f,ensure_ascii=False,indent=2,separators=(',',':'))
