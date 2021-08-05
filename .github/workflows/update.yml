@@ -17,11 +17,16 @@ jobs:
         TRANSLATION_REPO: https://github.com/ShinyGroup/SCTranslationData.git
       run: |
         git clone $TRANSLATION_REPO
+        cd idol
         wget $IDOL_INFO_URL -O idol-info.json
+        cd ..
     
-    - name: Generate story tree
+    - name: Process story tree
       run: |
         python scripts/getTree.py
+    - name: Process idol info
+      run: |
+        python scripts/processIdolInfo.py
     - name: Check if there are changes
       id: changes
       uses: UnicornGlobal/has-changes-action@v1.0.11
