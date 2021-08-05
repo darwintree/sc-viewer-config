@@ -14,11 +14,13 @@ jobs:
     - name: Fetch resource
       env:
         IDOL_INFO_URL: https://raw.githubusercontent.com/biuuu/shiny-image/master/idol-info.json
+        ICON_URL: https://raw.githubusercontent.com/biuuu/shiny-image/master/icon-info.json
         TRANSLATION_REPO: https://github.com/ShinyGroup/SCTranslationData.git
       run: |
         git clone $TRANSLATION_REPO
         cd idol
         wget $IDOL_INFO_URL -O idol-info.json
+        wget $ICON_URL -O icon-info.json
         cd ..
     
     - name: Process story tree

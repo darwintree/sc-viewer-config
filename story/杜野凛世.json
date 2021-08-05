@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
   "list":[
     "【百色ふぉとぐらふ】杜野凛世",
@@ -183,4 +184,191 @@
       "morning①.csv"
     ]
   }
+=======
+{
+  "list":[
+    "G.R.A.D.編",
+    "Morning",
+    "W.I.N.G.編",
+    "【ふらここのうた】杜野凛世",
+    "【われにかへれ】杜野凛世",
+    "【をとめ大学】杜野凛世",
+    "【ロー・ポジション】杜野凛世",
+    "【凛世花伝】杜野凛世",
+    "【凛凛、凛世】杜野凛世",
+    "【十二月短篇】杜野凛世",
+    "【夜明けの晩に】杜野凛世",
+    "【常夏CLIMAX】杜野凛世",
+    "【微熱風鈴】杜野凛世",
+    "【想ひいろは】杜野凛世",
+    "【日を食んで、夜を啜って】杜野凛世",
+    "【杜野凛世の印象派】杜野凛世",
+    "【水色感情】杜野凛世",
+    "【百色ふぉとぐらふ】杜野凛世",
+    "【祝唄-hogiuta-】杜野凛世",
+    "【階段式純情昇降機】杜野凛世",
+    "约定",
+    "节日剧情"
+  ],
+  "details":{
+    "G.R.A.D.編":[
+      "G.R.A.D.敗退コミュ①.csv",
+      "G.R.A.D.敗退コミュ②前.csv",
+      "G.R.A.D.敗退コミュ②後.csv",
+      "he.csv",
+      "she _ she.csv",
+      "she.csv",
+      "『あ』のない少女.csv",
+      "いたかった.csv",
+      "ほんよみ.csv"
+    ],
+    "Morning":[
+      "morning①.csv",
+      "morning②.csv",
+      "morning③.csv",
+      "morning④.csv",
+      "morning⑤.csv",
+      "morning⑥.csv",
+      "morning⑦.csv",
+      "morning⑧.csv",
+      "morning⑨.csv",
+      "morning⑩.csv",
+      "morning⑪.csv",
+      "morning⑫.csv",
+      "morning⑬.csv",
+      "morning⑭.csv",
+      "morning⑮.csv"
+    ],
+    "W.I.N.G.編":[
+      "produce_events_101200002.csv",
+      "アイドル優等生.csv",
+      "世界.csv",
+      "决赛前剧情.csv",
+      "决赛后剧情.csv",
+      "半决赛前剧情.csv",
+      "半决赛后剧情.csv",
+      "揺れる瞳.csv",
+      "淘汰剧情.csv",
+      "漕ぎいでな.csv",
+      "見えない心.csv",
+      "見つめる先に.csv",
+      "试镜前①.csv",
+      "试镜前②.csv",
+      "试镜前③.csv",
+      "试镜前④.csv",
+      "试镜后 失败①.csv",
+      "试镜后 失败②.csv",
+      "试镜后 胜利①.csv",
+      "试镜后 胜利②.csv",
+      "運命の出会い.csv"
+    ],
+    "【ふらここのうた】杜野凛世":[
+      "はちぶく.csv",
+      "ふらここ.csv"
+    ],
+    "【われにかへれ】杜野凛世":[
+      "こもれ　日.csv",
+      "むらさき.csv",
+      "われにかへる.csv",
+      "夏雲だけを覚えてゐる.csv",
+      "月があたらしい.csv"
+    ],
+    "【をとめ大学】杜野凛世":[
+      "友にをかしからざるものなし.csv",
+      "恋にやすらかなるものなし.csv"
+    ],
+    "【ロー・ポジション】杜野凛世":[
+      "春雪.csv",
+      "木に花咲き.csv",
+      "濡れて参ろう.csv",
+      "知らぬ顔.csv",
+      "芽ぐむ頃.csv"
+    ],
+    "【凛世花伝】杜野凛世":[
+      "くもらす -kumorasu-.csv",
+      "こひめ -kohime-.csv",
+      "しゅら -syura-.csv",
+      "ひためん -hitamen-.csv",
+      "序破急 -jo ha kyu-.csv"
+    ],
+    "【凛凛、凛世】杜野凛世":[
+      "これからのふたり.csv",
+      "想いぬれど.csv",
+      "雨宿り.csv"
+    ],
+    "【十二月短篇】杜野凛世":[
+      "夜、と呼べばはいと言ふ.csv",
+      "歳末些事.csv",
+      "紅の踊り子の主題・変.csv",
+      "紅の踊り子の主題・序.csv",
+      "紅の踊り子の主題・跋.csv"
+    ],
+    "【夜明けの晩に】杜野凛世":[
+      "ウシロノショウメン.csv",
+      "ソラマメ.csv",
+      "ミライ.csv"
+    ],
+    "【常夏CLIMAX】杜野凛世":[
+      "だんだん空色が濃くなるガールズ.csv",
+      "夕陽が沈む瞬間を見逃すガールズ.csv",
+      "沖もいいけど磯もいいねガールズ.csv"
+    ],
+    "【微熱風鈴】杜野凛世":[
+      "とことはに.csv",
+      "みをつくし.csv",
+      "出来心.csv"
+    ],
+    "【想ひいろは】杜野凛世":[
+      "これからのふたり.csv",
+      "想いぬれど.csv",
+      "雨宿り.csv"
+    ],
+    "【日を食んで、夜を啜って】杜野凛世":[
+      "お宝でございます.csv",
+      "そういう場所でございます.csv",
+      "メンマでございます.csv"
+    ],
+    "【杜野凛世の印象派】杜野凛世":[
+      "drawing1（きみがそら）.csv"
+    ],
+    "【水色感情】杜野凛世":[
+      "A1.君とabc（R.Morino）.csv",
+      "A2.恋は何色（R.Morino）.csv",
+      "B1.マドリガル（R.Morino）.csv",
+      "B2.人の気も知らないで（Isnt）.csv",
+      "R&P.csv"
+    ],
+    "【百色ふぉとぐらふ】杜野凛世":[
+      "夕さりて.csv",
+      "夜もすがら.csv",
+      "朝ぼらけ.csv"
+    ],
+    "【祝唄-hogiuta-】杜野凛世":[
+      "しょきしょき.csv",
+      "とんぱらん.csv",
+      "ぱちぱちぱち.csv"
+    ],
+    "【階段式純情昇降機】杜野凛世":[
+      "チョコレートソースの夜.csv",
+      "某日、入り前.csv"
+    ],
+    "约定":[
+      "produce_communications_promises_20120010011.csv",
+      "produce_communications_promises_20120010013.csv",
+      "produce_communications_promises_20120010021.csv",
+      "produce_communications_promises_20120010022.csv",
+      "produce_communication_promise_results_201200100112.csv",
+      "produce_communication_promise_results_201200100131.csv",
+      "produce_communication_promise_results_201200100211.csv",
+      "produce_communication_promise_results_201200100221.csv"
+    ],
+    "节日剧情":[
+      "【杜野 凛世】2021バレンタインデー.csv",
+      "【杜野 凛世】2021バレンタイン準備.csv",
+      "凛世へのプレゼント・チョコレート (1).csv",
+      "凛世へのプレゼント・食事.csv",
+      "凛世へのプレゼント・食事＋♥.csv"
+    ]
+  }
+>>>>>>> Stashed changes
 }

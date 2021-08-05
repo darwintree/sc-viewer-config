@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
   "list":[
     "【はるかぜまち、1番地】桑山千雪",
@@ -90,4 +91,98 @@
       "Morning⑪.csv"
     ]
   }
+=======
+{
+  "list":[
+    "Morning",
+    "W.I.N.G.編",
+    "【RELAXIN】桑山千雪",
+    "【こころに恋】桑山千雪",
+    "【はるかぜまち、1番地】桑山千雪",
+    "【よそゆき顔のセレナーデ】桑山千雪",
+    "【サマーハニー・シーズン】桑山千雪",
+    "【シークレット・ヒロイン】桑山千雪",
+    "【マイ・ピュア・ロマンス】桑山千雪",
+    "【２８３プロのヒナ】桑山千雪",
+    "约定"
+  ],
+  "details":{
+    "Morning":[
+      "Morning①.csv",
+      "Morning②.csv",
+      "Morning③.csv",
+      "Morning④.csv",
+      "Morning⑤.csv",
+      "Morning⑥.csv",
+      "Morning⑦.csv",
+      "Morning⑧.csv",
+      "Morning⑨.csv",
+      "Morning⑩.csv",
+      "Morning⑪.csv",
+      "Morning⑫.csv",
+      "Morning⑬.csv",
+      "Morning⑭.csv",
+      "Morning⑮.csv"
+    ],
+    "W.I.N.G.編":[
+      "produce_events_101600002.csv",
+      "これからのこと.csv",
+      "そして私は.csv",
+      "やりたいこと、全部.csv",
+      "優しいひと.csv",
+      "千雪の決意.csv",
+      "新人のお仕事.csv"
+    ],
+    "【RELAXIN】桑山千雪":[
+      "桑山ハウスに冬がきました.csv",
+      "衝動的お鍋.csv"
+    ],
+    "【こころに恋】桑山千雪":[
+      "『変わりたい』のRecipe.csv",
+      "恋・アレンジ.csv"
+    ],
+    "【はるかぜまち、1番地】桑山千雪":[
+      "お返事なんてそんな.csv",
+      "ビッグマウス×２.csv",
+      "春なんだなぁ.csv",
+      "走り出したいの、３月.csv",
+      "（筆談）.csv"
+    ],
+    "【よそゆき顔のセレナーデ】桑山千雪":[
+      "ピ一ス・オブ・ショートケイケ.csv",
+      "乾杯・小夜曲.csv"
+    ],
+    "【サマーハニー・シーズン】桑山千雪":[
+      "I say.csv",
+      "What should I say_.csv",
+      "もしも夕日が綺麗だったら.csv",
+      "コ・コ・ロ・グラデーション.csv",
+      "思い出の色.csv"
+    ],
+    "【シークレット・ヒロイン】桑山千雪":[
+      "a little thing.csv",
+      "いつかの憧れから連れ出して.csv",
+      "シークレット・ガーデン.csv",
+      "ピリリ・15センチメンタル.csv",
+      "金曜日には幸せの花を.csv"
+    ],
+    "【マイ・ピュア・ロマンス】桑山千雪":[
+      "15 minutes＼two of us.csv",
+      "そっと きっと…….csv",
+      "たとえば花の名前を知るように.csv",
+      "ロマンチック・ジャーニー.csv",
+      "雨降りア・ラ・モード.csv"
+    ],
+    "【２８３プロのヒナ】桑山千雪":[
+      "スウィート・スマイリー.csv",
+      "スウィート・スリーピー.csv"
+    ],
+    "约定":[
+      "produce_communications_promises_20160010011.csv",
+      "produce_communications_promises_20160010012.csv",
+      "produce_communication_promise_results_201600100112.csv",
+      "produce_communication_promise_results_201600100122.csv"
+    ]
+  }
+>>>>>>> Stashed changes
 }
