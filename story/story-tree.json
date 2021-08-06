@@ -4557,6 +4557,16 @@
       "type":"directory",
       "children":[
         {
+          "name":"【ONSTAGE？】黛冬優子",
+          "type":"directory",
+          "children":[
+            {
+              "name":"Date：0？.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【アンシーン・ダブルキャスト】黛冬優子",
           "type":"directory",
           "children":[
