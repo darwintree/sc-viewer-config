@@ -1,5 +1,6 @@
 {
   "list":[
+    "【FEEL】緋田美琴",
     "约定",
     "【A】緋田美琴",
     "W.I.N.G.編",
@@ -9,6 +10,10 @@
     "Morning"
   ],
   "details":{
+    "【FEEL】緋田美琴":[
+      "dizzy.csv",
+      "pain.csv"
+    ],
     "约定":[
       "produce_communications_promises_20250010011.csv",
       "produce_communication_promise_results_202500100112.csv",
