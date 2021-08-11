@@ -9427,6 +9427,32 @@
           ]
         },
         {
+          "name":"【♡コメディ】三峰結華",
+          "type":"directory",
+          "children":[
+            {
+              "name":"走れば済むなら頑張りたいから.csv",
+              "type":"file"
+            },
+            {
+              "name":"うらがえし.csv",
+              "type":"file"
+            },
+            {
+              "name":"交わる一方通行.csv",
+              "type":"file"
+            },
+            {
+              "name":"ふたりだけの合図は、まだ.csv",
+              "type":"file"
+            },
+            {
+              "name":"だから耳元で囁いたの.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【く ら く ら】三峰結華",
           "type":"directory",
           "children":[
@@ -11007,6 +11033,72 @@
       "type":"directory",
       "children":[
         {
+          "name":"【3名様極楽旅行記】西城樹里",
+          "type":"directory",
+          "children":[
+            {
+              "name":"幸福、それは湯煙に巻かれて…….csv",
+              "type":"file"
+            },
+            {
+              "name":"ありったけの土産に気持ち込めて.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【ラムネ色の覚悟】西城樹里",
+          "type":"directory",
+          "children":[
+            {
+              "name":"不機嫌なサマーラムネ.csv",
+              "type":"file"
+            },
+            {
+              "name":"痛みの残り香.csv",
+              "type":"file"
+            },
+            {
+              "name":"アイドル・スマイル～樹里の場合.csv",
+              "type":"file"
+            },
+            {
+              "name":"You're my dream.csv",
+              "type":"file"
+            },
+            {
+              "name":"カフェ・コンフュージョン.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【秋陽のスケッチ】西城樹里",
+          "type":"directory",
+          "children":[
+            {
+              "name":"いってきます.csv",
+              "type":"file"
+            },
+            {
+              "name":"シャープ・ハッシュタグ.csv",
+              "type":"file"
+            },
+            {
+              "name":"帰る場所.csv",
+              "type":"file"
+            },
+            {
+              "name":"Can you hear me_.csv",
+              "type":"file"
+            },
+            {
+              "name":"スイート・レポート～樹里の場合.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【坂道だらけのこの街で】西城樹里",
           "type":"directory",
           "children":[
@@ -11069,7 +11161,19 @@
               "type":"file"
             },
             {
-              "name":"a",
+              "name":"ドリーム・ゲーム～樹里の場合.csv",
+              "type":"file"
+            },
+            {
+              "name":"オマモリ・オモイヤリ.csv",
+              "type":"file"
+            },
+            {
+              "name":"レシピ・デ・オセチ.csv",
+              "type":"file"
+            },
+            {
+              "name":"真心Letters.csv",
               "type":"file"
             }
           ]
@@ -11136,20 +11240,6 @@
             },
             {
               "name":"【西城 樹里】2021バレンタインデー.csv",
-              "type":"file"
-            }
-          ]
-        },
-        {
-          "name":"【3名様極楽旅行記】西城树里",
-          "type":"directory",
-          "children":[
-            {
-              "name":"幸福、それは湯煙に巻かれて…….csv",
-              "type":"file"
-            },
-            {
-              "name":"ありったけの土産に気持ち込めて.csv",
               "type":"file"
             }
           ]
