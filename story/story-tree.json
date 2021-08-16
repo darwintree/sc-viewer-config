@@ -6315,6 +6315,32 @@
           ]
         },
         {
+          "name":"【紺碧のボーダーライン】白瀬咲耶",
+          "type":"directory",
+          "children":[
+            {
+              "name":"ふたりで超える境界線.csv",
+              "type":"file"
+            },
+            {
+              "name":"宝箱の鍵は、いつかアナタが.csv",
+              "type":"file"
+            },
+            {
+              "name":"コーヒーブレイク・甘さ控えめ.csv",
+              "type":"file"
+            },
+            {
+              "name":"スクールライフ・満喫中.csv",
+              "type":"file"
+            },
+            {
+              "name":"ひとりぼっちの21時.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"W.I.N.G.編",
           "type":"directory",
           "children":[
