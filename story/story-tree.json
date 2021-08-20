@@ -10991,6 +10991,24 @@
           ]
         },
         {
+          "name":"【一億回めくらいの、その夏】七草にちか",
+          "type":"directory",
+          "children":[
+            {
+              "name":"まだ終わらないので.csv",
+              "type":"file"
+            },
+            {
+              "name":"赤いやつほんとマジ.csv",
+              "type":"file"
+            },
+            {
+              "name":"うーわ.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"MORNING",
           "type":"directory",
           "children":[

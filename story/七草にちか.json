@@ -7,6 +7,7 @@
     "【２８３プロのヒナ】七草にちか",
     "【♡まっクろはムウサぎ♡】七草にちか",
     "试镜",
+    "【一億回めくらいの、その夏】七草にちか",
     "MORNING"
   ],
   "details":{
@@ -97,6 +98,11 @@
       "produce_communication_televisions_602400100011.csv",
       "produce_communication_cheers_402400100011.csv",
       "produce_communication_cheers_402400100012.csv"
+    ],
+    "【一億回めくらいの、その夏】七草にちか":[
+      "まだ終わらないので.csv",
+      "赤いやつほんとマジ.csv",
+      "うーわ.csv"
     ],
     "MORNING":[
       "produce_communications_102400100061.csv",
