@@ -981,6 +981,20 @@
           ]
         },
         {
+          "name":"誕生日",
+          "type":"directory",
+          "children":[
+            {
+              "name":"【八宮 めぐる】 誕生日ミニコミュ②.csv",
+              "type":"file"
+            },
+            {
+              "name":"【八宮 めぐる】 誕生日ミニコミュ①.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【日々を紡ぐインヴェルノ】八宮めぐる",
           "type":"directory",
           "children":[
@@ -1187,10 +1201,6 @@
               "type":"file"
             },
             {
-              "name":"【八宮 めぐる】 誕生日ミニコミュ②.csv",
-              "type":"file"
-            },
-            {
               "name":"【’20Xmas】モバイルバッテリー.csv",
               "type":"file"
             },
@@ -1232,10 +1242,6 @@
             },
             {
               "name":"【’19Xmas】はちみつアソートセット.csv",
-              "type":"file"
-            },
-            {
-              "name":"【八宮 めぐる】 誕生日ミニコミュ①.csv",
               "type":"file"
             },
             {
