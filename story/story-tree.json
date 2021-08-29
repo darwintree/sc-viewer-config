@@ -4713,7 +4713,19 @@
           "type":"directory",
           "children":[
             {
+              "name":"真実の猫.csv",
+              "type":"file"
+            },
+            {
+              "name":"だって思い浮かんじゃったから.csv",
+              "type":"file"
+            },
+            {
               "name":"Date：0？.csv",
+              "type":"file"
+            },
+            {
+              "name":"Date：1.csv",
               "type":"file"
             }
           ]
@@ -7928,6 +7940,20 @@
             },
             {
               "name":"【和泉 愛依】 誕生日ミニコミュ②.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【てへっ♪】和泉愛依",
+          "type":"directory",
+          "children":[
+            {
+              "name":"今のうち？.csv",
+              "type":"file"
+            },
+            {
+              "name":"レシーブっ！.csv",
               "type":"file"
             }
           ]
