@@ -8255,6 +8255,20 @@
           ]
         },
         {
+          "name":"【２８３プロのヒナ】和泉愛依",
+          "type":"directory",
+          "children":[
+            {
+              "name":"カンタンに楽しも～.csv",
+              "type":"file"
+            },
+            {
+              "name":"マジリスペクト.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【和泉流・書道心得】和泉愛依",
           "type":"directory",
           "children":[
