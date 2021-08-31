@@ -7909,6 +7909,32 @@
       "type":"directory",
       "children":[
         {
+          "name":"【今のうちは走らない】和泉愛依",
+          "type":"directory",
+          "children":[
+            {
+              "name":"こぼれ話、ですわよ♪.csv",
+              "type":"file"
+            },
+            {
+              "name":"お嬢様は期間限定.csv",
+              "type":"file"
+            },
+            {
+              "name":"『お手を取ってくださいまし』.csv",
+              "type":"file"
+            },
+            {
+              "name":"『窓のお外は？』.csv",
+              "type":"file"
+            },
+            {
+              "name":"窓が深いって何！？.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【うち来る～！？】和泉愛依",
           "type":"directory",
           "children":[
