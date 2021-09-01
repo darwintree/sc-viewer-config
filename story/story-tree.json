@@ -4079,6 +4079,32 @@
           ]
         },
         {
+          "name":"【ピトス・エルピス】樋口円香",
+          "type":"directory",
+          "children":[
+            {
+              "name":"kara su.csv",
+              "type":"file"
+            },
+            {
+              "name":"hako.csv",
+              "type":"file"
+            },
+            {
+              "name":"gem.csv",
+              "type":"file"
+            },
+            {
+              "name":"uru uru.csv",
+              "type":"file"
+            },
+            {
+              "name":"hibi.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【閑話】樋口円香",
           "type":"directory",
           "children":[
