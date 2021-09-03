@@ -5091,6 +5091,44 @@
           ]
         },
         {
+          "name":"アイムベリーベリーソーリー",
+          "type":"directory",
+          "children":[
+            {
+              "name":"第6話-ゼア・グリーン・ヒムス.csv",
+              "type":"file"
+            },
+            {
+              "name":"オープニング-ふってきたんだ.csv",
+              "type":"file"
+            },
+            {
+              "name":"第4話-Crazy Sunday.csv",
+              "type":"file"
+            },
+            {
+              "name":"第2話-木イチゴのジャム.csv",
+              "type":"file"
+            },
+            {
+              "name":"エンディング-あい.csv",
+              "type":"file"
+            },
+            {
+              "name":"第5話-ぼくらが走る理由.csv",
+              "type":"file"
+            },
+            {
+              "name":"第3話-へんなお天気.csv",
+              "type":"file"
+            },
+            {
+              "name":"第1話-追憶.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"SUMMER PARYT 2019カウントダウンミニコミュ",
           "type":"directory",
           "children":[
