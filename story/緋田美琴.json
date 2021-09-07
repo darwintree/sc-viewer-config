@@ -3,6 +3,7 @@
     "W.I.N.G.編",
     "【RESONANCE】緋田美琴",
     "【FEEL】緋田美琴",
+    "誕生日",
     "约定",
     "【A】緋田美琴",
     "【ROUNDLY】緋田美琴",
@@ -54,6 +55,9 @@
     "【FEEL】緋田美琴":[
       "pain.csv",
       "dizzy.csv"
+    ],
+    "誕生日":[
+      "【緋田 美琴】 誕生日ミニコミュ①.csv"
     ],
     "约定":[
       "produce_communication_promise_results_202500100192.csv",

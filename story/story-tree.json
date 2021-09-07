@@ -789,6 +789,16 @@
           ]
         },
         {
+          "name":"誕生日",
+          "type":"directory",
+          "children":[
+            {
+              "name":"【緋田 美琴】 誕生日ミニコミュ①.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"约定",
           "type":"directory",
           "children":[
@@ -5738,6 +5748,44 @@
             },
             {
               "name":"オープニング.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"さざなみはいつも凡庸な音がする",
+          "type":"directory",
+          "children":[
+            {
+              "name":"第6話-結局.csv",
+              "type":"file"
+            },
+            {
+              "name":"オープニング-成長.csv",
+              "type":"file"
+            },
+            {
+              "name":"第1話-遠く遠くまで.csv",
+              "type":"file"
+            },
+            {
+              "name":"第4話-理解.csv",
+              "type":"file"
+            },
+            {
+              "name":"第5話-かんむり.csv",
+              "type":"file"
+            },
+            {
+              "name":"エンディング-凡庸な音たち.csv",
+              "type":"file"
+            },
+            {
+              "name":"第3話-立っているだけでも.csv",
+              "type":"file"
+            },
+            {
+              "name":"第2話-普通.csv",
               "type":"file"
             }
           ]
