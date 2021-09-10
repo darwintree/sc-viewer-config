@@ -8259,6 +8259,24 @@
           ]
         },
         {
+          "name":"【遊び疲れて……】風野灯織",
+          "type":"directory",
+          "children":[
+            {
+              "name":"精一杯楽しむために.csv",
+              "type":"file"
+            },
+            {
+              "name":"ひと時のおやすみ.csv",
+              "type":"file"
+            },
+            {
+              "name":"忍耐と結果と.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【黒百合前で待ち合わせ】風野灯織",
           "type":"directory",
           "children":[
