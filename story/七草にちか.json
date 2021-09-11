@@ -8,6 +8,7 @@
     "约定",
     "试镜",
     "MORNING",
+    "【間違いそうだ】七草にちか",
     "【ヴぇりべりいかシたサマー】七草にちか"
   ],
   "details":{
@@ -113,6 +114,11 @@
       "produce_communications_102400100061.csv",
       "produce_communications_102400100021.csv",
       "produce_communications_102400100141.csv"
+    ],
+    "【間違いそうだ】七草にちか":[
+      "10階.csv",
+      "足下に天井.csv",
+      "違うから.csv"
     ],
     "【ヴぇりべりいかシたサマー】七草にちか":[
       "かなりいい感じですね.csv",

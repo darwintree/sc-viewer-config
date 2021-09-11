@@ -1477,6 +1477,24 @@
           ]
         },
         {
+          "name":"【間違いそうだ】七草にちか",
+          "type":"directory",
+          "children":[
+            {
+              "name":"10階.csv",
+              "type":"file"
+            },
+            {
+              "name":"足下に天井.csv",
+              "type":"file"
+            },
+            {
+              "name":"違うから.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【ヴぇりべりいかシたサマー】七草にちか",
           "type":"directory",
           "children":[
@@ -3676,6 +3694,36 @@
             },
             {
               "name":"あなたのように.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"G.R.A.D.編",
+          "type":"directory",
+          "children":[
+            {
+              "name":"Identity.csv",
+              "type":"file"
+            },
+            {
+              "name":"Idle.csv",
+              "type":"file"
+            },
+            {
+              "name":"Ideal.csv",
+              "type":"file"
+            },
+            {
+              "name":"Ideally.csv",
+              "type":"file"
+            },
+            {
+              "name":"I do.csv",
+              "type":"file"
+            },
+            {
+              "name":"Id.csv",
               "type":"file"
             }
           ]
