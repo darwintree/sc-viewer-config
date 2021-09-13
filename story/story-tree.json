@@ -3035,6 +3035,20 @@
           ]
         },
         {
+          "name":"【夏、イエー】桑山千雪",
+          "type":"directory",
+          "children":[
+            {
+              "name":"冷麦、えいっ.csv",
+              "type":"file"
+            },
+            {
+              "name":"最高だぜー.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【こころに恋】桑山千雪",
           "type":"directory",
           "children":[
@@ -11081,7 +11095,15 @@
               "type":"file"
             },
             {
+              "name":"G.R.A.D.敗退コミュ②後.csv",
+              "type":"file"
+            },
+            {
               "name":"…….csv",
+              "type":"file"
+            },
+            {
+              "name":"G.R.A.D.敗退コミュ②前.csv",
               "type":"file"
             },
             {
@@ -11093,11 +11115,27 @@
               "type":"file"
             },
             {
+              "name":"TV出演後コミュ①.csv",
+              "type":"file"
+            },
+            {
+              "name":"敗者復活前コミュ.csv",
+              "type":"file"
+            },
+            {
+              "name":"予選後コミュ　敗北.csv",
+              "type":"file"
+            },
+            {
               "name":"競争っす.csv",
               "type":"file"
             },
             {
               "name":"出前っす.csv",
+              "type":"file"
+            },
+            {
+              "name":"TV出演後コミュ②.csv",
               "type":"file"
             },
             {
@@ -11114,6 +11152,14 @@
             },
             {
               "name":"すごい箱.csv",
+              "type":"file"
+            },
+            {
+              "name":"敗者復活後コミュ　勝利.csv",
+              "type":"file"
+            },
+            {
+              "name":"敗者復活後コミュ　敗北.csv",
               "type":"file"
             }
           ]
@@ -11725,6 +11771,10 @@
               "type":"file"
             },
             {
+              "name":"TV出演後コミュ①.csv",
+              "type":"file"
+            },
+            {
               "name":"オーディション後 敗北①.csv",
               "type":"file"
             },
@@ -11753,6 +11803,10 @@
               "type":"file"
             },
             {
+              "name":"TV出演後コミュ②.csv",
+              "type":"file"
+            },
+            {
               "name":"シーズン3（クリア）.csv",
               "type":"file"
             },
@@ -11765,7 +11819,15 @@
               "type":"file"
             },
             {
+              "name":"オーディション後 敗北②.csv",
+              "type":"file"
+            },
+            {
               "name":"オーディション前⑥.csv",
+              "type":"file"
+            },
+            {
+              "name":"オーディション前①.csv",
               "type":"file"
             },
             {
