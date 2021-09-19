@@ -5251,6 +5251,32 @@
           ]
         },
         {
+          "name":"【渦と淵】白瀬咲耶",
+          "type":"directory",
+          "children":[
+            {
+              "name":"等身大に触れる.csv",
+              "type":"file"
+            },
+            {
+              "name":"あたたかい色のつめたい波.csv",
+              "type":"file"
+            },
+            {
+              "name":"私を見て、私を知って.csv",
+              "type":"file"
+            },
+            {
+              "name":"すべての希望を反射する鏡.csv",
+              "type":"file"
+            },
+            {
+              "name":"未だ書きかけの物語.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"节日剧情",
           "type":"directory",
           "children":[
@@ -9540,6 +9566,56 @@
             },
             {
               "name":"イケメンって……？.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"Landing Point篇",
+          "type":"directory",
+          "children":[
+            {
+              "name":"うちにもある……？.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ2曲目前コミュ《個人》.csv",
+              "type":"file"
+            },
+            {
+              "name":"『ありがとう』『よろしく』.csv",
+              "type":"file"
+            },
+            {
+              "name":"これが、うちと、あたしの.csv",
+              "type":"file"
+            },
+            {
+              "name":"ハンパない！.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ後コミュ《個人》成功.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ1曲目前コミュ《個人》.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ後コミュ《個人》大成功.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ3曲目前コミュ《個人》.csv",
+              "type":"file"
+            },
+            {
+              "name":"見え……る……？.csv",
+              "type":"file"
+            },
+            {
+              "name":"考えたことないし～.csv",
               "type":"file"
             }
           ]
