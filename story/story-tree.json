@@ -1231,6 +1231,14 @@
               "type":"file"
             },
             {
+              "name":"無限に広がる未来への.csv",
+              "type":"file"
+            },
+            {
+              "name":"アイドルとして.csv",
+              "type":"file"
+            },
+            {
               "name":"決勝後コミュ.csv",
               "type":"file"
             },
@@ -1240,6 +1248,10 @@
             },
             {
               "name":"輝きはめまぐるしく.csv",
+              "type":"file"
+            },
+            {
+              "name":"後ろは振り向かない.csv",
               "type":"file"
             },
             {
@@ -1256,6 +1268,18 @@
             },
             {
               "name":"準決勝後コミュ.csv",
+              "type":"file"
+            },
+            {
+              "name":"たくさんの応援を力に変えて.csv",
+              "type":"file"
+            },
+            {
+              "name":"これがわたしだから.csv",
+              "type":"file"
+            },
+            {
+              "name":"大切、選べないから。.csv",
               "type":"file"
             },
             {
@@ -5295,10 +5319,6 @@
           ]
         },
         {
-          "name":"あたたかい色のつめたい波.csv",
-          "type":"file"
-        },
-        {
           "name":"【海と太陽のプロメッサ】白瀬咲耶",
           "type":"directory",
           "children":[
@@ -5467,10 +5487,6 @@
               "type":"file"
             }
           ]
-        },
-        {
-          "name":"すべての希望を反射する鏡.csv",
-          "type":"file"
         },
         {
           "name":"【指先の煌めき】白瀬咲耶",
@@ -9231,6 +9247,32 @@
           ]
         },
         {
+          "name":"【ハッピー・アイ・スクリーム】桑山千雪",
+          "type":"directory",
+          "children":[
+            {
+              "name":"テイク・オフ.csv",
+              "type":"file"
+            },
+            {
+              "name":"アイスクリーム（シングル）.csv",
+              "type":"file"
+            },
+            {
+              "name":"光射す方へ.csv",
+              "type":"file"
+            },
+            {
+              "name":"アイスクリーム（ダブル）.csv",
+              "type":"file"
+            },
+            {
+              "name":"あなたと紡ぐ物語.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"约定",
           "type":"directory",
           "children":[
@@ -10548,6 +10590,20 @@
             },
             {
               "name":"＠黛冬優子.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【馴染まないで非日常】黛冬優子",
+          "type":"directory",
+          "children":[
+            {
+              "name":"早くおいでよ羊さん.csv",
+              "type":"file"
+            },
+            {
+              "name":"お饅頭ひとつ分の時間.csv",
               "type":"file"
             }
           ]

@@ -1,6 +1,7 @@
 {
   "list":[
     "Morning",
+    "【ハッピー・アイ・スクリーム】桑山千雪",
     "约定",
     "【こころに恋】桑山千雪",
     "W.I.N.G.編",
@@ -30,6 +31,13 @@
       "Morning⑤.csv",
       "Morning⑨.csv",
       "Morning⑦.csv"
+    ],
+    "【ハッピー・アイ・スクリーム】桑山千雪":[
+      "テイク・オフ.csv",
+      "アイスクリーム（シングル）.csv",
+      "光射す方へ.csv",
+      "アイスクリーム（ダブル）.csv",
+      "あなたと紡ぐ物語.csv"
     ],
     "约定":[
       "produce_communication_promise_results_201600100112.csv",
