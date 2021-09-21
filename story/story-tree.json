@@ -5531,6 +5531,36 @@
       "type":"directory",
       "children":[
         {
+          "name":"Landing Point編",
+          "type":"directory",
+          "children":[
+            {
+              "name":"ありがと、それからいってきます.csv",
+              "type":"file"
+            },
+            {
+              "name":"私のstella.csv",
+              "type":"file"
+            },
+            {
+              "name":"チョコレートでも配るみたいに.csv",
+              "type":"file"
+            },
+            {
+              "name":"最初からおまじないだったよ.csv",
+              "type":"file"
+            },
+            {
+              "name":"どんなアイドルになりたい？.csv",
+              "type":"file"
+            },
+            {
+              "name":"彼女だけが知らない.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【プリティ・スイート】園田智代子",
           "type":"directory",
           "children":[
@@ -5623,7 +5653,7 @@
           ]
         },
         {
-          "name":"GRAD",
+          "name":"G.R.A.D.編",
           "type":"directory",
           "children":[
             {
@@ -5693,31 +5723,11 @@
           ]
         },
         {
-          "name":"Landing Point",
+          "name":"【砂糖づけ・ビターエンド】園田 智代子",
           "type":"directory",
           "children":[
             {
-              "name":"ありがと、それからいってきます.csv",
-              "type":"file"
-            },
-            {
-              "name":"私のstella.csv",
-              "type":"file"
-            },
-            {
-              "name":"チョコレートでも配るみたいに.csv",
-              "type":"file"
-            },
-            {
-              "name":"最初からおまじないだったよ.csv",
-              "type":"file"
-            },
-            {
-              "name":"どんなアイドルになりたい？.csv",
-              "type":"file"
-            },
-            {
-              "name":"彼女だけが知らない.csv",
+              "name":"息を合わせたらせーのでスタート.csv",
               "type":"file"
             }
           ]
