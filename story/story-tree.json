@@ -4063,6 +4063,24 @@
           ]
         },
         {
+          "name":"【ゴースト・サイド！】芹沢あさひ",
+          "type":"directory",
+          "children":[
+            {
+              "name":"第0.5話.csv",
+              "type":"file"
+            },
+            {
+              "name":"プリクエル.csv",
+              "type":"file"
+            },
+            {
+              "name":"第1.5話.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【はり はり】芹沢あさひ",
           "type":"directory",
           "children":[
