@@ -9301,6 +9301,32 @@
           ]
         },
         {
+          "name":"【秋空と紅葉】桑山千雪",
+          "type":"directory",
+          "children":[
+            {
+              "name":"染める.csv",
+              "type":"file"
+            },
+            {
+              "name":"構図.csv",
+              "type":"file"
+            },
+            {
+              "name":"紅葉ひとひら.csv",
+              "type":"file"
+            },
+            {
+              "name":"紅葉ひとかけ.csv",
+              "type":"file"
+            },
+            {
+              "name":"染まっちゃった.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"约定",
           "type":"directory",
           "children":[
