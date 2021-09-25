@@ -8921,6 +8921,24 @@
           ]
         },
         {
+          "name":"【奇・綺・甘・甘】幽谷霧子",
+          "type":"directory",
+          "children":[
+            {
+              "name":"姉さんたち.csv",
+              "type":"file"
+            },
+            {
+              "name":"チョコレートのにおいがする.csv",
+              "type":"file"
+            },
+            {
+              "name":"ずっと長い時間.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【天・天・白・布】幽谷霧子",
           "type":"directory",
           "children":[
