@@ -5507,6 +5507,50 @@
           ]
         },
         {
+          "name":"【あのねが言える場所】白瀬咲耶",
+          "type":"directory",
+          "children":[
+            {
+              "name":"３ねん　しらせさくや.csv",
+              "type":"file"
+            },
+            {
+              "name":"とりとめのない幸せ.csv",
+              "type":"file"
+            },
+            {
+              "name":"結果、人気の美容グッズでした.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【160・NaturalHeart】白瀬咲耶",
+          "type":"directory",
+          "children":[
+            {
+              "name":"36.2℃に触れて.csv",
+              "type":"file"
+            },
+            {
+              "name":"ひとつも漏らさず聞いていて.csv",
+              "type":"file"
+            },
+            {
+              "name":"モイライは斯く語りき.csv",
+              "type":"file"
+            },
+            {
+              "name":"カシャッ.csv",
+              "type":"file"
+            },
+            {
+              "name":"笑顔のためのエトセトラ.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【指先の煌めき】白瀬咲耶",
           "type":"directory",
           "children":[
