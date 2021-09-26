@@ -9429,6 +9429,14 @@
           "type":"directory",
           "children":[
             {
+              "name":"TV出演後コミュ②.csv",
+              "type":"file"
+            },
+            {
+              "name":"感謝してます.csv",
+              "type":"file"
+            },
+            {
               "name":"これからのこと.csv",
               "type":"file"
             },
@@ -9437,7 +9445,23 @@
               "type":"file"
             },
             {
+              "name":"TV出演後コミュ①.csv",
+              "type":"file"
+            },
+            {
               "name":"そして私は.csv",
+              "type":"file"
+            },
+            {
+              "name":"決勝後コミュ.csv",
+              "type":"file"
+            },
+            {
+              "name":"オーディション後 敗北①.csv",
+              "type":"file"
+            },
+            {
+              "name":"オーディション後 敗北②.csv",
               "type":"file"
             },
             {
@@ -9449,11 +9473,35 @@
               "type":"file"
             },
             {
+              "name":"準決勝後コミュ.csv",
+              "type":"file"
+            },
+            {
               "name":"produce_events_101600002.csv",
               "type":"file"
             },
             {
+              "name":"オーディション後 勝利②.csv",
+              "type":"file"
+            },
+            {
+              "name":"オーディション後 勝利①.csv",
+              "type":"file"
+            },
+            {
+              "name":"準決勝前コミュ.csv",
+              "type":"file"
+            },
+            {
+              "name":"敗退コミュ.csv",
+              "type":"file"
+            },
+            {
               "name":"やりたいこと、全部.csv",
+              "type":"file"
+            },
+            {
+              "name":"決勝前コミュ.csv",
               "type":"file"
             }
           ]
@@ -10244,6 +10292,36 @@
             },
             {
               "name":"塗ってやったわ！.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"Landing Point篇",
+          "type":"directory",
+          "children":[
+            {
+              "name":"ほら、取り零した.csv",
+              "type":"file"
+            },
+            {
+              "name":"真正面から見つめないで.csv",
+              "type":"file"
+            },
+            {
+              "name":"憧れ、開演.csv",
+              "type":"file"
+            },
+            {
+              "name":"飛ぶように過ぎる.csv",
+              "type":"file"
+            },
+            {
+              "name":"小指から侵食.csv",
+              "type":"file"
+            },
+            {
+              "name":"get back.csv",
               "type":"file"
             }
           ]
