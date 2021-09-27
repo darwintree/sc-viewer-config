@@ -5585,6 +5585,32 @@
               "type":"file"
             }
           ]
+        },
+        {
+          "name":"【幸福のリズム】白瀬咲耶",
+          "type":"directory",
+          "children":[
+            {
+              "name":"その道の先で待っている.csv",
+              "type":"file"
+            },
+            {
+              "name":"例えばそんなパラレル・ワールド.csv",
+              "type":"file"
+            },
+            {
+              "name":"平行線上のスタッカート.csv",
+              "type":"file"
+            },
+            {
+              "name":"……なんて、昔話.csv",
+              "type":"file"
+            },
+            {
+              "name":"例えばこんなパラレル・ワールド.csv",
+              "type":"file"
+            }
+          ]
         }
       ]
     },
@@ -5789,7 +5815,23 @@
           "type":"directory",
           "children":[
             {
+              "name":"残さず　たいらげます.csv",
+              "type":"file"
+            },
+            {
               "name":"息を合わせたらせーのでスタート.csv",
+              "type":"file"
+            },
+            {
+              "name":"踏み切る、足りない100％.csv",
+              "type":"file"
+            },
+            {
+              "name":"一番.csv",
+              "type":"file"
+            },
+            {
+              "name":"スポットライトが呼ぶ.csv",
               "type":"file"
             }
           ]
