@@ -10343,7 +10343,27 @@
           "type":"directory",
           "children":[
             {
+              "name":"ライブ2曲目前コミュ《個人》.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ後コミュ《個人》成功.csv",
+              "type":"file"
+            },
+            {
               "name":"ほら、取り零した.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ1曲目前コミュ《個人》.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ後コミュ《個人》大成功.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ3曲目前コミュ《個人》.csv",
               "type":"file"
             },
             {
