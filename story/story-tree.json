@@ -8193,6 +8193,24 @@
           ]
         },
         {
+          "name":"【つむぎ、まばゆく。星屑たち】櫻木真乃",
+          "type":"directory",
+          "children":[
+            {
+              "name":"いずれもまばゆい宝物.csv",
+              "type":"file"
+            },
+            {
+              "name":"今はとけても。いつかは.csv",
+              "type":"file"
+            },
+            {
+              "name":"両手に持てるだけの星屑.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【ソラを跳ね】櫻木真乃",
           "type":"directory",
           "children":[
