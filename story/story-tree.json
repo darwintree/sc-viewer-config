@@ -7901,6 +7901,24 @@
           ]
         },
         {
+          "name":"【永遠の方程式】風野灯織",
+          "type":"directory",
+          "children":[
+            {
+              "name":"⇔L4.csv",
+              "type":"file"
+            },
+            {
+              "name":"トライアングル（正）.csv",
+              "type":"file"
+            },
+            {
+              "name":"⇔L5.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【２８３プロのヒナ】風野灯織",
           "type":"directory",
           "children":[
