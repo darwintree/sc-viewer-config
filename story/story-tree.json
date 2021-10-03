@@ -3633,6 +3633,44 @@
           ]
         },
         {
+          "name":"密着！ハロウィンワールド24時",
+          "type":"directory",
+          "children":[
+            {
+              "name":"エンディング-終わりが来るなんて.csv",
+              "type":"file"
+            },
+            {
+              "name":"第4話-街中ライオット.csv",
+              "type":"file"
+            },
+            {
+              "name":"第3話-逃げてくださいっ.csv",
+              "type":"file"
+            },
+            {
+              "name":"第6話-救出大作戦☆守りたいのは、君.csv",
+              "type":"file"
+            },
+            {
+              "name":"オープニング-始まっていたなんて.csv",
+              "type":"file"
+            },
+            {
+              "name":"第1話-迷わないでベイビー.csv",
+              "type":"file"
+            },
+            {
+              "name":"第5話-ようこそ Human WORLD.csv",
+              "type":"file"
+            },
+            {
+              "name":"第2話-アノトキノ・キャンディ.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"くもりガラスの銀曜日",
           "type":"directory",
           "children":[
