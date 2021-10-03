@@ -5115,6 +5115,36 @@
           ]
         },
         {
+          "name":"G.R.A.D.編",
+          "type":"directory",
+          "children":[
+            {
+              "name":"she;sea.csv",
+              "type":"file"
+            },
+            {
+              "name":"A.H.I.csv",
+              "type":"file"
+            },
+            {
+              "name":"F_F.csv",
+              "type":"file"
+            },
+            {
+              "name":"NO!♡ing!.csv",
+              "type":"file"
+            },
+            {
+              "name":"IMyMeMine.csv",
+              "type":"file"
+            },
+            {
+              "name":"Mr.Right.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"W.I.N.G.編",
           "type":"directory",
           "children":[
@@ -9349,6 +9379,10 @@
       "type":"directory",
       "children":[
         {
+          "name":"【桑山 千雪】2021バレンタイン準備.csv",
+          "type":"file"
+        },
+        {
           "name":"Morning",
           "type":"directory",
           "children":[
@@ -9415,6 +9449,14 @@
           ]
         },
         {
+          "name":"【桑山 千雪】2020バレンタインデー.csv",
+          "type":"file"
+        },
+        {
+          "name":"【’19Xmas】レトルトの中華丼.csv",
+          "type":"file"
+        },
+        {
           "name":"【ハッピー・アイ・スクリーム】桑山千雪",
           "type":"directory",
           "children":[
@@ -9439,6 +9481,10 @@
               "type":"file"
             }
           ]
+        },
+        {
+          "name":"【’19Xmas】ハーバリウム.csv",
+          "type":"file"
         },
         {
           "name":"【秋空と紅葉】桑山千雪",
@@ -9487,6 +9533,14 @@
               "type":"file"
             }
           ]
+        },
+        {
+          "name":"【桑山 千雪】 誕生日ミニコミュ①.csv",
+          "type":"file"
+        },
+        {
+          "name":"千雪へのプレゼント・既製品チョコレート.csv",
+          "type":"file"
         },
         {
           "name":"【こころに恋】桑山千雪",
