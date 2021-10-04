@@ -4539,6 +4539,20 @@
       "type":"directory",
       "children":[
         {
+          "name":"【死神リポート】七草 にちか",
+          "type":"directory",
+          "children":[
+            {
+              "name":"▼経緯.csv",
+              "type":"file"
+            },
+            {
+              "name":"▼観察.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【♡まっクろはムウサぎ♡】七草にちか",
           "type":"directory",
           "children":[
@@ -7173,6 +7187,20 @@
           ]
         },
         {
+          "name":"【グッドラックボール】西城樹里",
+          "type":"directory",
+          "children":[
+            {
+              "name":"いちばん後ろに向かって打て.csv",
+              "type":"file"
+            },
+            {
+              "name":"アタシにできること.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【3名様極楽旅行記】西城樹里",
           "type":"directory",
           "children":[
@@ -9443,10 +9471,6 @@
       "type":"directory",
       "children":[
         {
-          "name":"【桑山 千雪】2021バレンタイン準備.csv",
-          "type":"file"
-        },
-        {
           "name":"Morning",
           "type":"directory",
           "children":[
@@ -9513,12 +9537,40 @@
           ]
         },
         {
-          "name":"【桑山 千雪】2020バレンタインデー.csv",
-          "type":"file"
+          "name":"节日剧情",
+          "type":"directory",
+          "children":[
+            {
+              "name":"【桑山 千雪】2021バレンタイン準備.csv",
+              "type":"file"
+            },
+            {
+              "name":"【桑山 千雪】2020バレンタインデー.csv",
+              "type":"file"
+            },
+            {
+              "name":"【’19Xmas】レトルトの中華丼.csv",
+              "type":"file"
+            },
+            {
+              "name":"【’19Xmas】ハーバリウム.csv",
+              "type":"file"
+            },
+            {
+              "name":"千雪へのプレゼント・既製品チョコレート.csv",
+              "type":"file"
+            }
+          ]
         },
         {
-          "name":"【’19Xmas】レトルトの中華丼.csv",
-          "type":"file"
+          "name":"誕生日",
+          "type":"directory",
+          "children":[
+            {
+              "name":"【桑山 千雪】 誕生日ミニコミュ①.csv",
+              "type":"file"
+            }
+          ]
         },
         {
           "name":"【ハッピー・アイ・スクリーム】桑山千雪",
@@ -9545,10 +9597,6 @@
               "type":"file"
             }
           ]
-        },
-        {
-          "name":"【’19Xmas】ハーバリウム.csv",
-          "type":"file"
         },
         {
           "name":"【秋空と紅葉】桑山千雪",
@@ -9597,14 +9645,6 @@
               "type":"file"
             }
           ]
-        },
-        {
-          "name":"【桑山 千雪】 誕生日ミニコミュ①.csv",
-          "type":"file"
-        },
-        {
-          "name":"千雪へのプレゼント・既製品チョコレート.csv",
-          "type":"file"
         },
         {
           "name":"【こころに恋】桑山千雪",
