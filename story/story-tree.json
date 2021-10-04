@@ -5307,6 +5307,32 @@
               "type":"file"
             }
           ]
+        },
+        {
+          "name":"【TRICK☆☆☆】市川雛菜",
+          "type":"directory",
+          "children":[
+            {
+              "name":"0CAL.csv",
+              "type":"file"
+            },
+            {
+              "name":"Perfect♡scream.csv",
+              "type":"file"
+            },
+            {
+              "name":"TREAT_MENT.csv",
+              "type":"file"
+            },
+            {
+              "name":"Fudge_.csv",
+              "type":"file"
+            },
+            {
+              "name":"choco_late_.csv",
+              "type":"file"
+            }
+          ]
         }
       ]
     },

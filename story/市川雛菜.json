@@ -7,7 +7,8 @@
     "ファン感謝祭編",
     "【#SS】市川雛菜",
     "G.R.A.D.編",
-    "W.I.N.G.編"
+    "W.I.N.G.編",
+    "【TRICK☆☆☆】市川雛菜"
   ],
   "details":{
     "【ROOKIE!】市川雛菜":[
@@ -94,6 +95,13 @@
       "produce_events_102300002.csv",
       "produce_events_602300106.csv",
       "produce_events_102300101.csv"
+    ],
+    "【TRICK☆☆☆】市川雛菜":[
+      "0CAL.csv",
+      "Perfect♡scream.csv",
+      "TREAT_MENT.csv",
+      "Fudge_.csv",
+      "choco_late_.csv"
     ]
   }
 }
