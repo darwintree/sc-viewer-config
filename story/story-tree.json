@@ -5445,6 +5445,32 @@
           ]
         },
         {
+          "name":"【乙女と交わすTrick】白瀬咲耶",
+          "type":"directory",
+          "children":[
+            {
+              "name":"コウモリが飛び交う.csv",
+              "type":"file"
+            },
+            {
+              "name":"乙女.csv",
+              "type":"file"
+            },
+            {
+              "name":"How do I look_.csv",
+              "type":"file"
+            },
+            {
+              "name":"ふと、目を細める.csv",
+              "type":"file"
+            },
+            {
+              "name":"It’s spooky!.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【海と太陽のプロメッサ】白瀬咲耶",
           "type":"directory",
           "children":[
