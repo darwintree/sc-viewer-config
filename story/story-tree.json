@@ -5603,6 +5603,24 @@
           ]
         },
         {
+          "name":"【SPACE WHAT？】西城樹里",
+          "type":"directory",
+          "children":[
+            {
+              "name":"『宇宙規模の感動！』.csv",
+              "type":"file"
+            },
+            {
+              "name":"『銀河級にスゴい！』.csv",
+              "type":"file"
+            },
+            {
+              "name":"CatchyMeme.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"Landing Point",
           "type":"directory",
           "children":[
@@ -6245,6 +6263,20 @@
           ]
         },
         {
+          "name":"【はれのひ喫茶店】福丸 小糸",
+          "type":"directory",
+          "children":[
+            {
+              "name":"遊泳コーヒーフロート.csv",
+              "type":"file"
+            },
+            {
+              "name":"空色クリームソーダ.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"ファン感謝祭編",
           "type":"directory",
           "children":[
@@ -6404,6 +6436,20 @@
             },
             {
               "name":"なんだそっか.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【傍白のあいだ】福丸 小糸",
+          "type":"directory",
+          "children":[
+            {
+              "name":"ここは４パーセント.csv",
+              "type":"file"
+            },
+            {
+              "name":"秋を燃やして.csv",
               "type":"file"
             }
           ]
