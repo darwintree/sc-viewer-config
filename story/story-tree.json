@@ -10289,6 +10289,32 @@
           ]
         },
         {
+          "name":"【フルスロットルエイジ！】小宮果穂",
+          "type":"directory",
+          "children":[
+            {
+              "name":"君と日々共に学び.csv",
+              "type":"file"
+            },
+            {
+              "name":"君の当然に含まれていて.csv",
+              "type":"file"
+            },
+            {
+              "name":"たわいないからこそ意味がある.csv",
+              "type":"file"
+            },
+            {
+              "name":"３、２、１で君を想い.csv",
+              "type":"file"
+            },
+            {
+              "name":"ふとした時に君に触れ.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【キャッチ・ザ・フォール！】小宮果穂",
           "type":"directory",
           "children":[
