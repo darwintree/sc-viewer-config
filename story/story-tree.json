@@ -5899,6 +5899,24 @@
           ]
         },
         {
+          "name":"【ばってん長崎恋岬】月岡恋鐘",
+          "type":"directory",
+          "children":[
+            {
+              "name":"うちんすごか腕前.csv",
+              "type":"file"
+            },
+            {
+              "name":"長崎よかとこ.csv",
+              "type":"file"
+            },
+            {
+              "name":"いつか帰る日.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【は～と♡に火をつけて】月岡恋鐘",
           "type":"directory",
           "children":[
