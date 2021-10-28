@@ -2153,6 +2153,20 @@
           ]
         },
         {
+          "name":"【夢追いランナバウト】有栖川夏葉",
+          "type":"directory",
+          "children":[
+            {
+              "name":"パッセンジャーマニュアル.csv",
+              "type":"file"
+            },
+            {
+              "name":"オートマチックドライブ.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【月刊CLIMAX】有栖川夏葉",
           "type":"directory",
           "children":[
@@ -4508,6 +4522,20 @@
             },
             {
               "name":"乙女.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【ふれあい、おもいあい】白瀬咲耶",
+          "type":"directory",
+          "children":[
+            {
+              "name":"rabbits.csv",
+              "type":"file"
+            },
+            {
+              "name":"『私の××な人』.csv",
               "type":"file"
             }
           ]
