@@ -3417,6 +3417,24 @@
           ]
         },
         {
+          "name":"【黄葉の冠】芹沢あさひ",
+          "type":"directory",
+          "children":[
+            {
+              "name":"わ、どうぞ！.csv",
+              "type":"file"
+            },
+            {
+              "name":"森のスタンプ.csv",
+              "type":"file"
+            },
+            {
+              "name":"わっか、みつけた！.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"G.R.A.D.編",
           "type":"directory",
           "children":[
