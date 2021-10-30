@@ -2559,11 +2559,23 @@
           "type":"directory",
           "children":[
             {
+              "name":"♡♡♡♡♡♡♡♡♡♡.csv",
+              "type":"file"
+            },
+            {
               "name":"Knight_.csv",
               "type":"file"
             },
             {
               "name":"A.＿＿＿＿＿＿＿＿＿＿.csv",
+              "type":"file"
+            },
+            {
+              "name":"Quenchless….csv",
+              "type":"file"
+            },
+            {
+              "name":"Just do it!.csv",
               "type":"file"
             }
           ]
@@ -5829,7 +5841,15 @@
           "type":"directory",
           "children":[
             {
+              "name":"今日は寄り道しないで.csv",
+              "type":"file"
+            },
+            {
               "name":"アタシたちは、こう.csv",
+              "type":"file"
+            },
+            {
+              "name":"色褪せるからキレイ.csv",
               "type":"file"
             }
           ]
