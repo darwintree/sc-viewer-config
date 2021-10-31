@@ -9,6 +9,7 @@
     "MORNING",
     "【２８３プロのヒナ】七草にちか",
     "约定",
+    "万圣节",
     "【♡まっクろはムウサぎ♡】七草にちか",
     "【一億回めくらいの、その夏】七草にちか"
   ],
@@ -119,6 +120,10 @@
       "produce_communication_promise_results_202400100331.csv",
       "produce_communication_promise_results_202400100111.csv",
       "produce_communication_promise_results_202400100211.csv"
+    ],
+    "万圣节":[
+      "mypage_communications_490102524.csv",
+      "mypage_communications_490101624.csv"
     ],
     "【♡まっクろはムウサぎ♡】七草にちか":[
       "家.csv",
