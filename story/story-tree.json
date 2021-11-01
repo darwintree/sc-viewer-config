@@ -6041,6 +6041,20 @@
           ]
         },
         {
+          "name":"【と～りゃんせ！】月岡恋鐘",
+          "type":"directory",
+          "children":[
+            {
+              "name":"止マレ～！.csv",
+              "type":"file"
+            },
+            {
+              "name":"ススメ～！.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【秋、どがんね～？】月岡恋鐘",
           "type":"directory",
           "children":[
