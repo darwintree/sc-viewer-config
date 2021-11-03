@@ -254,6 +254,14 @@
       "name":"【Sr×Ba×Cu=】有栖川夏葉",
       "rarity":4,
       "type":"s"
+    },
+    "2040130060":{
+      "card":"https://shinycolors.enza.fun/assets/4369214ec6872c7af9f5208d14920910ced4fffde1e8aa7d0a07b1fb78cec907?v=1",
+      "hash":"e6d058a2898e902576ee85bff5262dce",
+      "id":"2040130060",
+      "name":"【ビードロの翳】有栖川夏葉",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -352,6 +360,10 @@
     {
       "id":"2040130050",
       "name":"【Sr×Ba×Cu=】有栖川夏葉"
+    },
+    {
+      "id":"2040130060",
+      "name":"【ビードロの翳】有栖川夏葉"
     }
   ]
 }

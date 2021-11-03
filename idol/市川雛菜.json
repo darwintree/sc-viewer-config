@@ -63,6 +63,20 @@
       "road":false,
       "type":"p"
     },
+    "1040230030":{
+      "card":"https://shinycolors.enza.fun/assets/cd56ba1e61383b0e39edbe835bd7581fac030f18629beed7a046227ba108ae91?v=1",
+      "comment":"やは～♡\nいただきます～",
+      "fes_card":"https://shinycolors.enza.fun/assets/66f16568c25efc6d8a63e3741a04e91ccd503c0103ab3d5de2d474642a380b08?v=1",
+      "hash":"0b80dda027e41c989c10ff6fc6082a90",
+      "icon":"https://shinycolors.enza.fun/assets/bb6e251b49dd14bdf811b4ae7f68472e31e9d9b386138b63d75bae3a2a70c982?v=1",
+      "id":"1040230030",
+      "m_movie":"https://shinycolors.enza.fun/assets/d2d065bd065f77f0ece26e231b14fd9c12b6aab365429901d67d211cc9f32f04.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/9c42cefcf54981832f0b5171ed2dd91ea8d560fe89725dcdf0ccc200aca445b1.mp4?v=1",
+      "name":"【TRICK☆☆☆】市川雛菜",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930230010":{
       "card":"https://shinycolors.enza.fun/assets/e83e50e1b4ee7da4f4123167bdaf06f310c3017427075af35352d1606e709423?v=2",
       "fes_card":"https://shinycolors.enza.fun/assets/f6f99c3158343c028ff84ffed9e665f3c3c8141e878dc18ac15986d019bbafda?v=2",
@@ -110,6 +124,14 @@
       "name":"【ROOKIE!】市川雛菜",
       "rarity":4,
       "type":"s"
+    },
+    "2040230020":{
+      "card":"https://shinycolors.enza.fun/assets/6a0915b9bf55a28d0d48589c05cf7d48fa2aa50d42225694be2d6d028dd304f5?v=1",
+      "hash":"190d3973b19339c625744be5bef7448b",
+      "id":"2040230020",
+      "name":"【Re:BIRTH】市川雛菜",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -134,6 +156,10 @@
       "name":"【♡LOG】市川雛菜"
     },
     {
+      "id":"1040230030",
+      "name":"【TRICK☆☆☆】市川雛菜"
+    },
+    {
       "id":"1930230010",
       "name":"【白いツバサ】市川雛菜"
     },
@@ -152,6 +178,10 @@
     {
       "id":"2040230010",
       "name":"【ROOKIE!】市川雛菜"
+    },
+    {
+      "id":"2040230020",
+      "name":"【Re:BIRTH】市川雛菜"
     }
   ]
 }

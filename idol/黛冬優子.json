@@ -89,6 +89,20 @@
       "road":false,
       "type":"p"
     },
+    "1040180040":{
+      "card":"https://shinycolors.enza.fun/assets/4b7d2af39461db7298d99e10c03e19fd132c7666b58399d3ec72a4ab18a4552b?v=1",
+      "comment":"これって、デート……\nなんですよね……！",
+      "fes_card":"https://shinycolors.enza.fun/assets/6ad763da64d9b2fadc6060af1aec2e77d23321909cc8e45476c50c9f15ce43ac?v=1",
+      "hash":"35270fd2adabc72551e3b84cf384a6e3",
+      "icon":"https://shinycolors.enza.fun/assets/ab789c5a3a2c0e43358087cf988734a18f836a6b309f70a2e7ae8a13d7fa9724?v=1",
+      "id":"1040180040",
+      "m_movie":"https://shinycolors.enza.fun/assets/1fb4fc3d518b68b48c7eeeed92fb40b7e696daad3b5b982b40f89dbaa8ac0b0c.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/a5466cf80f2f13248dd9abb2c07f40ecde2cfdfca592e2a968c9d3e470af8399.mp4?v=1",
+      "name":"【ONSTAGE？】黛冬優子",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930180010":{
       "card":"https://shinycolors.enza.fun/assets/49a5ae60a54cf89a1be05ddbfecaf272e81d3f52052cae8eb42a49205b9bebd2?v=2",
       "fes_card":"https://shinycolors.enza.fun/assets/2ae8e9110b0ce017746beac286efd1f3d1d64bf2d5f5cb617dac945d21f18b39?v=2",
@@ -126,6 +140,14 @@
       "hash":"8cf1d89a11868a609e41febb62e28c1f",
       "id":"2030180010",
       "name":"【(ノージャンル)グラヴィティ】黛冬優子",
+      "rarity":3,
+      "type":"s"
+    },
+    "2030180020":{
+      "card":"https://shinycolors.enza.fun/assets/aeb06b9c545bf5a71c8d915d99ada45cdb23c9ca3d57f94de53c48c83cf33552?v=1",
+      "hash":"dfd5bb884588867a8e3f1983209834b7",
+      "id":"2030180020",
+      "name":"【馴染まないで非日常】黛冬優子",
       "rarity":3,
       "type":"s"
     },
@@ -168,6 +190,14 @@
       "name":"【One, Two...♡】黛冬優子",
       "rarity":4,
       "type":"s"
+    },
+    "2040180060":{
+      "card":"https://shinycolors.enza.fun/assets/b53d87985631bd3d7a51e02caccca15a688d1b085bf91376188f665c51c5abb3?v=1",
+      "hash":"0f27318add65f63c92ab774274b7608f",
+      "id":"2040180060",
+      "name":"【Wrong？】黛冬優子",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -200,6 +230,10 @@
       "name":"【starring F】黛冬優子"
     },
     {
+      "id":"1040180040",
+      "name":"【ONSTAGE？】黛冬優子"
+    },
+    {
       "id":"1930180010",
       "name":"【白いツバサ】黛冬優子"
     },
@@ -214,6 +248,10 @@
     {
       "id":"2030180010",
       "name":"【(ノージャンル)グラヴィティ】黛冬優子"
+    },
+    {
+      "id":"2030180020",
+      "name":"【馴染まないで非日常】黛冬優子"
     },
     {
       "id":"2040180010",
@@ -234,6 +272,10 @@
     {
       "id":"2040180050",
       "name":"【One, Two...♡】黛冬優子"
+    },
+    {
+      "id":"2040180060",
+      "name":"【Wrong？】黛冬優子"
     }
   ]
 }

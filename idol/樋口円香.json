@@ -51,6 +51,20 @@
       "road":false,
       "type":"p"
     },
+    "1040210030":{
+      "card":"https://shinycolors.enza.fun/assets/7d6c120919571140696ed0839c1eedfbfbe20c17a3aef59404aed95550878c32?v=1",
+      "comment":"心をえぐるものは",
+      "fes_card":"https://shinycolors.enza.fun/assets/6f048a08cc53d1f32aa339abba508e0e7d745888704d1932bf4d52860f4208ba?v=1",
+      "hash":"548401a0c3696b9e515f4ff29fb04407",
+      "icon":"https://shinycolors.enza.fun/assets/5f88f8b9f767979564a0363e9c0338f93402b46e33b99f9d1354475d8056cc4c?v=1",
+      "id":"1040210030",
+      "m_movie":"https://shinycolors.enza.fun/assets/56163d21d3cd358b3775941038f4927a1ea872e3adb42bacc6bc45c62ea5b8e2.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/a28df921f3198dbe38324d471f0bfa9f532c2c76083d96737ad65e1d2f5ac553.mp4?v=1",
+      "name":"【ピトス・エルピス】樋口円香",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930210010":{
       "card":"https://shinycolors.enza.fun/assets/c84ab237cc1188cdb6e8b4fa8f455bdbe2f21c0280b5c42bc9acb918a8ae1ea0?v=2",
       "fes_card":"https://shinycolors.enza.fun/assets/0772fee181f6965e2775c0714401b88298a0511d6656e7467014bef50fda523f?v=2",
@@ -140,6 +154,10 @@
     {
       "id":"1040210020",
       "name":"【ギンコ・ビローバ】樋口円香"
+    },
+    {
+      "id":"1040210030",
+      "name":"【ピトス・エルピス】樋口円香"
     },
     {
       "id":"1930210010",

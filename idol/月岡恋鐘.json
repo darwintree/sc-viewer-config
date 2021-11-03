@@ -129,6 +129,20 @@
       "road":false,
       "type":"p"
     },
+    "1040040060":{
+      "card":"https://shinycolors.enza.fun/assets/1765b074f35b75b7abb0886502414f2007100bc0f24c42b8727f3bcbea1261b5?v=1",
+      "comment":"一緒に秋、楽しまんばね！",
+      "fes_card":"https://shinycolors.enza.fun/assets/ca3a505551499264f8e0564b49c4a4f1af491eafd83122ef7c07ab111b55b8ce?v=1",
+      "hash":"60fee14d4e9834d1d699255a3080d170",
+      "icon":"https://shinycolors.enza.fun/assets/93b4612dc34d5d04d2780a99a412dd6f76853b60397d7f1c0a0ac996403c5d77?v=1",
+      "id":"1040040060",
+      "m_movie":"https://shinycolors.enza.fun/assets/254604d05f3aa3f88e6741a9b9b2c961414b93eecc3002e018ccb114a8a80860.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/55413e25b025a5d1a02d240c881e08c28569cda2a134c80c5ba316ac1752b25d.mp4?v=1",
+      "name":"【秋空ばくちずさんで】月岡恋鐘",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930040010":{
       "card":"https://shinycolors.enza.fun/assets/7a71dcfeeb6cb02aaa59403deff12904ec8739e57d44c2aaa539df0e2a0a7c32?v=2",
       "fes_card":"https://shinycolors.enza.fun/assets/e490a257ee264342e2bad72725def7c527b21c4bf275c0418e2f614b0e4ec945?v=2",
@@ -240,6 +254,14 @@
       "name":"【会いに行かんば～！】月岡恋鐘",
       "rarity":4,
       "type":"s"
+    },
+    "2040040070":{
+      "card":"https://shinycolors.enza.fun/assets/b525d75fd1ae2d64e6e358facfb27a2e59bb5a56b162678e89a68a62c27d5987?v=1",
+      "hash":"9a7f6e8c69e6c03d8135bd65198f205b",
+      "id":"2040040070",
+      "name":"【ビコーズ・ラブ】月岡恋鐘",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -282,6 +304,10 @@
     {
       "id":"1040040050",
       "name":"【心の鐘が鳴っとるけん】月岡恋鐘"
+    },
+    {
+      "id":"1040040060",
+      "name":"【秋空ばくちずさんで】月岡恋鐘"
     },
     {
       "id":"1930040010",
@@ -334,6 +360,10 @@
     {
       "id":"2040040060",
       "name":"【会いに行かんば～！】月岡恋鐘"
+    },
+    {
+      "id":"2040040070",
+      "name":"【ビコーズ・ラブ】月岡恋鐘"
     }
   ]
 }

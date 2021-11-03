@@ -129,6 +129,20 @@
       "road":false,
       "type":"p"
     },
+    "1040060060":{
+      "card":"https://shinycolors.enza.fun/assets/6875ebb215323af80b809602b54ab54b3368361b92fd9e02ab92dedff7a511e6?v=1",
+      "comment":"……内側から焼かれるようだ",
+      "fes_card":"https://shinycolors.enza.fun/assets/d6c134bc1c2541be7abd36c3399eb36b3371cd61445860e4b8eddc938ec1c331?v=1",
+      "hash":"2d9aac7e6c93627f088264e4cf5d8c70",
+      "icon":"https://shinycolors.enza.fun/assets/7d111d29810a8114756a6d3c4b29a24d6833fae54d88567eeba6feeb6c09593f?v=1",
+      "id":"1040060060",
+      "m_movie":"https://shinycolors.enza.fun/assets/fb01731eec30a3f056848fe21258b49b1d358eb9f281202eee399f89bffdcf09.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/fd89957f1926e40473834ef9f72ddb0a62e39545c26e09340ea80f70c868ca87.mp4?v=1",
+      "name":"【渦と淵】白瀬咲耶",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930060010":{
       "card":"https://shinycolors.enza.fun/assets/f0779f72ea9dfda6d857ce2070b21cb89fa24d0d658b58579ee52c4a5fff967b?v=2",
       "fes_card":"https://shinycolors.enza.fun/assets/0c5fd7e71f0024a40f912f99d4c2a7a9e6fc64c171107fec0e0086bdd5a1cd54?v=2",
@@ -290,6 +304,10 @@
     {
       "id":"1040060050",
       "name":"【乙女と交わすTrick】白瀬咲耶"
+    },
+    {
+      "id":"1040060060",
+      "name":"【渦と淵】白瀬咲耶"
     },
     {
       "id":"1930060010",

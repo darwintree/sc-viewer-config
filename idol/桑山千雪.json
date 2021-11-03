@@ -59,6 +59,18 @@
       "road":false,
       "type":"p"
     },
+    "1030160050":{
+      "card":"https://shinycolors.enza.fun/assets/8850d2a337a1c320cc9b49142c53046142d99c5d872b79b7a57eb956c3b6a0f6?v=1",
+      "fes_card":"https://shinycolors.enza.fun/assets/6bfc3f948a1266af83fc721ac029a5bbbcbc50522c9f840362595cf18a59a085?v=1",
+      "hash":"e5b8b3e23d51047a4a498e5b4ddafa80",
+      "icon":"https://shinycolors.enza.fun/assets/2aabb70f0cd4d1228e5c1a47f737fa3d37bbea65b45cd7be852965c1a47068b3?v=1",
+      "id":"1030160050",
+      "m_movie":"https://shinycolors.enza.fun/assets/7720b5c96c439269dcf57d2fe0c241e86a3b02a4fcec3563b8cf8882047fc4da.mp4?v=1",
+      "name":"【夏、イエー】桑山千雪",
+      "rarity":3,
+      "road":false,
+      "type":"p"
+    },
     "1040160010":{
       "card":"https://shinycolors.enza.fun/assets/8904b759286f07e1f7bc48ea64f961d71b644bfcd9f9de84062bcfc72f01c9dd?v=6",
       "comment":"プロデューサーさん、\nどうか、今……この時間だけは──",
@@ -254,6 +266,14 @@
       "name":"【夏空への挑戦】桑山千雪",
       "rarity":4,
       "type":"s"
+    },
+    "2040160070":{
+      "card":"https://shinycolors.enza.fun/assets/b8980d7abdcfc223fe3aa54f8666e6e3bb184ee696408d8ea5c37455d45739c7?v=1",
+      "hash":"cee14c4a971c52475c7958a57f39866c",
+      "id":"2040160070",
+      "name":"【黄昏時に会いましょう】桑山千雪",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -276,6 +296,10 @@
     {
       "id":"1030160040",
       "name":"【ワン・モア・フラワリング】桑山千雪"
+    },
+    {
+      "id":"1030160050",
+      "name":"【夏、イエー】桑山千雪"
     },
     {
       "id":"1040160010",
@@ -352,6 +376,10 @@
     {
       "id":"2040160060",
       "name":"【夏空への挑戦】桑山千雪"
+    },
+    {
+      "id":"2040160070",
+      "name":"【黄昏時に会いましょう】桑山千雪"
     }
   ]
 }

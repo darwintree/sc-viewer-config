@@ -11,6 +11,18 @@
       "road":true,
       "type":"p"
     },
+    "1030240010":{
+      "card":"https://shinycolors.enza.fun/assets/faaa93084757cfb6043b953c42377cbbb6464c3e3f0f91dd4bba4c9ef5982c2a?v=1",
+      "fes_card":"https://shinycolors.enza.fun/assets/f0b17e61073552ae167fc1a359b83b52cbd677773912b2074cdca331e660334e?v=1",
+      "hash":"627afadb3034dca55fdfccced6075439",
+      "icon":"https://shinycolors.enza.fun/assets/8a5159bafaaa037febccbfcd633bc765fdf6a5549785f773379d7c7e7630b7b9?v=1",
+      "id":"1030240010",
+      "m_movie":"https://shinycolors.enza.fun/assets/2b03906c0f64a4dea0fdbf9b98f7bbf3cabb85d31a7f0d9baf00e051e10d228b.mp4?v=1",
+      "name":"【一億回めくらいの、その夏】七草にちか",
+      "rarity":3,
+      "road":false,
+      "type":"p"
+    },
     "1040240010":{
       "card":"https://shinycolors.enza.fun/assets/26870884a43fc66c1d7683d207cb1a82942df6a8d8a69dacc4d6e436266741a8?v=1",
       "comment":"べー……",
@@ -70,12 +82,32 @@
       "name":"【２８３プロのヒナ】七草にちか",
       "rarity":2,
       "type":"s"
+    },
+    "2040240010":{
+      "card":"https://shinycolors.enza.fun/assets/ea38b51ab176294dd240861a87a8920dde3af20a84333b10d3d8a8212c1d7588?v=1",
+      "hash":"402ab143176697c6a46e1a776fb9452b",
+      "id":"2040240010",
+      "name":"【間違いそうだ】七草にちか",
+      "rarity":4,
+      "type":"s"
+    },
+    "2040240020":{
+      "card":"https://shinycolors.enza.fun/assets/3903be5dff5ac5ac881a0df066674847ac541eb5a4c7be966f9ca10246a1451e?v=1",
+      "hash":"daf0e01e913b7e58dbe46d4c40a62c8b",
+      "id":"2040240020",
+      "name":"【死神リポート】七草にちか",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
     {
       "id":"1020240010",
       "name":"【白いツバサ】七草にちか"
+    },
+    {
+      "id":"1030240010",
+      "name":"【一億回めくらいの、その夏】七草にちか"
     },
     {
       "id":"1040240010",
@@ -96,6 +128,14 @@
     {
       "id":"2020240010",
       "name":"【２８３プロのヒナ】七草にちか"
+    },
+    {
+      "id":"2040240010",
+      "name":"【間違いそうだ】七草にちか"
+    },
+    {
+      "id":"2040240020",
+      "name":"【死神リポート】七草にちか"
     }
   ]
 }
