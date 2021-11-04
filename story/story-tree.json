@@ -3295,6 +3295,32 @@
       "type":"directory",
       "children":[
         {
+          "name":"【cheer+】有栖川夏葉",
+          "type":"directory",
+          "children":[
+            {
+              "name":"make.csv",
+              "type":"file"
+            },
+            {
+              "name":"ing.csv",
+              "type":"file"
+            },
+            {
+              "name":"words of.csv",
+              "type":"file"
+            },
+            {
+              "name":"up!.csv",
+              "type":"file"
+            },
+            {
+              "name":"s!.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【夢追いランナバウト】有栖川夏葉",
           "type":"directory",
           "children":[
