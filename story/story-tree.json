@@ -4623,6 +4623,24 @@
           ]
         },
         {
+          "name":"【キュン！とwith us】大崎甜花",
+          "type":"directory",
+          "children":[
+            {
+              "name":"キューン.csv",
+              "type":"file"
+            },
+            {
+              "name":"天高く.csv",
+              "type":"file"
+            },
+            {
+              "name":"罪って感じで.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【事務所。静寂。大輪の華】大崎甜花",
           "type":"directory",
           "children":[
