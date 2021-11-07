@@ -8117,6 +8117,44 @@
           ]
         },
         {
+          "name":"満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─",
+          "type":"directory",
+          "children":[
+            {
+              "name":"第1話-パールホワイト.csv",
+              "type":"file"
+            },
+            {
+              "name":"オープニング-私達の目的地.csv",
+              "type":"file"
+            },
+            {
+              "name":"エンディング-花ざかり、これからも。.csv",
+              "type":"file"
+            },
+            {
+              "name":"第4話-私をもっと知りたくて.csv",
+              "type":"file"
+            },
+            {
+              "name":"第5話-まごころ・みっつ重ねて.csv",
+              "type":"file"
+            },
+            {
+              "name":"第2話-天と地、屈折.csv",
+              "type":"file"
+            },
+            {
+              "name":"第3話-甜花の敵じゃない.csv",
+              "type":"file"
+            },
+            {
+              "name":"第6話-私達の幸福論.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"Light up the illumination",
           "type":"directory",
           "children":[
@@ -12436,6 +12474,24 @@
             },
             {
               "name":"安心してね……！.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【幸せのりんご飴】大崎甘奈",
+          "type":"directory",
+          "children":[
+            {
+              "name":"どこがいいかな☆.csv",
+              "type":"file"
+            },
+            {
+              "name":"仲良しの『いただきます』.csv",
+              "type":"file"
+            },
+            {
+              "name":"それぞれの関係.csv",
               "type":"file"
             }
           ]
