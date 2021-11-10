@@ -242,6 +242,14 @@
       "name":"【code:SH☆☆TING star!】園田智代子",
       "rarity":4,
       "type":"s"
+    },
+    "2040100070":{
+      "card":"https://shinycolors.enza.fun/assets/0ad4e33fea8beecc116177aa18e3f59b0583935de023a19c3e1abb08654e2da6?v=1",
+      "hash":"7f4e6d931bb61b13149522e48c500750",
+      "id":"2040100070",
+      "name":"【生彩トラベリング】園田智代子",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -336,6 +344,10 @@
     {
       "id":"2040100060",
       "name":"【code:SH☆☆TING star!】園田智代子"
+    },
+    {
+      "id":"2040100070",
+      "name":"【生彩トラベリング】園田智代子"
     }
   ]
 }
