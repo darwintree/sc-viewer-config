@@ -10929,6 +10929,52 @@
           ]
         },
         {
+          "name":"Landing Point編",
+          "type":"directory",
+          "children":[
+            {
+              "name":"fu tari.csv",
+              "type":"file"
+            },
+            {
+              "name":"color.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ3曲目前コミュ《個人》.csv",
+              "type":"file"
+            },
+            {
+              "name":"moku suru.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ後コミュ《個人》 大成功.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ2曲目前コミュ《個人》.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ1曲目前コミュ《個人》.csv",
+              "type":"file"
+            },
+            {
+              "name":"kore kara.csv",
+              "type":"file"
+            },
+            {
+              "name":"mizu kara.csv",
+              "type":"file"
+            },
+            {
+              "name":"yoru ni.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【カラカラカラ】樋口円香",
           "type":"directory",
           "children":[

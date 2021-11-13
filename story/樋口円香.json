@@ -11,6 +11,7 @@
     "【ギンコ・ビローバ】樋口円香",
     "【２８３プロのヒナ】樋口円香",
     "【UNTITLED】樋口 円香",
+    "Landing Point編",
     "【カラカラカラ】樋口円香",
     "【雨情】樋口円香",
     "G.R.A.D.編"
@@ -124,6 +125,18 @@
       "以外.csv",
       "存在.csv",
       "部屋.csv"
+    ],
+    "Landing Point編":[
+      "fu tari.csv",
+      "color.csv",
+      "ライブ3曲目前コミュ《個人》.csv",
+      "moku suru.csv",
+      "ライブ後コミュ《個人》 大成功.csv",
+      "ライブ2曲目前コミュ《個人》.csv",
+      "ライブ1曲目前コミュ《個人》.csv",
+      "kore kara.csv",
+      "mizu kara.csv",
+      "yoru ni.csv"
     ],
     "【カラカラカラ】樋口円香":[
       "水、風、緑.csv",
