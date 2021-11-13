@@ -8959,6 +8959,36 @@
           ]
         },
         {
+          "name":"Landing Point編",
+          "type":"directory",
+          "children":[
+            {
+              "name":"Q＆Q.csv",
+              "type":"file"
+            },
+            {
+              "name":"Smart♡cookie.csv",
+              "type":"file"
+            },
+            {
+              "name":"IDOL P.csv",
+              "type":"file"
+            },
+            {
+              "name":"Congrats？.csv",
+              "type":"file"
+            },
+            {
+              "name":"Everyth!ng.csv",
+              "type":"file"
+            },
+            {
+              "name":"dunno.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"G.R.A.D.編",
           "type":"directory",
           "children":[
