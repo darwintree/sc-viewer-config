@@ -825,6 +825,24 @@
           ]
         },
         {
+          "name":"【スリープオーバーベイビー】西城樹里",
+          "type":"directory",
+          "children":[
+            {
+              "name":"グー・チーム.csv",
+              "type":"file"
+            },
+            {
+              "name":"グッパージャス！！！！！.csv",
+              "type":"file"
+            },
+            {
+              "name":"３、２、１──…….csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【誰が為シンパシー】西城樹里",
           "type":"directory",
           "children":[
@@ -2376,6 +2394,36 @@
             },
             {
               "name":"公園うさぎはとべない.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"G.R.A.D.編",
+          "type":"directory",
+          "children":[
+            {
+              "name":"カナリヤは歌わない.csv",
+              "type":"file"
+            },
+            {
+              "name":"いつかとべるように.csv",
+              "type":"file"
+            },
+            {
+              "name":"空で呼吸する方法.csv",
+              "type":"file"
+            },
+            {
+              "name":"わたし.csv",
+              "type":"file"
+            },
+            {
+              "name":"ゆううつな受動態.csv",
+              "type":"file"
+            },
+            {
+              "name":"すこしだけはねて.csv",
               "type":"file"
             }
           ]
@@ -10968,6 +11016,10 @@
             },
             {
               "name":"color.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ後コミュ《個人》 成功.csv",
               "type":"file"
             },
             {
