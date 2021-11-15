@@ -13323,6 +13323,24 @@
               "type":"file"
             }
           ]
+        },
+        {
+          "name":"【Hakoni□a】三峰結華",
+          "type":"directory",
+          "children":[
+            {
+              "name":"ペルソナなんて笑っちゃう.csv",
+              "type":"file"
+            },
+            {
+              "name":"水と器.csv",
+              "type":"file"
+            },
+            {
+              "name":"雨、リバイバル.csv",
+              "type":"file"
+            }
+          ]
         }
       ]
     },
