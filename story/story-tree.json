@@ -831,6 +831,32 @@
           ]
         },
         {
+          "name":"【CHILLY】緋田美琴",
+          "type":"directory",
+          "children":[
+            {
+              "name":"recollect.csv",
+              "type":"file"
+            },
+            {
+              "name":"remember.csv",
+              "type":"file"
+            },
+            {
+              "name":"white.csv",
+              "type":"file"
+            },
+            {
+              "name":"wander.csv",
+              "type":"file"
+            },
+            {
+              "name":"me.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【FEEL】緋田美琴",
           "type":"directory",
           "children":[

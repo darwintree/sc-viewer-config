@@ -5,6 +5,7 @@
     "约定",
     "万圣节",
     "誕生日",
+    "【CHILLY】緋田美琴",
     "【FEEL】緋田美琴",
     "【ROUNDLY】緋田美琴",
     "【２８３プロのヒナ】緋田美琴",
@@ -64,6 +65,13 @@
     ],
     "誕生日":[
       "【緋田 美琴】 誕生日ミニコミュ①.csv"
+    ],
+    "【CHILLY】緋田美琴":[
+      "recollect.csv",
+      "remember.csv",
+      "white.csv",
+      "wander.csv",
+      "me.csv"
     ],
     "【FEEL】緋田美琴":[
       "pain.csv",
