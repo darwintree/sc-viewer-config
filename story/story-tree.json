@@ -11961,7 +11961,23 @@
           "type":"directory",
           "children":[
             {
+              "name":"たちきれぬ.csv",
+              "type":"file"
+            },
+            {
               "name":"drawing1（きみがそら）.csv",
+              "type":"file"
+            },
+            {
+              "name":"drawing4（かんかんかん）.csv",
+              "type":"file"
+            },
+            {
+              "name":"drawing2（まどひあか）.csv",
+              "type":"file"
+            },
+            {
+              "name":"drawing3（かつぷめん）.csv",
               "type":"file"
             }
           ]
