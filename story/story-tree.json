@@ -4741,6 +4741,24 @@
           ]
         },
         {
+          "name":"【月映えのソワレ】白瀬咲耶",
+          "type":"directory",
+          "children":[
+            {
+              "name":"月の裏側.csv",
+              "type":"file"
+            },
+            {
+              "name":"尾花の憂鬱.csv",
+              "type":"file"
+            },
+            {
+              "name":"饗宴のあとで.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"Morning",
           "type":"directory",
           "children":[
