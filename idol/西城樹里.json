@@ -246,6 +246,14 @@
       "name":"【モーニング・グロウリー？】西城樹里",
       "rarity":4,
       "type":"s"
+    },
+    "2040110060":{
+      "card":"https://shinycolors.enza.fun/assets/50b1cc474afd9947acd95249f085da8ab9b1d451b7d5fbd153668009b6a90c75?v=1",
+      "hash":"2281ec9c4f42fc4e0cf5368837ef611e",
+      "id":"2040110060",
+      "name":"【Hearty!Holy!Party!】西城樹里",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -340,6 +348,10 @@
     {
       "id":"2040110050",
       "name":"【モーニング・グロウリー？】西城樹里"
+    },
+    {
+      "id":"2040110060",
+      "name":"【Hearty!Holy!Party!】西城樹里"
     }
   ]
 }

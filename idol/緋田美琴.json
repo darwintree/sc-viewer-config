@@ -25,6 +25,20 @@
       "road":false,
       "type":"p"
     },
+    "1040250020":{
+      "card":"https://shinycolors.enza.fun/assets/8e572dc8565a85004e6736d7ff752b544c03ddd1fe4ec138dff3512afdf8b769?v=1",
+      "comment":"……ごめん、寒いのに\n待たせちゃった？",
+      "fes_card":"https://shinycolors.enza.fun/assets/8239ac31c93882094598c13f0f8221eef742f228bb5cb634321799c65976a2bc?v=1",
+      "hash":"16e7c63bde53df22a5439d935610e8d8",
+      "icon":"https://shinycolors.enza.fun/assets/961012999646a374c87ad2a283b87f71b1d76adc6ad180572aacf6391997a4ec?v=1",
+      "id":"1040250020",
+      "m_movie":"https://shinycolors.enza.fun/assets/f294d5c50d0369fdac3fbb21c53f11954d0e236f985dc8e2c20d5842dd64ecef.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/6de73691dafcbb628a25a6541d8546af687ba0d8af3a091c99ead524dddff28b.mp4?v=1",
+      "name":"【CHILLY】緋田美琴",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930250010":{
       "card":"https://shinycolors.enza.fun/assets/1a71c528f98e6c430e4466625ccbf631be74fa07e43708fe126f50c4072442d6?v=1",
       "fes_card":"https://shinycolors.enza.fun/assets/6e6c12386f759625f7fc39d5c41ab7fbed0890e3d9e3704feeb70204b1c2d4d3?v=1",
@@ -90,6 +104,10 @@
     {
       "id":"1040250010",
       "name":"【ROUNDLY】緋田美琴"
+    },
+    {
+      "id":"1040250020",
+      "name":"【CHILLY】緋田美琴"
     },
     {
       "id":"1930250010",
