@@ -4893,6 +4893,20 @@
           ]
         },
         {
+          "name":"【当日じゃない日】白瀬咲耶",
+          "type":"directory",
+          "children":[
+            {
+              "name":"なぞとき.csv",
+              "type":"file"
+            },
+            {
+              "name":"煙突がなくても.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【雪染めロマンティカ】白瀬咲耶",
           "type":"directory",
           "children":[
