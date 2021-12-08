@@ -5107,6 +5107,32 @@
       "type":"directory",
       "children":[
         {
+          "name":"【エクストリーム・ブレイク！】小宮果穂",
+          "type":"directory",
+          "children":[
+            {
+              "name":"漆黒の中にあるもの.csv",
+              "type":"file"
+            },
+            {
+              "name":"純白を纏うあの子は微笑う.csv",
+              "type":"file"
+            },
+            {
+              "name":"極彩色の世界.csv",
+              "type":"file"
+            },
+            {
+              "name":"深紅が導く先にある答え.csv",
+              "type":"file"
+            },
+            {
+              "name":"紺碧のペンは軽やかに綴る.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【窓辺・サイレントタイム】小宮果穂",
           "type":"directory",
           "children":[
