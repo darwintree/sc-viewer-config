@@ -1,10 +1,10 @@
 {
   "details":{
     "1020210010":{
-      "card":"https://shinycolors.enza.fun/assets/5a60d0db29274f30099b984913749b41b3a0eabd945440255f3c6624a017396c?v=2",
-      "fes_card":"https://shinycolors.enza.fun/assets/8a2960cf94698804232bcba702106d2522706f65e21afaefe43437a6e67d96d3?v=2",
+      "card":"https://shinycolors.enza.fun/assets/5a60d0db29274f30099b984913749b41b3a0eabd945440255f3c6624a017396c?v=3",
+      "fes_card":"https://shinycolors.enza.fun/assets/8a2960cf94698804232bcba702106d2522706f65e21afaefe43437a6e67d96d3?v=3",
       "hash":"19d88c6a604b1eca52f811a9161cf04b",
-      "icon":"https://shinycolors.enza.fun/assets/b6c84b812bd6c1e07f84111313a972ff362d21925fa3785595f69e151ff331d4?v=2",
+      "icon":"https://shinycolors.enza.fun/assets/b6c84b812bd6c1e07f84111313a972ff362d21925fa3785595f69e151ff331d4?v=3",
       "id":"1020210010",
       "name":"【白いツバサ】樋口円香",
       "rarity":2,
@@ -12,85 +12,85 @@
       "type":"p"
     },
     "1030210010":{
-      "card":"https://shinycolors.enza.fun/assets/ef72d45260392d7ae691e1c651022296bb420003afb7cc0a73151e96d765e0e3?v=1",
-      "fes_card":"https://shinycolors.enza.fun/assets/5b904501f47b3bcbb6c0a2b2963c7e9e11a18611e66220762afeaf00b121afbb?v=1",
+      "card":"https://shinycolors.enza.fun/assets/ef72d45260392d7ae691e1c651022296bb420003afb7cc0a73151e96d765e0e3?v=2",
+      "fes_card":"https://shinycolors.enza.fun/assets/5b904501f47b3bcbb6c0a2b2963c7e9e11a18611e66220762afeaf00b121afbb?v=2",
       "hash":"31e584f78b7e203ea49513a5c03a20c4",
-      "icon":"https://shinycolors.enza.fun/assets/7f10f8b32360ed3a7a37f7911934395f43b42fc2f3ced91f7ecfcfc49e961893?v=1",
+      "icon":"https://shinycolors.enza.fun/assets/7f10f8b32360ed3a7a37f7911934395f43b42fc2f3ced91f7ecfcfc49e961893?v=2",
       "id":"1030210010",
-      "m_movie":"https://shinycolors.enza.fun/assets/d8b02b86265338376d412290c6f34ea47623e88b50d2e80aca44b0f9f94419ab.mp4?v=1",
+      "m_movie":"https://shinycolors.enza.fun/assets/d8b02b86265338376d412290c6f34ea47623e88b50d2e80aca44b0f9f94419ab.mp4?v=2",
       "name":"【ダウト】樋口円香",
       "rarity":3,
       "road":false,
       "type":"p"
     },
     "1040210010":{
-      "card":"https://shinycolors.enza.fun/assets/31f3eafca1e1b0f9396d9c5d3986ef399b85b769eedcadda9b33541a7a72505a?v=1",
+      "card":"https://shinycolors.enza.fun/assets/31f3eafca1e1b0f9396d9c5d3986ef399b85b769eedcadda9b33541a7a72505a?v=2",
       "comment":"嫌、近づかないで\n──さようなら",
-      "fes_card":"https://shinycolors.enza.fun/assets/185049fb9881da0b8ac157eb6e344c5dd06dca0b64f149a1ebf48f2e766fbbec?v=1",
+      "fes_card":"https://shinycolors.enza.fun/assets/185049fb9881da0b8ac157eb6e344c5dd06dca0b64f149a1ebf48f2e766fbbec?v=2",
       "hash":"c16f6034f53f5303c264831515ef0d9a",
-      "icon":"https://shinycolors.enza.fun/assets/1825c5e58d7b5b9cf129d7bff9ca75710e4e4bfb33a7d4bd69f44a820747c886?v=1",
+      "icon":"https://shinycolors.enza.fun/assets/1825c5e58d7b5b9cf129d7bff9ca75710e4e4bfb33a7d4bd69f44a820747c886?v=2",
       "id":"1040210010",
-      "m_movie":"https://shinycolors.enza.fun/assets/da50bdc593425452c97fcd198c5e69b6c5b43b9186c1f4fd7dcbfb5e5b2ea33b.mp4?v=2",
-      "movie":"https://shinycolors.enza.fun/assets/82c2765a63a7f7a780e0711b0d55f9c678f4f7750b0de37a9f5462d687e0313a.mp4?v=1",
+      "m_movie":"https://shinycolors.enza.fun/assets/da50bdc593425452c97fcd198c5e69b6c5b43b9186c1f4fd7dcbfb5e5b2ea33b.mp4?v=3",
+      "movie":"https://shinycolors.enza.fun/assets/82c2765a63a7f7a780e0711b0d55f9c678f4f7750b0de37a9f5462d687e0313a.mp4?v=2",
       "name":"【カラカラカラ】樋口円香",
       "rarity":4,
       "road":false,
       "type":"p"
     },
     "1040210020":{
-      "card":"https://shinycolors.enza.fun/assets/79329195e7e96837cb13d16d208315fd8afda53f0c8043fac536f651aac06e8c?v=1",
+      "card":"https://shinycolors.enza.fun/assets/79329195e7e96837cb13d16d208315fd8afda53f0c8043fac536f651aac06e8c?v=2",
       "comment":"冷たい、風",
-      "fes_card":"https://shinycolors.enza.fun/assets/8f13d785b91fd4a27ac3c80ebaeb842fee7d6c8a71846d955aa075bb9498ffee?v=1",
+      "fes_card":"https://shinycolors.enza.fun/assets/8f13d785b91fd4a27ac3c80ebaeb842fee7d6c8a71846d955aa075bb9498ffee?v=2",
       "hash":"b898843c8240a951e1c8cd095f6434bd",
-      "icon":"https://shinycolors.enza.fun/assets/712cb376fc411f90983e8a28a56aed12f960343e02adac50ddec8ef80292cef7?v=1",
+      "icon":"https://shinycolors.enza.fun/assets/712cb376fc411f90983e8a28a56aed12f960343e02adac50ddec8ef80292cef7?v=2",
       "id":"1040210020",
-      "m_movie":"https://shinycolors.enza.fun/assets/8e54d4743ce516150204856009947f02044210a74ea95a86f9fc721936d8748f.mp4?v=1",
-      "movie":"https://shinycolors.enza.fun/assets/fa0bd8d20d948d8145b612f5e612c4276a57f2655e1f2ac0f9cc54c24fb70e1a.mp4?v=1",
+      "m_movie":"https://shinycolors.enza.fun/assets/8e54d4743ce516150204856009947f02044210a74ea95a86f9fc721936d8748f.mp4?v=2",
+      "movie":"https://shinycolors.enza.fun/assets/fa0bd8d20d948d8145b612f5e612c4276a57f2655e1f2ac0f9cc54c24fb70e1a.mp4?v=2",
       "name":"【ギンコ・ビローバ】樋口円香",
       "rarity":4,
       "road":false,
       "type":"p"
     },
     "1040210030":{
-      "card":"https://shinycolors.enza.fun/assets/7d6c120919571140696ed0839c1eedfbfbe20c17a3aef59404aed95550878c32?v=1",
+      "card":"https://shinycolors.enza.fun/assets/7d6c120919571140696ed0839c1eedfbfbe20c17a3aef59404aed95550878c32?v=2",
       "comment":"心をえぐるものは",
-      "fes_card":"https://shinycolors.enza.fun/assets/6f048a08cc53d1f32aa339abba508e0e7d745888704d1932bf4d52860f4208ba?v=1",
+      "fes_card":"https://shinycolors.enza.fun/assets/6f048a08cc53d1f32aa339abba508e0e7d745888704d1932bf4d52860f4208ba?v=2",
       "hash":"548401a0c3696b9e515f4ff29fb04407",
-      "icon":"https://shinycolors.enza.fun/assets/5f88f8b9f767979564a0363e9c0338f93402b46e33b99f9d1354475d8056cc4c?v=1",
+      "icon":"https://shinycolors.enza.fun/assets/5f88f8b9f767979564a0363e9c0338f93402b46e33b99f9d1354475d8056cc4c?v=2",
       "id":"1040210030",
-      "m_movie":"https://shinycolors.enza.fun/assets/56163d21d3cd358b3775941038f4927a1ea872e3adb42bacc6bc45c62ea5b8e2.mp4?v=1",
-      "movie":"https://shinycolors.enza.fun/assets/a28df921f3198dbe38324d471f0bfa9f532c2c76083d96737ad65e1d2f5ac553.mp4?v=1",
+      "m_movie":"https://shinycolors.enza.fun/assets/56163d21d3cd358b3775941038f4927a1ea872e3adb42bacc6bc45c62ea5b8e2.mp4?v=2",
+      "movie":"https://shinycolors.enza.fun/assets/a28df921f3198dbe38324d471f0bfa9f532c2c76083d96737ad65e1d2f5ac553.mp4?v=2",
       "name":"【ピトス・エルピス】樋口円香",
       "rarity":4,
       "road":false,
       "type":"p"
     },
     "1930210010":{
-      "card":"https://shinycolors.enza.fun/assets/c84ab237cc1188cdb6e8b4fa8f455bdbe2f21c0280b5c42bc9acb918a8ae1ea0?v=2",
-      "fes_card":"https://shinycolors.enza.fun/assets/0772fee181f6965e2775c0714401b88298a0511d6656e7467014bef50fda523f?v=2",
+      "card":"https://shinycolors.enza.fun/assets/c84ab237cc1188cdb6e8b4fa8f455bdbe2f21c0280b5c42bc9acb918a8ae1ea0?v=3",
+      "fes_card":"https://shinycolors.enza.fun/assets/0772fee181f6965e2775c0714401b88298a0511d6656e7467014bef50fda523f?v=3",
       "hash":"12a92af88112d77f11f2c70d33f688bf",
-      "icon":"https://shinycolors.enza.fun/assets/da04e55d8526fcd3dbf34b581882faaf717730061f3ba7af0d8e3d4caab6b59d?v=2",
+      "icon":"https://shinycolors.enza.fun/assets/da04e55d8526fcd3dbf34b581882faaf717730061f3ba7af0d8e3d4caab6b59d?v=3",
       "id":"1930210010",
-      "m_movie":"https://shinycolors.enza.fun/assets/656e67d172ac4ae0743e507d1194c9ecf44d4c88934fe3d735b68000d31af2b9.mp4?v=2",
+      "m_movie":"https://shinycolors.enza.fun/assets/656e67d172ac4ae0743e507d1194c9ecf44d4c88934fe3d735b68000d31af2b9.mp4?v=3",
       "name":"【白いツバサ】樋口円香",
       "rarity":3,
       "road":true,
       "type":"p"
     },
     "1940210010":{
-      "card":"https://shinycolors.enza.fun/assets/c7b0ca0e969031a6e6d30599d11913660929b7fa8324cb9d1de4b69c576874c1?v=2",
-      "fes_card":"https://shinycolors.enza.fun/assets/72e33489084eeb3ce56641d3c50ba95e0c6ef91e83765e1346f6082c96cd234f?v=2",
+      "card":"https://shinycolors.enza.fun/assets/c7b0ca0e969031a6e6d30599d11913660929b7fa8324cb9d1de4b69c576874c1?v=3",
+      "fes_card":"https://shinycolors.enza.fun/assets/72e33489084eeb3ce56641d3c50ba95e0c6ef91e83765e1346f6082c96cd234f?v=3",
       "hash":"30d3d5fed2fb7f70efe621dd58c9a300",
-      "icon":"https://shinycolors.enza.fun/assets/5a977630a88199ed5e136dbe9fde96380c07a56dc0a400a40b0d9f22c9f0fd55?v=2",
+      "icon":"https://shinycolors.enza.fun/assets/5a977630a88199ed5e136dbe9fde96380c07a56dc0a400a40b0d9f22c9f0fd55?v=3",
       "id":"1940210010",
-      "m_movie":"https://shinycolors.enza.fun/assets/1f59415a75aca52439865e9560382f2c9b15cce4b21ffbcba7825372ee3ee5d6.mp4?v=2",
+      "m_movie":"https://shinycolors.enza.fun/assets/1f59415a75aca52439865e9560382f2c9b15cce4b21ffbcba7825372ee3ee5d6.mp4?v=3",
       "name":"【アイドルロード】樋口円香",
       "rarity":4,
       "road":true,
       "type":"p"
     },
     "2020210010":{
-      "card":"https://shinycolors.enza.fun/assets/36d34af416d1b35a4b5ae71a971bdf9d9798a4dd46d560ad0d4d043cba40a278?v=2",
+      "card":"https://shinycolors.enza.fun/assets/36d34af416d1b35a4b5ae71a971bdf9d9798a4dd46d560ad0d4d043cba40a278?v=3",
       "hash":"08ce6dca93ce15a3062c76cff7b77551",
       "id":"2020210010",
       "name":"【２８３プロのヒナ】樋口円香",
@@ -98,7 +98,7 @@
       "type":"s"
     },
     "2030210010":{
-      "card":"https://shinycolors.enza.fun/assets/4afedb9b6cf8dc7cd7072c91fc29d81f484befee2e2f8dea806c1b93e98906ea?v=1",
+      "card":"https://shinycolors.enza.fun/assets/4afedb9b6cf8dc7cd7072c91fc29d81f484befee2e2f8dea806c1b93e98906ea?v=2",
       "hash":"4dcd34f3a25a3394d956019f851509f4",
       "id":"2030210010",
       "name":"【閑話】樋口円香",
@@ -106,7 +106,7 @@
       "type":"s"
     },
     "2030210020":{
-      "card":"https://shinycolors.enza.fun/assets/fe212a7d5165f58490d87251282b38e036c7944ae189fdde78138ef2b1ef3501?v=1",
+      "card":"https://shinycolors.enza.fun/assets/fe212a7d5165f58490d87251282b38e036c7944ae189fdde78138ef2b1ef3501?v=2",
       "hash":"2710fd7c06a5b189121e12a31ec46113",
       "id":"2030210020",
       "name":"【Feb.】樋口円香",
@@ -114,7 +114,7 @@
       "type":"s"
     },
     "2040210010":{
-      "card":"https://shinycolors.enza.fun/assets/299f9526e1b0a5043a347f7fc1fdb25bc7e3c4795ff434ee122ea0234c02c412?v=1",
+      "card":"https://shinycolors.enza.fun/assets/299f9526e1b0a5043a347f7fc1fdb25bc7e3c4795ff434ee122ea0234c02c412?v=2",
       "hash":"4762093afa0b3b78c1ec40ae22ba6043",
       "id":"2040210010",
       "name":"【游魚】樋口円香",
@@ -122,7 +122,7 @@
       "type":"s"
     },
     "2040210020":{
-      "card":"https://shinycolors.enza.fun/assets/2f67e7bcef66b4e6b83be2f2ada275b2c4f174f617ace56fc337fc7c2f3f2c5a?v=1",
+      "card":"https://shinycolors.enza.fun/assets/2f67e7bcef66b4e6b83be2f2ada275b2c4f174f617ace56fc337fc7c2f3f2c5a?v=2",
       "hash":"7639191017fd658392fd4947f4d5da4c",
       "id":"2040210020",
       "name":"【UNTITLED】樋口円香",
@@ -130,7 +130,7 @@
       "type":"s"
     },
     "2040210030":{
-      "card":"https://shinycolors.enza.fun/assets/d03df8e8642ac31058b46a45ee26c4afbdf12fe50cbbdc555b67f2e45b3eccb4?v=1",
+      "card":"https://shinycolors.enza.fun/assets/d03df8e8642ac31058b46a45ee26c4afbdf12fe50cbbdc555b67f2e45b3eccb4?v=2",
       "hash":"b0f8690698e52dcd48de0242c4d8dfd3",
       "id":"2040210030",
       "name":"【雨情】樋口円香",
