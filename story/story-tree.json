@@ -9755,16 +9755,6 @@
           ]
         },
         {
-          "name":"誕生日",
-          "type":"directory",
-          "children":[
-            {
-              "name":"【緋田 美琴】 誕生日ミニコミュ①.csv",
-              "type":"file"
-            }
-          ]
-        },
-        {
           "name":"W.I.N.G.編",
           "type":"directory",
           "children":[
@@ -9902,20 +9892,6 @@
             },
             {
               "name":"TV出演後コミュ②.csv",
-              "type":"file"
-            }
-          ]
-        },
-        {
-          "name":"万圣节",
-          "type":"directory",
-          "children":[
-            {
-              "name":"mypage_communications_490101625.csv",
-              "type":"file"
-            },
-            {
-              "name":"mypage_communications_490102525.csv",
               "type":"file"
             }
           ]
@@ -10139,6 +10115,58 @@
             {
               "name":"recollect.csv",
               "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"节日剧情",
+          "type":"directory",
+          "children":[
+            {
+              "name":"2021圣诞节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"special_communications_490102697.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"special_communications_490102698.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"special_communications_490102699.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"special_communications_490102701.csv",
+                  "type":"file"
+                }
+              ]
+            },
+            {
+              "name":"誕生日",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"【緋田 美琴】 誕生日ミニコミュ①.csv",
+                  "type":"file"
+                }
+              ]
+            },
+            {
+              "name":"万圣节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"mypage_communications_490101625.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"mypage_communications_490102525.csv",
+                  "type":"file"
+                }
+              ]
             }
           ]
         },
@@ -12195,16 +12223,6 @@
           ]
         },
         {
-          "name":"誕生日",
-          "type":"directory",
-          "children":[
-            {
-              "name":"【七草 にちか】 誕生日ミニコミュ①.csv",
-              "type":"file"
-            }
-          ]
-        },
-        {
           "name":"MORNING",
           "type":"directory",
           "children":[
@@ -12413,20 +12431,6 @@
           ]
         },
         {
-          "name":"万圣节",
-          "type":"directory",
-          "children":[
-            {
-              "name":"mypage_communications_490102524.csv",
-              "type":"file"
-            },
-            {
-              "name":"mypage_communications_490101624.csv",
-              "type":"file"
-            }
-          ]
-        },
-        {
           "name":"约定",
           "type":"directory",
           "children":[
@@ -12547,6 +12551,24 @@
           ]
         },
         {
+          "name":"【浪漫キャメラ0号】七草にちか",
+          "type":"directory",
+          "children":[
+            {
+              "name":"そうか.csv",
+              "type":"file"
+            },
+            {
+              "name":"激写０時.csv",
+              "type":"file"
+            },
+            {
+              "name":"神様、お姉さま.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【死神リポート】七草 にちか",
           "type":"directory",
           "children":[
@@ -12557,6 +12579,36 @@
             {
               "name":"▼観察.csv",
               "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"节日剧情",
+          "type":"directory",
+          "children":[
+            {
+              "name":"誕生日",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"【七草 にちか】 誕生日ミニコミュ①.csv",
+                  "type":"file"
+                }
+              ]
+            },
+            {
+              "name":"万圣节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"mypage_communications_490102524.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"mypage_communications_490101624.csv",
+                  "type":"file"
+                }
+              ]
             }
           ]
         }

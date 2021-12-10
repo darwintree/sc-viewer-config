@@ -2,14 +2,13 @@
   "list":[
     "【２８３プロのヒナ】緋田美琴",
     "【ROUNDLY】緋田美琴",
-    "誕生日",
     "W.I.N.G.編",
-    "万圣节",
     "约定",
     "Morning",
     "【FEEL】緋田美琴",
     "【RESONANCE】緋田美琴",
     "【CHILLY】緋田美琴",
+    "节日剧情",
     "【A】緋田美琴"
   ],
   "details":{
@@ -23,9 +22,6 @@
       "curious.csv",
       "laundry.csv",
       "appliance.csv"
-    ],
-    "誕生日":[
-      "【緋田 美琴】 誕生日ミニコミュ①.csv"
     ],
     "W.I.N.G.編":[
       "シーズン1（クリア）.csv",
@@ -62,10 +58,6 @@
       "シーズン4（クリア）.csv",
       "シーズン2（失敗）.csv",
       "TV出演後コミュ②.csv"
-    ],
-    "万圣节":[
-      "mypage_communications_490101625.csv",
-      "mypage_communications_490102525.csv"
     ],
     "约定":[
       "produce_communications_promises_20250010032.csv",
@@ -124,6 +116,11 @@
       "remember.csv",
       "wander.csv",
       "recollect.csv"
+    ],
+    "节日剧情":[
+      "2021圣诞节",
+      "誕生日",
+      "万圣节"
     ],
     "【A】緋田美琴":[
       "autograph.csv",
