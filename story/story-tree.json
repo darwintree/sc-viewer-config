@@ -661,6 +661,40 @@
           ]
         },
         {
+          "name":"节日剧情",
+          "type":"directory",
+          "children":[
+            {
+              "name":"圣诞节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"2021圣诞节",
+                  "type":"directory",
+                  "children":[
+                    {
+                      "name":"special_communications_490102681.csv",
+                      "type":"file"
+                    },
+                    {
+                      "name":"special_communications_490102684.csv",
+                      "type":"file"
+                    },
+                    {
+                      "name":"special_communications_490102682.csv",
+                      "type":"file"
+                    },
+                    {
+                      "name":"special_communications_490102683.csv",
+                      "type":"file"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name":"G.R.A.D.編",
           "type":"directory",
           "children":[
@@ -6653,6 +6687,40 @@
             {
               "name":"虫たちの夜.csv",
               "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"节日剧情",
+          "type":"directory",
+          "children":[
+            {
+              "name":"圣诞节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"2021圣诞节",
+                  "type":"directory",
+                  "children":[
+                    {
+                      "name":"special_communications_490102680.csv",
+                      "type":"file"
+                    },
+                    {
+                      "name":"special_communications_490102679.csv",
+                      "type":"file"
+                    },
+                    {
+                      "name":"special_communications_490102678.csv",
+                      "type":"file"
+                    },
+                    {
+                      "name":"special_communications_490102677.csv",
+                      "type":"file"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
