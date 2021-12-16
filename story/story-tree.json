@@ -1265,6 +1265,68 @@
           ]
         },
         {
+          "name":"感谢祭篇",
+          "type":"directory",
+          "children":[
+            {
+              "name":"OP 聞こえるんですよ.csv",
+              "type":"file"
+            },
+            {
+              "name":"リハーサル後.csv",
+              "type":"file"
+            },
+            {
+              "name":"リハーサル前.csv",
+              "type":"file"
+            },
+            {
+              "name":"3 空の奥の音.csv",
+              "type":"file"
+            },
+            {
+              "name":"5 #####.csv",
+              "type":"file"
+            },
+            {
+              "name":"6 0　0　0.csv",
+              "type":"file"
+            },
+            {
+              "name":"感謝祭本番後（MVP）.csv",
+              "type":"file"
+            },
+            {
+              "name":"ED きらきらしてて.csv",
+              "type":"file"
+            },
+            {
+              "name":"2 感謝.csv",
+              "type":"file"
+            },
+            {
+              "name":"感謝祭本番前（ユニット）.csv",
+              "type":"file"
+            },
+            {
+              "name":"1 ヴォイセズ.csv",
+              "type":"file"
+            },
+            {
+              "name":"感謝祭本番後（通常）.csv",
+              "type":"file"
+            },
+            {
+              "name":"4 コンコルディア.csv",
+              "type":"file"
+            },
+            {
+              "name":"感謝祭本番前.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【浪漫キャメラ0号】七草にちか",
           "type":"directory",
           "children":[
@@ -2441,6 +2503,32 @@
                   "type":"file"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "name":"感谢祭篇",
+          "type":"directory",
+          "children":[
+            {
+              "name":"リハーサル後.csv",
+              "type":"file"
+            },
+            {
+              "name":"ED done.csv",
+              "type":"file"
+            },
+            {
+              "name":"リハーサル前.csv",
+              "type":"file"
+            },
+            {
+              "name":"OP new.csv",
+              "type":"file"
+            },
+            {
+              "name":"感謝祭本番前.csv",
+              "type":"file"
             }
           ]
         },
