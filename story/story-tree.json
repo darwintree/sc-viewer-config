@@ -4295,6 +4295,20 @@
           ]
         },
         {
+          "name":"【咲耶と摩美々のぶらり旅】白瀬咲耶",
+          "type":"directory",
+          "children":[
+            {
+              "name":"光のしずくが落ちる場所.csv",
+              "type":"file"
+            },
+            {
+              "name":"そこは優しくてあたたかい場所.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【雪染めロマンティカ】白瀬咲耶",
           "type":"directory",
           "children":[
