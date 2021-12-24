@@ -1249,6 +1249,28 @@
               ]
             },
             {
+              "name":"2021圣诞节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"【’21Xmas】赤いシュシュ.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"【’21Xmas】黒いシュシュ.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"special_communications_490102696.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"【’21Xmas】緑のシュシュ.csv",
+                  "type":"file"
+                }
+              ]
+            },
+            {
               "name":"万圣节",
               "type":"directory",
               "children":[
@@ -7389,6 +7411,10 @@
             {
               "name":"【大崎 甘奈】 誕生日ミニコミュ②.csv",
               "type":"file"
+            },
+            {
+              "name":"【大崎 甘奈】 誕生日ミニコミュ③.csv",
+              "type":"file"
             }
           ]
         },
@@ -13300,6 +13326,10 @@
           "children":[
             {
               "name":"【大崎 甜花】 誕生日ミニコミュ①.csv",
+              "type":"file"
+            },
+            {
+              "name":"【大崎 甜花】 誕生日ミニコミュ③.csv",
               "type":"file"
             },
             {
