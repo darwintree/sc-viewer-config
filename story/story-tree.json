@@ -2163,7 +2163,31 @@
           "type":"directory",
           "children":[
             {
+              "name":"决赛后剧情.csv",
+              "type":"file"
+            },
+            {
+              "name":"諦められない夢.csv",
+              "type":"file"
+            },
+            {
+              "name":"季度3（失败）.csv",
+              "type":"file"
+            },
+            {
               "name":"秘藏的咒语.csv",
+              "type":"file"
+            },
+            {
+              "name":"决赛前剧情.csv",
+              "type":"file"
+            },
+            {
+              "name":"少しずつ進みたい.csv",
+              "type":"file"
+            },
+            {
+              "name":"季度3（通过）.csv",
               "type":"file"
             },
             {
@@ -2172,6 +2196,50 @@
             },
             {
               "name":"クールで真面目な女の子.csv",
+              "type":"file"
+            },
+            {
+              "name":"季度4（失败）.csv",
+              "type":"file"
+            },
+            {
+              "name":"季度2（通过）.csv",
+              "type":"file"
+            },
+            {
+              "name":"季度1（通过）.csv",
+              "type":"file"
+            },
+            {
+              "name":"アイドル失格.csv",
+              "type":"file"
+            },
+            {
+              "name":"季度2（失败）.csv",
+              "type":"file"
+            },
+            {
+              "name":"半决赛前.csv",
+              "type":"file"
+            },
+            {
+              "name":"ファンのため、自分のため.csv",
+              "type":"file"
+            },
+            {
+              "name":"季度4（通过）.csv",
+              "type":"file"
+            },
+            {
+              "name":"半决赛后.csv",
+              "type":"file"
+            },
+            {
+              "name":"半决赛淘汰.csv",
+              "type":"file"
+            },
+            {
+              "name":"季度1（失败）.csv",
               "type":"file"
             },
             {
