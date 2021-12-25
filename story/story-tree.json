@@ -385,6 +385,36 @@
           ]
         },
         {
+          "name":"G.R.A.D.篇",
+          "type":"directory",
+          "children":[
+            {
+              "name":"跳ねるように進む.csv",
+              "type":"file"
+            },
+            {
+              "name":"つづく空のはじまり.csv",
+              "type":"file"
+            },
+            {
+              "name":"足元、ぐるりとゆがんで.csv",
+              "type":"file"
+            },
+            {
+              "name":"空はつづく.csv",
+              "type":"file"
+            },
+            {
+              "name":"それでも…….csv",
+              "type":"file"
+            },
+            {
+              "name":"とまる歩みに.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"Morning",
           "type":"directory",
           "children":[
