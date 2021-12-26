@@ -13349,6 +13349,32 @@
           ]
         },
         {
+          "name":"【ちょー早い！】和泉愛依",
+          "type":"directory",
+          "children":[
+            {
+              "name":"潜入任務、失败……！？.csv",
+              "type":"file"
+            },
+            {
+              "name":"大変っしょ？.csv",
+              "type":"file"
+            },
+            {
+              "name":"どこまで走る～？.csv",
+              "type":"file"
+            },
+            {
+              "name":"配信的なやつ～？.csv",
+              "type":"file"
+            },
+            {
+              "name":"発音の壁も……破れ……！.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【２８３プロのヒナ】和泉愛依",
           "type":"directory",
           "children":[
