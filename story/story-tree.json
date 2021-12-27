@@ -3519,6 +3519,24 @@
           ]
         },
         {
+          "name":"【ワン・デイ】八宮めぐる",
+          "type":"directory",
+          "children":[
+            {
+              "name":"レッツ買い出し.csv",
+              "type":"file"
+            },
+            {
+              "name":"レッツ作戦会議.csv",
+              "type":"file"
+            },
+            {
+              "name":"レッツすごろく.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【アイの誓い】八宮めぐる",
           "type":"directory",
           "children":[
