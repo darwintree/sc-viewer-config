@@ -3037,6 +3037,20 @@
               "type":"file"
             }
           ]
+        },
+        {
+          "name":"【X-DAY】緋田美琴",
+          "type":"directory",
+          "children":[
+            {
+              "name":"soiree.csv",
+              "type":"file"
+            },
+            {
+              "name":"matinee.csv",
+              "type":"file"
+            }
+          ]
         }
       ]
     },
