@@ -262,6 +262,14 @@
       "name":"【ビコーズ・ラブ】月岡恋鐘",
       "rarity":4,
       "type":"s"
+    },
+    "2040040080":{
+      "card":"https://shinycolors.enza.fun/assets/070a6bf521f946a6293d236cd02cce44a1bdd80886627dee0ede937ba768e8b4?v=1",
+      "hash":"2ebe0c3af68033e4dec9dca8f9bc7b7a",
+      "id":"2040040080",
+      "name":"【あけまして、大吉～！】月岡恋鐘",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -364,6 +372,10 @@
     {
       "id":"2040040070",
       "name":"【ビコーズ・ラブ】月岡恋鐘"
+    },
+    {
+      "id":"2040040080",
+      "name":"【あけまして、大吉～！】月岡恋鐘"
     }
   ]
 }

@@ -143,6 +143,20 @@
       "road":false,
       "type":"p"
     },
+    "1040050070":{
+      "card":"https://shinycolors.enza.fun/assets/5ef04ea6013ac910f0c8a314ce3bced1747bb2549a3a8834026507d24a2d2197?v=1",
+      "comment":"いい子にも、悪い子にも……",
+      "fes_card":"https://shinycolors.enza.fun/assets/ccbfb905a8d32c635c71e30e545b487ce643144deeb461d1a215ff5712f639e5?v=1",
+      "hash":"26fa26397363027d6a7d3a5522da60ff",
+      "icon":"https://shinycolors.enza.fun/assets/bb460d7b31d4df45627c02e188f709f1206e0c28861809a6cd55da7d2390c3e9?v=1",
+      "id":"1040050070",
+      "m_movie":"https://shinycolors.enza.fun/assets/7bd781eb05861a36aa92420113ddd7ab5fe51a1fa9a944230db81b32618be418.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/eb389d81e05c5db0b4ee97a33238b1dd7e8205234ae2c3f40213bc67684941ff.mp4?v=1",
+      "name":"【Have a bad day♥】田中摩美々",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930050010":{
       "card":"https://shinycolors.enza.fun/assets/95723d666e9cb8980793abf2fcc307a7373218923f43f94cb8720dbe418cb73c?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/0eff8aa709fe13b086941fd116a7316a04b76b8bc84817182b1ba12a3fe930cb?v=3",
@@ -308,6 +322,10 @@
     {
       "id":"1040050060",
       "name":"【アバウト-ナイト-ライト】田中摩美々"
+    },
+    {
+      "id":"1040050070",
+      "name":"【Have a bad day♥】田中摩美々"
     },
     {
       "id":"1930050010",

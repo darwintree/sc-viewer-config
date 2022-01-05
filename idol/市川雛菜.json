@@ -132,6 +132,14 @@
       "name":"【Re:BIRTH】市川雛菜",
       "rarity":4,
       "type":"s"
+    },
+    "2040230030":{
+      "card":"https://shinycolors.enza.fun/assets/9814ae8d63dcc00f8f73206b0f14bb35cb3e56f83c33fd761cb6a307e9267d2d?v=1",
+      "hash":"ee12e9ae2e5ebb6f8d17c473bf877444",
+      "id":"2040230030",
+      "name":"【♡like】市川雛菜",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -182,6 +190,10 @@
     {
       "id":"2040230020",
       "name":"【Re:BIRTH】市川雛菜"
+    },
+    {
+      "id":"2040230030",
+      "name":"【♡like】市川雛菜"
     }
   ]
 }

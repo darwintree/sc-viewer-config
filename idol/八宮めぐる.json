@@ -270,6 +270,14 @@
       "name":"【Scoop up Scraps】八宮めぐる",
       "rarity":4,
       "type":"s"
+    },
+    "2040030080":{
+      "card":"https://shinycolors.enza.fun/assets/efcb4b439ba07afcead672d2eba30633ef3a10b423f28455ccba5be756d162b9?v=1",
+      "hash":"8c2146313f0a4d22ec83cc8c41129e98",
+      "id":"2040030080",
+      "name":"【ワン・デイ】八宮めぐる",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -376,6 +384,10 @@
     {
       "id":"2040030070",
       "name":"【Scoop up Scraps】八宮めぐる"
+    },
+    {
+      "id":"2040030080",
+      "name":"【ワン・デイ】八宮めぐる"
     }
   ]
 }

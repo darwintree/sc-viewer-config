@@ -11,6 +11,18 @@
       "road":true,
       "type":"p"
     },
+    "1030250010":{
+      "card":"https://shinycolors.enza.fun/assets/e2a4893bbb680f4921afb6db91cc40d5d093a2814f863880af9adb7b9b58b442?v=1",
+      "fes_card":"https://shinycolors.enza.fun/assets/32f0fe11b80ec66218c4465aba5660258cb0ed650fe4bdc770bbb0fff018b060?v=1",
+      "hash":"7f5add8c673347fa86483b1b065b00c8",
+      "icon":"https://shinycolors.enza.fun/assets/621b6e9a2379cb5652e4aa0c24913c845229d060b5934e07ca1b02146eca15c3?v=1",
+      "id":"1030250010",
+      "m_movie":"https://shinycolors.enza.fun/assets/ab17fba653a2c576e8f26c5a76adca25c768105c40bc399ffa71d0a18422d218.mp4?v=1",
+      "name":"【SEASON】緋田美琴",
+      "rarity":3,
+      "road":false,
+      "type":"p"
+    },
     "1040250010":{
       "card":"https://shinycolors.enza.fun/assets/3415b58bddb7fffd8a7e111899098733db195cfeded244e861b28e15c7fefc5d?v=2",
       "comment":"──ぐるぐる走り回って\n私のこと、探していたの？",
@@ -94,12 +106,24 @@
       "name":"【RESONANCE】緋田美琴",
       "rarity":4,
       "type":"s"
+    },
+    "2040250030":{
+      "card":"https://shinycolors.enza.fun/assets/e5b259cf431536a763d3116ec447ddb1cd306134f8ae7716fb0b32ad9ecbffa1?v=1",
+      "hash":"b08a1aa095588f995b2db029111fcbbc",
+      "id":"2040250030",
+      "name":"【X-DAY】緋田美琴",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
     {
       "id":"1020250010",
       "name":"【白いツバサ】緋田美琴"
+    },
+    {
+      "id":"1030250010",
+      "name":"【SEASON】緋田美琴"
     },
     {
       "id":"1040250010",
@@ -132,6 +156,10 @@
     {
       "id":"2040250020",
       "name":"【RESONANCE】緋田美琴"
+    },
+    {
+      "id":"2040250030",
+      "name":"【X-DAY】緋田美琴"
     }
   ]
 }
