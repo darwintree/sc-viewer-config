@@ -11827,6 +11827,32 @@
           ]
         },
         {
+          "name":"【さよならごっこ】杜野凛世",
+          "type":"directory",
+          "children":[
+            {
+              "name":"常盤.csv",
+              "type":"file"
+            },
+            {
+              "name":"南天.csv",
+              "type":"file"
+            },
+            {
+              "name":"遠きにて.csv",
+              "type":"file"
+            },
+            {
+              "name":"我に帰れ.csv",
+              "type":"file"
+            },
+            {
+              "name":"君離る.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【２８３プロのヒナ】杜野凛世",
           "type":"directory",
           "children":[
