@@ -14,6 +14,7 @@
     "W.I.N.G.編",
     "【ストライク狙って】大崎甜花",
     "【Summer for Us】大崎甜花",
+    "【Fallin' Snow in】大崎 甜花",
     "【BON・BON・DAY！】大崎甜花",
     "【２８３プロのヒナ】大崎甜花",
     "【好きなものはなんですか？】大崎甜花",
@@ -117,6 +118,10 @@
     "【Summer for Us】大崎甜花":[
       "Me & You.csv",
       "Together.csv"
+    ],
+    "【Fallin' Snow in】大崎 甜花":[
+      "Winter Story.csv",
+      "Fallin' Memory.csv"
     ],
     "【BON・BON・DAY！】大崎甜花":[
       "チョコレート物語.csv",
