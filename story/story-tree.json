@@ -10329,6 +10329,32 @@
           ]
         },
         {
+          "name":"【ひとつ、はたたく】櫻木真乃",
+          "type":"directory",
+          "children":[
+            {
+              "name":"雪割草のあたま.csv",
+              "type":"file"
+            },
+            {
+              "name":"はらはら、雪が重なるように.csv",
+              "type":"file"
+            },
+            {
+              "name":"勇気をくださいました.csv",
+              "type":"file"
+            },
+            {
+              "name":"新しい空をゆくために.csv",
+              "type":"file"
+            },
+            {
+              "name":"２ステップめ.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"ファン感謝祭編",
           "type":"directory",
           "children":[
