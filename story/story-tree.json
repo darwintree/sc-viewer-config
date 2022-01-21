@@ -8925,6 +8925,24 @@
           ]
         },
         {
+          "name":"【レッツ☆忍び足！】大崎甘奈",
+          "type":"directory",
+          "children":[
+            {
+              "name":"臨・兵・闘・者・あとなあに？.csv",
+              "type":"file"
+            },
+            {
+              "name":"抜き足・差し足・起こさない…….csv",
+              "type":"file"
+            },
+            {
+              "name":"我らこそ……！.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【約束ペタル】大崎甘奈",
           "type":"directory",
           "children":[
@@ -9436,6 +9454,24 @@
             },
             {
               "name":"判明！ふたりの相違点.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【ソー・ディフィカルト！】小宮果穂",
+          "type":"directory",
+          "children":[
+            {
+              "name":"ないしょの時間.csv",
+              "type":"file"
+            },
+            {
+              "name":"いつでもいっしょ.csv",
+              "type":"file"
+            },
+            {
+              "name":"ないしょの相談.csv",
               "type":"file"
             }
           ]
