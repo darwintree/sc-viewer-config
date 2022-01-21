@@ -2061,6 +2061,24 @@
           ]
         },
         {
+          "name":"【カラメル】樋口円香",
+          "type":"directory",
+          "children":[
+            {
+              "name":"あまい.csv",
+              "type":"file"
+            },
+            {
+              "name":"and（call）.csv",
+              "type":"file"
+            },
+            {
+              "name":"にがい.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【ギンコ・ビローバ】樋口円香",
           "type":"directory",
           "children":[
