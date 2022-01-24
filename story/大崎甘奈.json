@@ -1,184 +1,184 @@
 {
   "list":[
-    "【スタンバイオッケー】大崎甘奈",
-    "W.I.N.G.編",
-    "【ever-】大崎甘奈",
-    "ファン感謝祭編",
-    "【雪空セパレート】大崎甘奈",
-    "【レッツ☆忍び足！】大崎甘奈",
-    "【約束ペタル】大崎甘奈",
+    "G.R.A.D.編",
     "【ゆらゆらアクアリウム】大崎甘奈",
-    "【甜花ちゃんといっしょ☆】大崎甘奈",
+    "誕生日",
+    "【ふたつの雨】大崎甘奈",
+    "【似合うかな？】大崎甘奈",
+    "ファン感謝祭編",
+    "【ないしょのスイーツ】大崎甘奈",
+    "【見つけたい、だけど……】大崎甘奈",
+    "【約束ペタル】大崎甘奈",
+    "W.I.N.G.編",
+    "【幸せのりんご飴】大崎甘奈",
+    "【雪空セパレート】大崎甘奈",
+    "【ever-】大崎甘奈",
+    "Morning",
+    "【レッツ☆忍び足！】大崎甘奈",
+    "【お散歩サンライト】大崎甘奈",
     "【叶えて✰ゴールドフィッシュ】大崎甘奈",
     "【２８３プロのヒナ】大崎甘奈",
-    "G.R.A.D.編",
-    "【見つけたい、だけど……】大崎甘奈",
-    "Morning",
-    "【幸せのりんご飴】大崎甘奈",
-    "【ふたつの雨】大崎甘奈",
-    "【お散歩サンライト】大崎甘奈",
+    "【スタンバイオッケー】大崎甘奈",
     "【冬の日の『贈り物』】大崎甘奈",
-    "【似合うかな？】大崎甘奈",
-    "誕生日",
-    "【ないしょのスイーツ】大崎甘奈"
+    "【甜花ちゃんといっしょ☆】大崎甘奈"
   ],
   "details":{
-    "【スタンバイオッケー】大崎甘奈":[
-      "For the shining.csv",
-      "Sweet with S.csv",
-      "Heart Beat.csv",
-      "Sweet with U.csv",
-      "Lesson and gift.csv"
-    ],
-    "W.I.N.G.編":[
-      "淘汰剧情.csv",
-      "ジェミニ.csv",
-      "半决赛后剧情.csv",
-      "シーズン2（失敗）.csv",
-      "シーズン1（失敗）.csv",
-      "半决赛前剧情.csv",
-      "オーディション前③.csv",
-      "不安な時期.csv",
-      "シーズン4（クリア）.csv",
-      "無理をしてでも.csv",
-      "シーズン2（クリア）.csv",
-      "シーズン1（クリア）.csv",
-      "オーディション前⑥.csv",
-      "试镜后 失败②.csv",
-      "一等星の体温.csv",
-      "オーディション後 勝利②.csv",
-      "决赛前剧情.csv",
-      "オーディション後 勝利①.csv",
-      "甘奈の資質.csv",
-      "シーズン3（失敗）.csv",
-      "笑顔の輝き.csv",
-      "オーディション前②.csv",
-      "オーディション前①.csv",
-      "シーズン4（失敗）.csv",
-      "produce_events_101400002.csv",
-      "决赛后剧情.csv",
-      "シーズン3（クリア）.csv",
-      "オーディション後 敗北①.csv",
-      "growing sweet.csv"
-    ],
-    "【ever-】大崎甘奈":[
-      "アマイ永遠.csv",
-      "２回目.csv",
-      "ポーチできたの☆.csv"
-    ],
-    "ファン感謝祭編":[
-      "ビビ・バビ・ピンヒール.csv",
-      "いつまでも、いつまでも.csv",
-      "ワンス・アポン・ア・タイム.csv",
-      "感謝祭本番後（通常）.csv",
-      "リハーサル後.csv",
-      "ハッピーエンドの先だとしたら.csv",
-      "花よ、時よ、そのまにまに.csv",
-      "リハーサル前.csv",
-      "Happily ever after.csv",
-      "感謝祭本番後（MVP）.csv",
-      "感謝祭本番前（ユニット）.csv"
-    ],
-    "【雪空セパレート】大崎甘奈":[
-      "How to warm.csv",
-      "Put hands together.csv",
-      "Winter fashion☆.csv",
-      "warmth in hand.csv",
-      "Day star.csv"
-    ],
-    "【レッツ☆忍び足！】大崎甘奈":[
-      "臨・兵・闘・者・あとなあに？.csv",
-      "抜き足・差し足・起こさない…….csv",
-      "我らこそ……！.csv"
-    ],
-    "【約束ペタル】大崎甘奈":[
-      "Promise.csv",
-      "How long.csv",
-      "Absence makes ….csv",
-      "Spring talk.csv",
-      "Happy contact.csv"
+    "G.R.A.D.編":[
+      "こわいものはなに？.csv",
+      "予選前コミュ.csv",
+      "予選後コミュ　胜利.csv",
+      "決勝後コミュ　勝利.csv",
+      "無理にでも浮かび上がる.csv",
+      "決勝前コミュ.csv",
+      "突き放して（甘やかして）.csv",
+      "care, care, care....csv"
     ],
     "【ゆらゆらアクアリウム】大崎甘奈":[
       "Prepared before.csv",
-      "Aquarium white.csv",
+      "Care of yourself.csv",
       "Cleaning with me !.csv",
       "To the future A.csv",
-      "Care of yourself.csv"
+      "Aquarium white.csv"
     ],
-    "【甜花ちゃんといっしょ☆】大崎甘奈":[
-      "一緒にパシャリ☆だよ.csv",
-      "思い出しちゃったかも…….csv",
-      "見つけてほしいなっ☆.csv"
-    ],
-    "【叶えて✰ゴールドフィッシュ】大崎甘奈":[
-      "Request 2 _ Exercising.csv",
-      "Delicious Anniversary.csv",
-      "Persistence pays off ☆.csv",
-      "Scooping and Wishing.csv",
-      "Request 1 _ Cooking.csv"
-    ],
-    "【２８３プロのヒナ】大崎甘奈":[
-      "スウィート・シスター.csv",
-      "キュート・フレンズ.csv"
-    ],
-    "G.R.A.D.編":[
-      "決勝前コミュ.csv",
-      "決勝後コミュ　勝利.csv",
-      "care, care, care....csv",
-      "突き放して（甘やかして）.csv",
-      "予選前コミュ.csv",
-      "無理にでも浮かび上がる.csv",
-      "こわいものはなに？.csv",
-      "予選後コミュ　胜利.csv"
-    ],
-    "【見つけたい、だけど……】大崎甘奈":[
-      "寂しく…….csv",
-      "安心してね……！.csv"
-    ],
-    "Morning":[
-      "Morning③.csv",
-      "Morning⑦.csv",
-      "Morning⑥.csv",
-      "Morning①.csv",
-      "Morning④.csv",
-      "Morning⑤.csv",
-      "Morning②.csv"
-    ],
-    "【幸せのりんご飴】大崎甘奈":[
-      "どこがいいかな☆.csv",
-      "仲良しの『いただきます』.csv",
-      "それぞれの関係.csv"
+    "誕生日":[
+      "【大崎 甘奈】 誕生日ミニコミュ②.csv",
+      "【大崎 甘奈】 誕生日ミニコミュ③.csv"
     ],
     "【ふたつの雨】大崎甘奈":[
       "あーあ……雨…….csv",
       "あ！　雨☆.csv"
     ],
-    "【お散歩サンライト】大崎甘奈":[
-      "『Have a fever _』.csv",
-      "『Take care of you』.csv",
-      "『Sorry have a fever』.csv",
-      "『Thank you A』.csv",
-      "『『I appreciate your…』』.csv"
-    ],
-    "【冬の日の『贈り物』】大崎甘奈":[
-      "曇り空、私の心.csv",
-      "冬の日、灯す明.csv"
-    ],
     "【似合うかな？】大崎甘奈":[
-      "まじめショッピング.csv",
       "choice to ….csv",
-      "Sweet shopping.csv"
+      "Sweet shopping.csv",
+      "まじめショッピング.csv"
     ],
-    "誕生日":[
-      "【大崎 甘奈】 誕生日ミニコミュ③.csv",
-      "【大崎 甘奈】 誕生日ミニコミュ②.csv"
+    "ファン感謝祭編":[
+      "Happily ever after.csv",
+      "いつまでも、いつまでも.csv",
+      "感謝祭本番前（ユニット）.csv",
+      "ビビ・バビ・ピンヒール.csv",
+      "ハッピーエンドの先だとしたら.csv",
+      "花よ、時よ、そのまにまに.csv",
+      "感謝祭本番後（MVP）.csv",
+      "感謝祭本番後（通常）.csv",
+      "リハーサル後.csv",
+      "リハーサル前.csv",
+      "ワンス・アポン・ア・タイム.csv"
     ],
     "【ないしょのスイーツ】大崎甘奈":[
       "A's happy with ….csv",
-      "warmiNg heart for ….csv",
-      "dAte with T ☆.csv",
       "warMing heart for f.csv",
-      "A's unhappy.csv"
+      "A's unhappy.csv",
+      "warmiNg heart for ….csv",
+      "dAte with T ☆.csv"
+    ],
+    "【見つけたい、だけど……】大崎甘奈":[
+      "寂しく…….csv",
+      "安心してね……！.csv"
+    ],
+    "【約束ペタル】大崎甘奈":[
+      "Promise.csv",
+      "How long.csv",
+      "Happy contact.csv",
+      "Absence makes ….csv",
+      "Spring talk.csv"
+    ],
+    "W.I.N.G.編":[
+      "オーディション後 敗北①.csv",
+      "オーディション前②.csv",
+      "シーズン1（クリア）.csv",
+      "不安な時期.csv",
+      "一等星の体温.csv",
+      "半决赛后剧情.csv",
+      "シーズン4（失敗）.csv",
+      "决赛前剧情.csv",
+      "オーディション前①.csv",
+      "シーズン1（失敗）.csv",
+      "试镜后 失败②.csv",
+      "决赛后剧情.csv",
+      "無理をしてでも.csv",
+      "シーズン2（失敗）.csv",
+      "オーディション後 勝利②.csv",
+      "オーディション前⑥.csv",
+      "ジェミニ.csv",
+      "シーズン3（クリア）.csv",
+      "シーズン2（クリア）.csv",
+      "オーディション前③.csv",
+      "シーズン3（失敗）.csv",
+      "笑顔の輝き.csv",
+      "シーズン4（クリア）.csv",
+      "オーディション後 勝利①.csv",
+      "半决赛前剧情.csv",
+      "淘汰剧情.csv",
+      "produce_events_101400002.csv",
+      "growing sweet.csv",
+      "甘奈の資質.csv"
+    ],
+    "【幸せのりんご飴】大崎甘奈":[
+      "仲良しの『いただきます』.csv",
+      "それぞれの関係.csv",
+      "どこがいいかな☆.csv"
+    ],
+    "【雪空セパレート】大崎甘奈":[
+      "warmth in hand.csv",
+      "Put hands together.csv",
+      "How to warm.csv",
+      "Winter fashion☆.csv",
+      "Day star.csv"
+    ],
+    "【ever-】大崎甘奈":[
+      "２回目.csv",
+      "アマイ永遠.csv",
+      "ポーチできたの☆.csv"
+    ],
+    "Morning":[
+      "Morning⑤.csv",
+      "Morning①.csv",
+      "Morning②.csv",
+      "Morning⑦.csv",
+      "Morning④.csv",
+      "Morning⑥.csv",
+      "Morning③.csv"
+    ],
+    "【レッツ☆忍び足！】大崎甘奈":[
+      "抜き足・差し足・起こさない…….csv",
+      "臨・兵・闘・者・あとなあに？.csv",
+      "我らこそ……！.csv"
+    ],
+    "【お散歩サンライト】大崎甘奈":[
+      "『Take care of you』.csv",
+      "『Thank you A』.csv",
+      "『Sorry have a fever』.csv",
+      "『Have a fever _』.csv",
+      "『『I appreciate your…』』.csv"
+    ],
+    "【叶えて✰ゴールドフィッシュ】大崎甘奈":[
+      "Request 1 _ Cooking.csv",
+      "Request 2 _ Exercising.csv",
+      "Delicious Anniversary.csv",
+      "Scooping and Wishing.csv",
+      "Persistence pays off ☆.csv"
+    ],
+    "【２８３プロのヒナ】大崎甘奈":[
+      "スウィート・シスター.csv",
+      "キュート・フレンズ.csv"
+    ],
+    "【スタンバイオッケー】大崎甘奈":[
+      "Sweet with S.csv",
+      "Heart Beat.csv",
+      "Sweet with U.csv",
+      "For the shining.csv",
+      "Lesson and gift.csv"
+    ],
+    "【冬の日の『贈り物』】大崎甘奈":[
+      "冬の日、灯す明.csv",
+      "曇り空、私の心.csv"
+    ],
+    "【甜花ちゃんといっしょ☆】大崎甘奈":[
+      "見つけてほしいなっ☆.csv",
+      "思い出しちゃったかも…….csv",
+      "一緒にパシャリ☆だよ.csv"
     ]
   }
 }
