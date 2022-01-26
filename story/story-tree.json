@@ -8227,6 +8227,36 @@
       "type":"directory",
       "children":[
         {
+          "name":"G.R.A.D.編",
+          "type":"directory",
+          "children":[
+            {
+              "name":"ミス・ミスティー・ガール.csv",
+              "type":"file"
+            },
+            {
+              "name":"ザ・グレイテスト・エスケイプ.csv",
+              "type":"file"
+            },
+            {
+              "name":"透明色だった、みたいに.csv",
+              "type":"file"
+            },
+            {
+              "name":"化けの皮 3,2,1.csv",
+              "type":"file"
+            },
+            {
+              "name":"SUKI・YAKI.csv",
+              "type":"file"
+            },
+            {
+              "name":"What's going on_.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【摩的・アンチテーゼ】田中摩美々",
           "type":"directory",
           "children":[
