@@ -1807,6 +1807,44 @@
           ]
         },
         {
+          "name":"階段の先の君へ",
+          "type":"directory",
+          "children":[
+            {
+              "name":"第5話-ファイ、オー！.csv",
+              "type":"file"
+            },
+            {
+              "name":"第2話-まだ帰りたくない.csv",
+              "type":"file"
+            },
+            {
+              "name":"オープニング-拝啓、階段の先の君へ.csv",
+              "type":"file"
+            },
+            {
+              "name":"エンディング-追伸、写真を添えて送ります.csv",
+              "type":"file"
+            },
+            {
+              "name":"第1話-温かいうちに.csv",
+              "type":"file"
+            },
+            {
+              "name":"第4話-夕焼け小焼けで.csv",
+              "type":"file"
+            },
+            {
+              "name":"第6話-鬼は外、福は内.csv",
+              "type":"file"
+            },
+            {
+              "name":"第3話-夜の食堂にて.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"The Straylight",
           "type":"directory",
           "children":[
