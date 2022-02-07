@@ -258,6 +258,14 @@
       "name":"【数・数・娘・娘】幽谷霧子",
       "rarity":4,
       "type":"s"
+    },
+    "2040080060":{
+      "card":"https://shinycolors.enza.fun/assets/6b7f9af0dfc328deecd830a6008db9f3a6a58cb6e82dab01223cd5828defbde3?v=1",
+      "hash":"cf741b1b85e37cfb1cf5610e7534e82d",
+      "id":"2040080060",
+      "name":"【午・燦・娘・娘】幽谷霧子",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -356,6 +364,10 @@
     {
       "id":"2040080050",
       "name":"【数・数・娘・娘】幽谷霧子"
+    },
+    {
+      "id":"2040080060",
+      "name":"【午・燦・娘・娘】幽谷霧子"
     }
   ]
 }

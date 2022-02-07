@@ -278,6 +278,14 @@
       "name":"【永遠の方程式】風野灯織",
       "rarity":4,
       "type":"s"
+    },
+    "2040020080":{
+      "card":"https://shinycolors.enza.fun/assets/248ad3a8ee3fd01342fc803e268be0862b6c793653fc943ef933b79cda6921b2?v=1",
+      "hash":"18d8403ed1a388660e9155bdcc8f6965",
+      "id":"2040020080",
+      "name":"【WtoW】風野灯織",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -388,6 +396,10 @@
     {
       "id":"2040020070",
       "name":"【永遠の方程式】風野灯織"
+    },
+    {
+      "id":"2040020080",
+      "name":"【WtoW】風野灯織"
     }
   ]
 }

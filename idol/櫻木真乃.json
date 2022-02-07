@@ -155,6 +155,20 @@
       "road":false,
       "type":"p"
     },
+    "1040010070":{
+      "card":"https://shinycolors.enza.fun/assets/e785e74124740c322ee1e03d63cfd7ddd1f3c5ab38439261e93ea72924f7c208?v=1",
+      "comment":"──届けてみせます",
+      "fes_card":"https://shinycolors.enza.fun/assets/36b664b429bbc9888c983b803edf3416393c4c933ff917e35ea5847b92387c32?v=1",
+      "hash":"6c1b876bbb3c4b1347f8ffb062cc01c8",
+      "icon":"https://shinycolors.enza.fun/assets/cdf3481708361ad7d07d37dacc0770fe9e9841361a87a12e4530b9612221eb9b?v=1",
+      "id":"1040010070",
+      "m_movie":"https://shinycolors.enza.fun/assets/883b3efb31d9074ba11c6630f16ca321467c0dbb95fb70297bf5c2f33f2b1f21.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/eeef79fcbbbc927350e3145dc043b1780b6f5825d98b566ad68bf7bd6b7a74f1.mp4?v=1",
+      "name":"【ひとつ、はたたく】櫻木真乃",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930010010":{
       "card":"https://shinycolors.enza.fun/assets/1416af99e4b181dfc06525be1bfbb41db1972ea85385ae2b4806a4b1e30d3c4a?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/1ff945a01a8df02ae770b520524774b43127b05c80275e9f06fea1133581db71?v=3",
@@ -348,6 +362,10 @@
     {
       "id":"1040010060",
       "name":"【花風Smiley】櫻木真乃"
+    },
+    {
+      "id":"1040010070",
+      "name":"【ひとつ、はたたく】櫻木真乃"
     },
     {
       "id":"1930010010",

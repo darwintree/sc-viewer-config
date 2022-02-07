@@ -23,6 +23,18 @@
       "road":false,
       "type":"p"
     },
+    "1030210020":{
+      "card":"https://shinycolors.enza.fun/assets/a89f4935e78a1623eec17f35d8e5cdc2943c703abb02d7a790cec1b59c59d63b?v=1",
+      "fes_card":"https://shinycolors.enza.fun/assets/39f0defb9c156d5bb4753a8949d24c89b70735cd04c40189ec6780de810568ff?v=1",
+      "hash":"f33cfd082411e9f909b8f91e7f455b21",
+      "icon":"https://shinycolors.enza.fun/assets/026d7e76f80bcda7b86b4c3ebf57d1330090d17b080fa25819dd32bcf1ab70b7?v=1",
+      "id":"1030210020",
+      "m_movie":"https://shinycolors.enza.fun/assets/7165fc9b7e8e4d72489623bf47b8f812e02c0f6029f33da5dcacd86f92013f3f.mp4?v=1",
+      "name":"【カラメル】樋口円香",
+      "rarity":3,
+      "road":false,
+      "type":"p"
+    },
     "1040210010":{
       "card":"https://shinycolors.enza.fun/assets/31f3eafca1e1b0f9396d9c5d3986ef399b85b769eedcadda9b33541a7a72505a?v=2",
       "comment":"嫌、近づかないで\n──さようなら",
@@ -146,6 +158,10 @@
     {
       "id":"1030210010",
       "name":"【ダウト】樋口円香"
+    },
+    {
+      "id":"1030210020",
+      "name":"【カラメル】樋口円香"
     },
     {
       "id":"1040210010",
