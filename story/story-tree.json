@@ -12449,6 +12449,44 @@
           ]
         },
         {
+          "name":"はこぶものたち",
+          "type":"directory",
+          "children":[
+            {
+              "name":"第4话-３つの夜.csv",
+              "type":"file"
+            },
+            {
+              "name":"第2话-みんなは頑張っている.csv",
+              "type":"file"
+            },
+            {
+              "name":"终章-運ぶ人.csv",
+              "type":"file"
+            },
+            {
+              "name":"第5话-みんなが.csv",
+              "type":"file"
+            },
+            {
+              "name":"第1话-小さな夜.csv",
+              "type":"file"
+            },
+            {
+              "name":"第6话-きみの座らないたくさんの席.csv",
+              "type":"file"
+            },
+            {
+              "name":"第3话-車輪.csv",
+              "type":"file"
+            },
+            {
+              "name":"序章-漕ぐ人.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"Catch the shiny tail",
           "type":"directory",
           "children":[
