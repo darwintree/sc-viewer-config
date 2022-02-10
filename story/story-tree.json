@@ -4663,6 +4663,24 @@
               "type":"file"
             },
             {
+              "name":"2022情人节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"【黛 冬優子】2022 バレンタイン準備.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"【黛 冬優子】2022バレンタインデー.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"冬優子へのプレゼント・生チョコレート.csv",
+                  "type":"file"
+                }
+              ]
+            },
+            {
               "name":"冬優子へのプレゼント・マドレーヌ＋♥.csv",
               "type":"file"
             },
@@ -7613,6 +7631,14 @@
                 {
                   "name":"special_communications_490102873.csv",
                   "type":"file"
+                },
+                {
+                  "name":"美琴へのプレゼント・チョコレート.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"【緋田 美琴】2022バレンタインデー.csv",
+                  "type":"file"
                 }
               ]
             },
@@ -9875,6 +9901,30 @@
             {
               "name":"【大崎 甘奈】 誕生日ミニコミュ③.csv",
               "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"节日剧情",
+          "type":"directory",
+          "children":[
+            {
+              "name":"2022情人节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"【大崎 甘奈】2022バレンタインデー.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"甘奈へのプレゼント・映えるチョコレート.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"【大崎 甘奈】2022 バレンタイン準備.csv",
+                  "type":"file"
+                }
+              ]
             }
           ]
         },
