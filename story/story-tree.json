@@ -9373,6 +9373,56 @@
               "type":"file"
             }
           ]
+        },
+        {
+          "name":"Landing Point編",
+          "type":"directory",
+          "children":[
+            {
+              "name":"再生.csv",
+              "type":"file"
+            },
+            {
+              "name":"Any way.csv",
+              "type":"file"
+            },
+            {
+              "name":"いつも通りにして最上の日々.csv",
+              "type":"file"
+            },
+            {
+              "name":"超HEAVY21グラム級.csv",
+              "type":"file"
+            },
+            {
+              "name":"capacity-game-over_.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ後コミュ《個人》 成功.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ1曲目前コミュ《個人》.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ後コミュ《個人》 大成功.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ3曲目前コミュ《個人》.csv",
+              "type":"file"
+            },
+            {
+              "name":"私だけ.csv",
+              "type":"file"
+            },
+            {
+              "name":"ライブ2曲目前コミュ《個人》.csv",
+              "type":"file"
+            }
+          ]
         }
       ]
     },
