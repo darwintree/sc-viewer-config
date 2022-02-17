@@ -114,6 +114,14 @@
       "name":"【X-DAY】緋田美琴",
       "rarity":4,
       "type":"s"
+    },
+    "2040250040":{
+      "card":"https://shinycolors.enza.fun/assets/3f592cd33620f7bf89204d41121e1858fb163645072f823d71ab9200a45769c9?v=1",
+      "hash":"19199b6cd8783022806d037760c3698f",
+      "id":"2040250040",
+      "name":"【LATE】緋田美琴",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -160,6 +168,10 @@
     {
       "id":"2040250030",
       "name":"【X-DAY】緋田美琴"
+    },
+    {
+      "id":"2040250040",
+      "name":"【LATE】緋田美琴"
     }
   ]
 }

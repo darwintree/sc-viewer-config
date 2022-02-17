@@ -59,6 +59,18 @@
       "road":false,
       "type":"p"
     },
+    "1030040050":{
+      "card":"https://shinycolors.enza.fun/assets/6c581bf5a55e71e7bfb725b9dac1ce7205993f4308748c63f61452255f203ba4?v=1",
+      "fes_card":"https://shinycolors.enza.fun/assets/cb64d3821a8719183a3b079c5fd85c7dcdc0d810cce8da2ac03d9c48299c91f0?v=1",
+      "hash":"63fd8c15d50074dedfbadb24782ada0d",
+      "icon":"https://shinycolors.enza.fun/assets/f03cc0ac67d75e5070417a86cf1b4fa52c8bbb8ab9a16531ec43724163e5dc85?v=1",
+      "id":"1030040050",
+      "m_movie":"https://shinycolors.enza.fun/assets/9feab005691706c5e4e337308eefd87ae5b91636b1df7ded6f5a3961bc2ce0c3.mp4?v=1",
+      "name":"【雪、えとせとら】月岡恋鐘",
+      "rarity":3,
+      "road":false,
+      "type":"p"
+    },
     "1040040010":{
       "card":"https://shinycolors.enza.fun/assets/6ea734d9dc454516711347e81366111cd5262e31f1d30f2e8860acd6b00464a8?v=7",
       "comment":"うちのいいとこ詰まっとるけん\n美味しかって言ってよね！",
@@ -292,6 +304,10 @@
     {
       "id":"1030040040",
       "name":"【猫道カントリー】月岡恋鐘"
+    },
+    {
+      "id":"1030040050",
+      "name":"【雪、えとせとら】月岡恋鐘"
     },
     {
       "id":"1040040010",

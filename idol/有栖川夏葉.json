@@ -143,6 +143,20 @@
       "road":false,
       "type":"p"
     },
+    "1040130070":{
+      "card":"https://shinycolors.enza.fun/assets/e3e4a58b22d7740b46435ce8a5677d3ee807ddd738a82a1a148465d9cad3ee8c?v=1",
+      "comment":"届けに来たのよ\nアナタのところまで",
+      "fes_card":"https://shinycolors.enza.fun/assets/c3e578646a46100143e21018597538bb4c1838c75a008cba2448753be9fc8430?v=1",
+      "hash":"5defd55fcfef7f2798696a9a7caa9974",
+      "icon":"https://shinycolors.enza.fun/assets/be8a92ed3a2fe4e488b3fb51bae946493b938be4108a92db38a33524a35b5c69?v=1",
+      "id":"1040130070",
+      "m_movie":"https://shinycolors.enza.fun/assets/a1cdcb645704b57666e96cd9129bef98757eec7614341183f81a6d5c50421652.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/d5ba5c24f6d0e59b0b546b665c2c7eab135e0a2e89c44783c90a241665f8f21d.mp4?v=1",
+      "name":"【マイバレンタイン】有栖川夏葉",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930130010":{
       "card":"https://shinycolors.enza.fun/assets/dacfb44d5b0efa8137afe2837c2b6d3153548ad5750cff0ce150aed8e358849a?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/ae554a594dfa238ae2b4e4558707366f2704c66547fb1700114691c963ba9f50?v=3",
@@ -308,6 +322,10 @@
     {
       "id":"1040130060",
       "name":"【夏は来ぬ】有栖川夏葉"
+    },
+    {
+      "id":"1040130070",
+      "name":"【マイバレンタイン】有栖川夏葉"
     },
     {
       "id":"1930130010",
