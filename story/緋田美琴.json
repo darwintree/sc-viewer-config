@@ -6,6 +6,7 @@
     "【SEASON】緋田美琴",
     "W.I.N.G.編",
     "Morning",
+    "【LATE】緋田美琴",
     "约定",
     "【CHILLY】緋田美琴",
     "节日剧情",
@@ -86,6 +87,11 @@
       "Morning⑥.csv",
       "Morning⑫.csv",
       "Morning⑮.csv"
+    ],
+    "【LATE】緋田美琴":[
+      "cake.csv",
+      "chocolate.csv",
+      "water.csv"
     ],
     "约定":[
       "produce_communication_promise_results_202500100222.csv",
