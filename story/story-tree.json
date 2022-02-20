@@ -12579,6 +12579,44 @@
           ]
         },
         {
+          "name":"#２８３をひろげよう",
+          "type":"directory",
+          "children":[
+            {
+              "name":"第5話-[283PRO]STAGE bhd.csv",
+              "type":"file"
+            },
+            {
+              "name":"第2話-[283PRO]MEETING bhd.csv",
+              "type":"file"
+            },
+            {
+              "name":"第6話-COLLABORATION.csv",
+              "type":"file"
+            },
+            {
+              "name":"エンディング-REPLY PARTY.csv",
+              "type":"file"
+            },
+            {
+              "name":"第3話-[283PRO]LESSON bhd.csv",
+              "type":"file"
+            },
+            {
+              "name":"第1話-MEETING.csv",
+              "type":"file"
+            },
+            {
+              "name":"第4話-[283PRO]RADIO bhd.csv",
+              "type":"file"
+            },
+            {
+              "name":"オープニング-PROJECT.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"シャイニーの日",
           "type":"directory",
           "children":[
