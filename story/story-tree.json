@@ -3211,6 +3211,32 @@
           ]
         },
         {
+          "name":"【マイバレンタイン】有栖川夏葉",
+          "type":"directory",
+          "children":[
+            {
+              "name":"トクシュウバレンタイン.csv",
+              "type":"file"
+            },
+            {
+              "name":"トクベツチョコレート.csv",
+              "type":"file"
+            },
+            {
+              "name":"カワリダネコロッケ.csv",
+              "type":"file"
+            },
+            {
+              "name":"オススメパンオショコラ.csv",
+              "type":"file"
+            },
+            {
+              "name":"サシイレマシュマロ.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【Sr×Ba×Cu=】有栖川夏葉",
           "type":"directory",
           "children":[
