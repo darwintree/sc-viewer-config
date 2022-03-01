@@ -155,6 +155,20 @@
       "road":false,
       "type":"p"
     },
+    "1040090070":{
+      "card":"https://shinycolors.enza.fun/assets/c92103b0bb98abc4970fd025f6f34f1936dd56a30f1f2bb58ff0e80b1b5e8771?v=1",
+      "comment":"『お父さん、今日はどこに連れて行ってくれるのー！』",
+      "fes_card":"https://shinycolors.enza.fun/assets/5cf1b1e22633cc5b612c06e8eb6094c927c0aa5b3138d08670eb28d40da5d022?v=1",
+      "hash":"719239603cf956949039f98f67526e70",
+      "icon":"https://shinycolors.enza.fun/assets/4f8245f5031ab40fa60f56f699427f74c4f4d0d397124e1099f2ea78f4bc6e56?v=1",
+      "id":"1040090070",
+      "m_movie":"https://shinycolors.enza.fun/assets/5e9d381136591b4b1c5f0591a859c803348e14793cd18f3aedd15899a8be28bf.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/3279ca257f6b9e1b828d87cc8508e6d09cfd24120cd7a44eb96581ac49fc21ef.mp4?v=1",
+      "name":"【ギア・アップ！ゴー・オン！】小宮果穂",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930090010":{
       "card":"https://shinycolors.enza.fun/assets/0dc88699e57487ab7fa67ada70a1f49d76d6554ad71cbe5ef8cb019162cd3929?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/76e7cef2864ccfd6374a80f013c24717d41e3d8416c585da263a98b7bee49e14?v=3",
@@ -316,6 +330,10 @@
     {
       "id":"1040090060",
       "name":"【フルスロットルエイジ！】小宮果穂"
+    },
+    {
+      "id":"1040090070",
+      "name":"【ギア・アップ！ゴー・オン！】小宮果穂"
     },
     {
       "id":"1930090010",
