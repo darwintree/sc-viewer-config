@@ -7007,6 +7007,32 @@
           ]
         },
         {
+          "name":"【ギア・アップ！ゴー・オン！】小宮果穂",
+          "type":"directory",
+          "children":[
+            {
+              "name":"もうちょっとだけ、これからも.csv",
+              "type":"file"
+            },
+            {
+              "name":"電池が切れたらおやすみ.csv",
+              "type":"file"
+            },
+            {
+              "name":"その日はきっとくるよ.csv",
+              "type":"file"
+            },
+            {
+              "name":"その日はすぐにくるよ.csv",
+              "type":"file"
+            },
+            {
+              "name":"もうちょっとだけ、このままで.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【ソー・ディフィカルト！】小宮果穂",
           "type":"directory",
           "children":[
