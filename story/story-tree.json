@@ -2775,6 +2775,20 @@
           ]
         },
         {
+          "name":"【WtoW】風野灯織",
+          "type":"directory",
+          "children":[
+            {
+              "name":"イルミネ間取引.csv",
+              "type":"file"
+            },
+            {
+              "name":"オン.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【みんなと結んだもの】風野灯織",
           "type":"directory",
           "children":[
@@ -12742,6 +12756,44 @@
             },
             {
               "name":"第2话-思いがけない到着駅.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"アフター・スクール・タイム",
+          "type":"directory",
+          "children":[
+            {
+              "name":"序章-砂時計くるくる.csv",
+              "type":"file"
+            },
+            {
+              "name":"第5话-笑って、笑って、笑って.csv",
+              "type":"file"
+            },
+            {
+              "name":"第3话-ネガポジ.csv",
+              "type":"file"
+            },
+            {
+              "name":"第4话-緊急ミッション.csv",
+              "type":"file"
+            },
+            {
+              "name":"第6话-時間なら止めなくていい.csv",
+              "type":"file"
+            },
+            {
+              "name":"第1话-思い出アルバム.csv",
+              "type":"file"
+            },
+            {
+              "name":"终章-またねって約束.csv",
+              "type":"file"
+            },
+            {
+              "name":"第2话-カウントダウン.csv",
               "type":"file"
             }
           ]
