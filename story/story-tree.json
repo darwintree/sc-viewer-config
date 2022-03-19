@@ -10729,6 +10729,24 @@
           ]
         },
         {
+          "name":"【春日影、さんならび】櫻木真乃",
+          "type":"directory",
+          "children":[
+            {
+              "name":"春行く道.csv",
+              "type":"file"
+            },
+            {
+              "name":"春降る道.csv",
+              "type":"file"
+            },
+            {
+              "name":"違え、合う.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"Landing Point編",
           "type":"directory",
           "children":[
