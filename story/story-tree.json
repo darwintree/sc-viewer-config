@@ -529,6 +529,24 @@
           ]
         },
         {
+          "name":"【春告窓】杜野凛世",
+          "type":"directory",
+          "children":[
+            {
+              "name":"小春.csv",
+              "type":"file"
+            },
+            {
+              "name":"来る.csv",
+              "type":"file"
+            },
+            {
+              "name":"沈丁.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"节日剧情",
           "type":"directory",
           "children":[
