@@ -13745,6 +13745,24 @@
               "type":"file"
             }
           ]
+        },
+        {
+          "name":"【左選んで～！】和泉愛依",
+          "type":"directory",
+          "children":[
+            {
+              "name":"おはようございます！先輩！.csv",
+              "type":"file"
+            },
+            {
+              "name":"うちに勝てる～？.csv",
+              "type":"file"
+            },
+            {
+              "name":"放課後の買い食い～♪.csv",
+              "type":"file"
+            }
+          ]
         }
       ]
     },
