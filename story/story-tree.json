@@ -14235,6 +14235,24 @@
           ]
         },
         {
+          "name":"【それは途中の1ページ】白瀬咲耶",
+          "type":"directory",
+          "children":[
+            {
+              "name":"早く早くと続きを繰る.csv",
+              "type":"file"
+            },
+            {
+              "name":"いとおしそうに背を撫でる.csv",
+              "type":"file"
+            },
+            {
+              "name":"思い出綴じて しまいましょう.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【咲耶と摩美々のぶらり旅】白瀬咲耶",
           "type":"directory",
           "children":[
