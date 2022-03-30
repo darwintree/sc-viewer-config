@@ -13811,6 +13811,24 @@
           ]
         },
         {
+          "name":"【一夏一刻物語】桑山千雪",
+          "type":"directory",
+          "children":[
+            {
+              "name":"SOMETHING NEW.csv",
+              "type":"file"
+            },
+            {
+              "name":"A MEMORY～ある夏の出来事.csv",
+              "type":"file"
+            },
+            {
+              "name":"月明りの下で眠る人.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"W.I.N.G.編",
           "type":"directory",
           "children":[
