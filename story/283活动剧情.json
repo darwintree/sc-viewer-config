@@ -1,6 +1,7 @@
 {
   "list":[
     "薄桃色にこんがらがって",
+    "Detective×Murder",
     "流れ星が消えるまでのジャーニー",
     "Straylight.run()",
     "階段の先の君へ",
@@ -51,6 +52,10 @@
       "第3話 そして彼女はインターホンを鳴らす.csv",
       "第1話 アプリコット.csv",
       "第2話 反対ごっこ.csv"
+    ],
+    "Detective×Murder":[
+      "special_communications_490103201.csv",
+      "special_communications_490103202.csv"
     ],
     "流れ星が消えるまでのジャーニー":[
       "第2话-ふとなんとなく輪郭に触れ.csv",
