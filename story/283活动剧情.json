@@ -5,6 +5,7 @@
     "流れ星が消えるまでのジャーニー",
     "Straylight.run()",
     "階段の先の君へ",
+    "YOUR MY Love letter",
     "満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─",
     "World×Code",
     "The Straylight",
@@ -54,8 +55,10 @@
       "第2話 反対ごっこ.csv"
     ],
     "Detective×Murder":[
+      "special_communications_490103204.csv",
       "special_communications_490103201.csv",
-      "special_communications_490103202.csv"
+      "special_communications_490103202.csv",
+      "special_communications_490103203.csv"
     ],
     "流れ星が消えるまでのジャーニー":[
       "第2话-ふとなんとなく輪郭に触れ.csv",
@@ -86,6 +89,16 @@
       "第6話-鬼は外、福は内.csv",
       "第1話-温かいうちに.csv",
       "第3話-夜の食堂にて.csv"
+    ],
+    "YOUR MY Love letter":[
+      "第1话-song for Someone.csv",
+      "第6话-present.csv",
+      "第5话-good night.csv",
+      "第2话-voice for Someone.csv",
+      "第4话-off stage.csv",
+      "第3话-color for Someone.csv",
+      "终章-You are..csv",
+      "序章-I am..csv"
     ],
     "満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─":[
       "オープニング-私達の目的地.csv",
