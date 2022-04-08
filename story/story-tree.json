@@ -857,7 +857,19 @@
           "type":"directory",
           "children":[
             {
+              "name":"special_communications_490103209.csv",
+              "type":"file"
+            },
+            {
+              "name":"special_communications_490103212.csv",
+              "type":"file"
+            },
+            {
               "name":"special_communications_490103204.csv",
+              "type":"file"
+            },
+            {
+              "name":"special_communications_490103234.csv",
               "type":"file"
             },
             {
@@ -869,7 +881,15 @@
               "type":"file"
             },
             {
+              "name":"special_communications_490103208.csv",
+              "type":"file"
+            },
+            {
               "name":"special_communications_490103201.csv",
+              "type":"file"
+            },
+            {
+              "name":"special_communications_490103210.csv",
               "type":"file"
             },
             {
@@ -877,7 +897,15 @@
               "type":"file"
             },
             {
+              "name":"【２日目】09_07-さて…….csv",
+              "type":"file"
+            },
+            {
               "name":"special_communications_490103203.csv",
+              "type":"file"
+            },
+            {
+              "name":"special_communications_490103211.csv",
               "type":"file"
             },
             {
