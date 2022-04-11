@@ -8877,6 +8877,24 @@
           ]
         },
         {
+          "name":"【ピックアップ・スプリング】櫻木真乃",
+          "type":"directory",
+          "children":[
+            {
+              "name":"まなざし.csv",
+              "type":"file"
+            },
+            {
+              "name":"散らばる春のかけら.csv",
+              "type":"file"
+            },
+            {
+              "name":"バケツいっぱいの幸せから.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【by to illuminate】櫻木真乃",
           "type":"directory",
           "children":[
