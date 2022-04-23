@@ -288,6 +288,14 @@
       "name":"【黄昏時に会いましょう】桑山千雪",
       "rarity":4,
       "type":"s"
+    },
+    "2040160080":{
+      "card":"https://shinycolors.enza.fun/assets/6bd62746220a6361907db1d4784b8dfc99bb82989ac1f1549151ed92a76d1a48?v=1",
+      "hash":"9250d7112fe38e33fc4d80c384c5d4d9",
+      "id":"2040160080",
+      "name":"【signal】桑山千雪",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -398,6 +406,10 @@
     {
       "id":"2040160070",
       "name":"【黄昏時に会いましょう】桑山千雪"
+    },
+    {
+      "id":"2040160080",
+      "name":"【signal】桑山千雪"
     }
   ]
 }

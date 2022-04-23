@@ -155,6 +155,20 @@
       "road":false,
       "type":"p"
     },
+    "1040150070":{
+      "card":"https://shinycolors.enza.fun/assets/93f7eca9de52956f14fa5753324d12aec3dea0e022ccd30a47ffcc6e3a1c69de?v=1",
+      "comment":"花よりお団子……より……！",
+      "fes_card":"https://shinycolors.enza.fun/assets/6f6f28da0cceeae6090a277da2e2ac57490fe66da307c1e3fd7321200c65c5d3?v=1",
+      "hash":"2b096a875cd2646f801131d775f24332",
+      "icon":"https://shinycolors.enza.fun/assets/d57753bb9bedc2dc2fb6509c23fe9937dc359bcfe41e6ef82214e30c327b030c?v=1",
+      "id":"1040150070",
+      "m_movie":"https://shinycolors.enza.fun/assets/8de1b9c2aab890a99915203231fd31f4600b29f813c40bd129737afe8bbfdcda.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/8fe7d0425323077940b9830596b3d8803a53b518c9568d8170e12f91a3f85f01.mp4?v=1",
+      "name":"【Feel Like Flower】大崎甜花",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930150010":{
       "card":"https://shinycolors.enza.fun/assets/adab352aeb198fe771a4dbc2a6f9891243565cbf8d89c6fddf5a5cfca032150c?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/06503b5c5b67c2b812e22ba8aa2d6aa1fb594e69ed60f7e27c13bd8e13c43d5d?v=3",
@@ -340,6 +354,10 @@
     {
       "id":"1040150060",
       "name":"【バス・タイムの気分で】大崎甜花"
+    },
+    {
+      "id":"1040150070",
+      "name":"【Feel Like Flower】大崎甜花"
     },
     {
       "id":"1930150010",

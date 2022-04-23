@@ -143,6 +143,20 @@
       "road":false,
       "type":"p"
     },
+    "1040110070":{
+      "card":"https://shinycolors.enza.fun/assets/7780eff6afbff5b4e1fd6a067557e94fb52ed5ce7221984898a96288d7f6c3bd?v=1",
+      "comment":"出てこい、桜の精──……！",
+      "fes_card":"https://shinycolors.enza.fun/assets/fa206d484aeafb8e68c2879039234c1dab627c425a18b4f65542b2d1ff8c2331?v=1",
+      "hash":"742b5821396271e81f6b836efb95c5d1",
+      "icon":"https://shinycolors.enza.fun/assets/314a8dcfbae74a0010b96eee5c4142fd62190822da008472f872f5094d484987?v=1",
+      "id":"1040110070",
+      "m_movie":"https://shinycolors.enza.fun/assets/41407a80dbf2d8ff97fbd5c145ea9c9a7b6c4567852f7ce58ab6171ff9c4bc43.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/b0fc8d275606db33a0c1328097a3f0fdb7d5db90a27ee7ce2f2de6151ae39154.mp4?v=1",
+      "name":"【花染む街で、君と】西城樹里",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930110010":{
       "card":"https://shinycolors.enza.fun/assets/96a96880795c2ee2d1cb9b7a93ef59a2bd0f3c945c3b3d4998d01d752e19e452?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/ae2070ede5e563880854b17fc58b7c21d74ac142c76b791cc94dd89c3f74b2ca?v=3",
@@ -300,6 +314,10 @@
     {
       "id":"1040110060",
       "name":"【I・OWE・U】西城樹里"
+    },
+    {
+      "id":"1040110070",
+      "name":"【花染む街で、君と】西城樹里"
     },
     {
       "id":"1930110010",

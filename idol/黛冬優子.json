@@ -103,6 +103,20 @@
       "road":false,
       "type":"p"
     },
+    "1040180050":{
+      "card":"https://shinycolors.enza.fun/assets/3ebdd98e802b2f266a7fb2bfbc6055b73f61d9b31e4037a25ac3003411694451?v=1",
+      "comment":"こんな気持ち、\n散って、溶けちゃえばいいのに",
+      "fes_card":"https://shinycolors.enza.fun/assets/85cce63f70a6a2f03b002a08bb73bce97c8b8d39c007a678c4c7442ada0a0220?v=1",
+      "hash":"3ae3c6153f357a35b008246a203a41da",
+      "icon":"https://shinycolors.enza.fun/assets/0fbb1d700b72e04951defdd641be0cbd6c5fb49da8a96182b1b581abf16b4353?v=1",
+      "id":"1040180050",
+      "m_movie":"https://shinycolors.enza.fun/assets/76e00ee97b39021b26ce47d925c0d9cfdeeeaa12bd6170378ebaa93e0243cba5.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/2faa806921d24fb3125bb78300b40045945337a88b3aeba3fdfe5e32b12a72f2.mp4?v=1",
+      "name":"【multi-angle】黛冬優子",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930180010":{
       "card":"https://shinycolors.enza.fun/assets/49a5ae60a54cf89a1be05ddbfecaf272e81d3f52052cae8eb42a49205b9bebd2?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/2ae8e9110b0ce017746beac286efd1f3d1d64bf2d5f5cb617dac945d21f18b39?v=3",
@@ -198,6 +212,14 @@
       "name":"【Wrong？】黛冬優子",
       "rarity":4,
       "type":"s"
+    },
+    "2040180070":{
+      "card":"https://shinycolors.enza.fun/assets/a6be4bac5c81250f194117b7d1a89d5443afd979ead7ad93b8f49f9b02035ecb?v=1",
+      "hash":"b6c10c8e7ec56a85156aa1e3c8e8712a",
+      "id":"2040180070",
+      "name":"【二律背反sweet】黛冬優子",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -232,6 +254,10 @@
     {
       "id":"1040180040",
       "name":"【ONSTAGE？】黛冬優子"
+    },
+    {
+      "id":"1040180050",
+      "name":"【multi-angle】黛冬優子"
     },
     {
       "id":"1930180010",
@@ -276,6 +302,10 @@
     {
       "id":"2040180060",
       "name":"【Wrong？】黛冬優子"
+    },
+    {
+      "id":"2040180070",
+      "name":"【二律背反sweet】黛冬優子"
     }
   ]
 }
