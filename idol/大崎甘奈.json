@@ -59,6 +59,18 @@
       "road":false,
       "type":"p"
     },
+    "1030140050":{
+      "card":"https://shinycolors.enza.fun/assets/62d94b7da946a733a83f9e206f8736bbdaac13e2c4dad0ee3269fc35c4741132?v=1",
+      "fes_card":"https://shinycolors.enza.fun/assets/f21258efa7ff0a62a8de6a562e56080eeca32f998c4f232d4a1ffa98008ae472?v=1",
+      "hash":"83143000114dae6b3f04f8b4e3ad6ee9",
+      "icon":"https://shinycolors.enza.fun/assets/e24f1d6efd1dfe1d4f1b37b49095a9e9ca7c5cb8d037b815b48008824c86afa8?v=1",
+      "id":"1030140050",
+      "m_movie":"https://shinycolors.enza.fun/assets/fdbe31edebc6766c00d1b8d6035c6048ad4d45ff9dd07a853dcda74739d795c0.mp4?v=1",
+      "name":"【竜宮城へご招待☆】大崎甘奈",
+      "rarity":3,
+      "road":false,
+      "type":"p"
+    },
     "1040140010":{
       "card":"https://shinycolors.enza.fun/assets/5618f41f76de762f588cf695c28fd96ad696b6cb09424d8a8a5661ce1a6f3a85?v=7",
       "comment":"えーっと、ここをこうして……\nよし、バッチリだよね☆",
@@ -157,6 +169,20 @@
       "road":false,
       "type":"p"
     },
+    "1040140080":{
+      "card":"https://shinycolors.enza.fun/assets/9328c4a30687d21e22b36eb3c5b96ef5ffe5e839396b1b122c01b064587f18c0?v=1",
+      "comment":"お、おはよう……ございます……！",
+      "fes_card":"https://shinycolors.enza.fun/assets/e1b128160a0a6a200f1e03afb99efdba32a9ebcb99fabc9fa31d6911af2e3231?v=1",
+      "hash":"1aadd633117da85ce12e4ac7b021d007",
+      "icon":"https://shinycolors.enza.fun/assets/03c068f7b7a19cd1a357683569f8051e4a9105d46154d8e8d9c6c2d687585685?v=1",
+      "id":"1040140080",
+      "m_movie":"https://shinycolors.enza.fun/assets/2e56670796be10a1bc6c03c6221ee133921c8e86afb44204b374f18498a6aac5.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/c440c7789ac0d3f53b94d3d450041ef5403d6c0ab2806b1525635fdbfaae5b12.mp4?v=2",
+      "name":"【longing】大崎甘奈",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930140010":{
       "card":"https://shinycolors.enza.fun/assets/2d64e7543c236839995955d22afb6f98b1dca3c6d1058078bec39aafc3801b1b?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/dd77ba70d1c52f560e282e257bc1eaba9a75d4fd2274ec3f5c183f520bf1ee93?v=3",
@@ -210,6 +236,14 @@
       "hash":"d78ee9a1ce5489484050b42f748dd68c",
       "id":"2030140030",
       "name":"【冬の日の『贈り物』】大崎甘奈",
+      "rarity":3,
+      "type":"s"
+    },
+    "2030140040":{
+      "card":"https://shinycolors.enza.fun/assets/9cf41447a03087ccb11235c9978c6a3201f0e9f67021b9d8b7ea29495b3ebdf0?v=1",
+      "hash":"29c571d04d15ac929a4f8f1e5b434659",
+      "id":"2030140040",
+      "name":"【初風Nostalgia】大崎甘奈",
       "rarity":3,
       "type":"s"
     },
@@ -276,6 +310,14 @@
       "name":"【レッツ☆忍び足！】大崎甘奈",
       "rarity":4,
       "type":"s"
+    },
+    "2040140090":{
+      "card":"https://shinycolors.enza.fun/assets/b1988cc16cd83d708f2221fb3728fa0176ee81f9a387f83456c3557bd06d171f?v=1",
+      "hash":"e562085b9bacbe4dd0202d4ba52aad0d",
+      "id":"2040140090",
+      "name":"【デビルたちの夜会☆】大崎甘奈",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -298,6 +340,10 @@
     {
       "id":"1030140040",
       "name":"【見つけたい、だけど……】大崎甘奈"
+    },
+    {
+      "id":"1030140050",
+      "name":"【竜宮城へご招待☆】大崎甘奈"
     },
     {
       "id":"1040140010",
@@ -328,6 +374,10 @@
       "name":"【雪空セパレート】大崎甘奈"
     },
     {
+      "id":"1040140080",
+      "name":"【longing】大崎甘奈"
+    },
+    {
       "id":"1930140010",
       "name":"【白いツバサ】大崎甘奈"
     },
@@ -350,6 +400,10 @@
     {
       "id":"2030140030",
       "name":"【冬の日の『贈り物』】大崎甘奈"
+    },
+    {
+      "id":"2030140040",
+      "name":"【初風Nostalgia】大崎甘奈"
     },
     {
       "id":"2040140010",
@@ -382,6 +436,10 @@
     {
       "id":"2040140080",
       "name":"【レッツ☆忍び足！】大崎甘奈"
+    },
+    {
+      "id":"2040140090",
+      "name":"【デビルたちの夜会☆】大崎甘奈"
     }
   ]
 }

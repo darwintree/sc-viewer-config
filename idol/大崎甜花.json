@@ -71,6 +71,18 @@
       "road":false,
       "type":"p"
     },
+    "1030150060":{
+      "card":"https://shinycolors.enza.fun/assets/4f407d78c5d6292cec13adc665500dfb749a55be99a2a2ce776907a029f53a2a?v=1",
+      "fes_card":"https://shinycolors.enza.fun/assets/64631756f1400d0bddf2f5e26236ec1a22b67fc30394c3ddba54df34cdf54caa?v=1",
+      "hash":"a751ecb3ef88b57210a14bbdf3e43f22",
+      "icon":"https://shinycolors.enza.fun/assets/74a5894ef71206f4a15670743e5a1b19a9a3a230b8d9e0be34773a3ac46174b0?v=1",
+      "id":"1030150060",
+      "m_movie":"https://shinycolors.enza.fun/assets/0909234364aea33f5e49a7740f6a64ebcc51ef7035fed4571bfeaee360c9c808.mp4?v=1",
+      "name":"【U♥DOLL】大崎甜花",
+      "rarity":3,
+      "road":false,
+      "type":"p"
+    },
     "1040150010":{
       "card":"https://shinycolors.enza.fun/assets/8335f80f0579863848f79a7dc20d219503254710468aebc4d88f6685aed18d52?v=7",
       "comment":"ゆ、浴衣、着付けてもらったんだけど\n似合う、かな……？",
@@ -304,6 +316,14 @@
       "name":"【エンドレス・ゲーム】大崎甜花",
       "rarity":4,
       "type":"s"
+    },
+    "2040150090":{
+      "card":"https://shinycolors.enza.fun/assets/27765043417b9a2a10940059e41f085b5cecd5b52c3e824172e1b02bb5046f60?v=1",
+      "hash":"82b76df9e542626071a6f2b7dd5afabe",
+      "id":"2040150090",
+      "name":"【満開、うまストロメリア】大崎甜花",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -330,6 +350,10 @@
     {
       "id":"1030150050",
       "name":"【ストライク狙って】大崎甜花"
+    },
+    {
+      "id":"1030150060",
+      "name":"【U♥DOLL】大崎甜花"
     },
     {
       "id":"1040150010",
@@ -422,6 +446,10 @@
     {
       "id":"2040150080",
       "name":"【エンドレス・ゲーム】大崎甜花"
+    },
+    {
+      "id":"2040150090",
+      "name":"【満開、うまストロメリア】大崎甜花"
     }
   ]
 }

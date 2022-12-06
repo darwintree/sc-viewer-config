@@ -157,6 +157,20 @@
       "road":false,
       "type":"p"
     },
+    "1040130080":{
+      "card":"https://shinycolors.enza.fun/assets/9b7de4eeae0b904eed2210e5c984cada83489e1d27a123972d2ae38546e09e0c?v=1",
+      "comment":"いい？\n準備体操は入念に──……",
+      "fes_card":"https://shinycolors.enza.fun/assets/a576ef4836f83af472952a6f5b36a57ca3a4ecf8a26e3e7899d6822441f54380?v=1",
+      "hash":"3be473fbf2a7f23b3ee733a3eeb5777c",
+      "icon":"https://shinycolors.enza.fun/assets/2a101d26cd138eac630de103b6682fafe76d9c21633c78d3e741f2c6bc6f05a2?v=1",
+      "id":"1040130080",
+      "m_movie":"https://shinycolors.enza.fun/assets/c4567da9f0810f5389de564a37c068d644497fc4b153c28fcbd1e91d6c67a871.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/50c352af35a3e3f476714ff0922262eacf754ef9a4499926948418de4b2331d8.mp4?v=1",
+      "name":"【Fall】有栖川夏葉",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930130010":{
       "card":"https://shinycolors.enza.fun/assets/dacfb44d5b0efa8137afe2837c2b6d3153548ad5750cff0ce150aed8e358849a?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/ae554a594dfa238ae2b4e4558707366f2704c66547fb1700114691c963ba9f50?v=3",
@@ -229,6 +243,14 @@
       "rarity":3,
       "type":"s"
     },
+    "2030130050":{
+      "card":"https://shinycolors.enza.fun/assets/50dabe26a3243a0481a1064900feef788dff4fe4f52a357550f77fd78fdec8cb?v=1",
+      "hash":"b55605c10fe86d82944b52628f22793c",
+      "id":"2030130050",
+      "name":"【ナチュラルデイズ】有栖川夏葉",
+      "rarity":3,
+      "type":"s"
+    },
     "2040130010":{
       "card":"https://shinycolors.enza.fun/assets/3f2daacde7e425660b15ab0d3798a7ca30cc0f2389a1adae7edee7ccd5fd366d?v=7",
       "hash":"fd28eafd4313a340ea7ce249f0a8208e",
@@ -284,6 +306,14 @@
       "name":"【明日の思い出で笑って】有栖川夏葉",
       "rarity":4,
       "type":"s"
+    },
+    "2040130080":{
+      "card":"https://shinycolors.enza.fun/assets/e5708e3ff657d7e761116b14161827e8ae55b840dffb1972f52342fb2b2af813?v=1",
+      "hash":"054265befed45a04bbba737bdfa0da02",
+      "id":"2040130080",
+      "name":"【ベリー・ストロベリー】有栖川夏葉",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -336,6 +366,10 @@
       "name":"【マイバレンタイン】有栖川夏葉"
     },
     {
+      "id":"1040130080",
+      "name":"【Fall】有栖川夏葉"
+    },
+    {
       "id":"1930130010",
       "name":"【白いツバサ】有栖川夏葉"
     },
@@ -368,6 +402,10 @@
       "name":"【夢追いランナバウト】有栖川夏葉"
     },
     {
+      "id":"2030130050",
+      "name":"【ナチュラルデイズ】有栖川夏葉"
+    },
+    {
       "id":"2040130010",
       "name":"【熱血指導！】有栖川夏葉"
     },
@@ -394,6 +432,10 @@
     {
       "id":"2040130070",
       "name":"【明日の思い出で笑って】有栖川夏葉"
+    },
+    {
+      "id":"2040130080",
+      "name":"【ベリー・ストロベリー】有栖川夏葉"
     }
   ]
 }

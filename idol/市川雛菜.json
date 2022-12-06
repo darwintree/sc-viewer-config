@@ -77,6 +77,20 @@
       "road":false,
       "type":"p"
     },
+    "1040230040":{
+      "card":"https://shinycolors.enza.fun/assets/4f8c67928b919903450959ca82c84208a2669c3d1992ad3b47030fe7d4fd796c?v=1",
+      "comment":"プロデューサー、ちゃんとお団子\n買ってきてくれた～？",
+      "fes_card":"https://shinycolors.enza.fun/assets/33d0369064b4d63ea51b91eb53355f069080dd8f0fc0d95eb294ac9162d608b7?v=1",
+      "hash":"931aba5aa036d447eb40afe2d097a63c",
+      "icon":"https://shinycolors.enza.fun/assets/6dc5bb1accae42db19f0bb2b83c061ca70a33d30ff26ebef74aee8cedb013c5e?v=1",
+      "id":"1040230040",
+      "m_movie":"https://shinycolors.enza.fun/assets/3c9daeecc71114fce0665f93a4131fff21d1d9f421f740b5bddd4bd4cde6c214.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/84b6cfa6d79f4744369b392505eca1b89da593e32dd1d1aaec8ee8f3d2286423.mp4?v=1",
+      "name":"【S!GNATURE】市川雛菜",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930230010":{
       "card":"https://shinycolors.enza.fun/assets/e83e50e1b4ee7da4f4123167bdaf06f310c3017427075af35352d1606e709423?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/f6f99c3158343c028ff84ffed9e665f3c3c8141e878dc18ac15986d019bbafda?v=3",
@@ -117,6 +131,14 @@
       "rarity":3,
       "type":"s"
     },
+    "2030230020":{
+      "card":"https://shinycolors.enza.fun/assets/d411b3f4f1b9971240e87c15a2ab9dbe019576ea387b455de2f1f20ad48857a8?v=1",
+      "hash":"44bbfca9f2ac935189ada7455f00266a",
+      "id":"2030230020",
+      "name":"【SETSUNA BEAT】市川雛菜",
+      "rarity":3,
+      "type":"s"
+    },
     "2040230010":{
       "card":"https://shinycolors.enza.fun/assets/b1da066db8963826a8a61a51552f60c21611a0b89ca406a0a3a9e9c051da0f90?v=2",
       "hash":"2511e427c4763a8d913ab51f93f994dd",
@@ -138,6 +160,14 @@
       "hash":"ee12e9ae2e5ebb6f8d17c473bf877444",
       "id":"2040230030",
       "name":"【♡like】市川雛菜",
+      "rarity":4,
+      "type":"s"
+    },
+    "2040230040":{
+      "card":"https://shinycolors.enza.fun/assets/6ac9b9dc3ca07b681fd08535eb9e1a2d474f2b36fcc9619edc090263d26e075c?v=1",
+      "hash":"2c611b43e5b014c9694d854cc6317025",
+      "id":"2040230040",
+      "name":"【DIVEIN!】市川雛菜",
       "rarity":4,
       "type":"s"
     }
@@ -168,6 +198,10 @@
       "name":"【TRICK☆☆☆】市川雛菜"
     },
     {
+      "id":"1040230040",
+      "name":"【S!GNATURE】市川雛菜"
+    },
+    {
       "id":"1930230010",
       "name":"【白いツバサ】市川雛菜"
     },
@@ -184,6 +218,10 @@
       "name":"【PEEPS!】市川雛菜"
     },
     {
+      "id":"2030230020",
+      "name":"【SETSUNA BEAT】市川雛菜"
+    },
+    {
       "id":"2040230010",
       "name":"【ROOKIE!】市川雛菜"
     },
@@ -194,6 +232,10 @@
     {
       "id":"2040230030",
       "name":"【♡like】市川雛菜"
+    },
+    {
+      "id":"2040230040",
+      "name":"【DIVEIN!】市川雛菜"
     }
   ]
 }

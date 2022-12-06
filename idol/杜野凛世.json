@@ -181,6 +181,20 @@
       "road":false,
       "type":"p"
     },
+    "1040120080":{
+      "card":"https://shinycolors.enza.fun/assets/9d01584a40ea33fb8746be1e70e2238569b18bb897e0cca7ee7bd487d9def151?v=1",
+      "comment":"少し……\nのぼせました……",
+      "fes_card":"https://shinycolors.enza.fun/assets/d59a3cdded6248e73692232fbef0b704391e6bb046a6089e1e88a2311af6d2e1?v=1",
+      "hash":"03687666d17318ac75a51108ddf52fc8",
+      "icon":"https://shinycolors.enza.fun/assets/79fea47e8a2c31beb9fbd5adeff7f2725aca4ea84793a6bb1772d3544aa76f6c?v=1",
+      "id":"1040120080",
+      "m_movie":"https://shinycolors.enza.fun/assets/5bc11b4e08c918086442300ff50c6cafab0a954da3e648f738d243e002170bff.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/f506c84d2a1257e70da123706b3db4baf881c9378f56c893d73805c4da3ebdc7.mp4?v=1",
+      "name":"【晩秋ろまんす】杜野凛世",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930120010":{
       "card":"https://shinycolors.enza.fun/assets/bc467625beb37bf05031b97eaecb4ae1bcd2077d703ebfa09a18754560d17ddc?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/4c35c6218623e005ea4bbf5eeb7fb1d2a06c96099d02df9eae45723e5bd5d01a?v=3",
@@ -234,6 +248,22 @@
       "hash":"1fd01651270cd47eda5145a0d83664c5",
       "id":"2030120030",
       "name":"【をとめ辞典】杜野凛世",
+      "rarity":3,
+      "type":"s"
+    },
+    "2030120040":{
+      "card":"https://shinycolors.enza.fun/assets/79eb3f39cbf906b7a93d4e0ad84c1e42d3945a572987a30a7839c5519e525d8e?v=1",
+      "hash":"c8c04b6fe2c61320573e1c2841870a93",
+      "id":"2030120040",
+      "name":"【SETSUNA BEAT】杜野凛世",
+      "rarity":3,
+      "type":"s"
+    },
+    "2030120050":{
+      "card":"https://shinycolors.enza.fun/assets/7a1af334930c2d371213cf57f5d276cd6f379edb96ccd05af47fe286a5e95a1f?v=1",
+      "hash":"8892e8f36bf65f60230c65a5ed98ec4a",
+      "id":"2030120050",
+      "name":"【別冊をとめ】杜野凛世",
       "rarity":3,
       "type":"s"
     },
@@ -300,6 +330,14 @@
       "name":"【牛的情感盛り、一丁】杜野凛世",
       "rarity":4,
       "type":"s"
+    },
+    "2040120090":{
+      "card":"https://shinycolors.enza.fun/assets/94c0d8e82a5a54df1212edd5205db720a33b4d49530eaa0740236c702e3de3f7?v=1",
+      "hash":"32d1022b3e4a5a45373a5425f509b97a",
+      "id":"2040120090",
+      "name":"【珈琲の牛乳いれたん】杜野凛世",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -360,6 +398,10 @@
       "name":"【さよならごつこ】杜野凛世"
     },
     {
+      "id":"1040120080",
+      "name":"【晩秋ろまんす】杜野凛世"
+    },
+    {
       "id":"1930120010",
       "name":"【白いツバサ】杜野凛世"
     },
@@ -382,6 +424,14 @@
     {
       "id":"2030120030",
       "name":"【をとめ辞典】杜野凛世"
+    },
+    {
+      "id":"2030120040",
+      "name":"【SETSUNA BEAT】杜野凛世"
+    },
+    {
+      "id":"2030120050",
+      "name":"【別冊をとめ】杜野凛世"
     },
     {
       "id":"2040120010",
@@ -414,6 +464,10 @@
     {
       "id":"2040120080",
       "name":"【牛的情感盛り、一丁】杜野凛世"
+    },
+    {
+      "id":"2040120090",
+      "name":"【珈琲の牛乳いれたん】杜野凛世"
     }
   ]
 }

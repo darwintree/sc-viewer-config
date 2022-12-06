@@ -23,6 +23,18 @@
       "road":false,
       "type":"p"
     },
+    "1030240020":{
+      "card":"https://shinycolors.enza.fun/assets/c83efda2f3822c5f6f39ae0b3cc7204c129301e7b6e636deb52f3ba0ca2c910a?v=1",
+      "fes_card":"https://shinycolors.enza.fun/assets/83e35727c8a4cbb2be730aa2d04a4c0ab12db09767a2a00caa130ab52fcc45c8?v=1",
+      "hash":"ed9c915af264907d3f4b44d08f87abe9",
+      "icon":"https://shinycolors.enza.fun/assets/c33b7a71542c5f828d48e1ea101d9396b97502239037f5a742bef5697a5dbb05?v=1",
+      "id":"1030240020",
+      "m_movie":"https://shinycolors.enza.fun/assets/56743cb02b96228650ac82c66f937c17d525edbc1ead1b565247e9c5d05717ba.mp4?v=1",
+      "name":"【泣けよ洗濯機】七草にちか",
+      "rarity":3,
+      "road":false,
+      "type":"p"
+    },
     "1040240010":{
       "card":"https://shinycolors.enza.fun/assets/26870884a43fc66c1d7683d207cb1a82942df6a8d8a69dacc4d6e436266741a8?v=2",
       "comment":"べー……",
@@ -47,6 +59,20 @@
       "m_movie":"https://shinycolors.enza.fun/assets/290512d6239f06d7767a7319fad29e40f78d0f43ce545cc13ae9ca5a9eb4bf08.mp4?v=3",
       "movie":"https://shinycolors.enza.fun/assets/527278d776bac62a2fac853365faf62a450eb90f9e301fe344a3ac7842ae105d.mp4?v=2",
       "name":"【ヴぇりべりいかシたサマー】七草にちか",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
+    "1040240030":{
+      "card":"https://shinycolors.enza.fun/assets/6436d7ae009b9de6ed411d5715b220d9c4409ccaf88b79f65ebc55beb39ecb94?v=1",
+      "comment":"……いつもしてないんで、こういうこと",
+      "fes_card":"https://shinycolors.enza.fun/assets/f5878d1879146b71d7bc556d0fc82ca81467a7bf1904955839953105ff2dfc66?v=1",
+      "hash":"7d8fde579b1c85e1a44ec4aaa7df8226",
+      "icon":"https://shinycolors.enza.fun/assets/572d2b9531f4a96af1f73ffc51e3cadfe6744c901034a5ea516b6c4fbe67ecdd?v=1",
+      "id":"1040240030",
+      "m_movie":"https://shinycolors.enza.fun/assets/e92caeb20013beecb520ca064c9c2a742daa512fdbc34a3aecadcad33f778484.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/d2de9dcf7fdd301cfd5c7d2fa3e73ec389a05cfe18c224dd5b77c03af4fbb801.mp4?v=1",
+      "name":"【夜よこノ窓は塗らないデ】七草にちか",
       "rarity":4,
       "road":false,
       "type":"p"
@@ -83,6 +109,22 @@
       "rarity":2,
       "type":"s"
     },
+    "2030240010":{
+      "card":"https://shinycolors.enza.fun/assets/0f72ab5c4a7af8dacc01592a292b6662c34ae4e5329f3168f639c8834b26c07e?v=1",
+      "hash":"a002b971b492b89afabbe62a35b8f08c",
+      "id":"2030240010",
+      "name":"【夏葬灯】七草にちか",
+      "rarity":3,
+      "type":"s"
+    },
+    "2030240020":{
+      "card":"https://shinycolors.enza.fun/assets/fa837ab8e30b1e199d422621b5495ef99db4a6a83a2b03c8ae1e4fc943692efa?v=1",
+      "hash":"c038a5ff224d4657484199e0089ac5ef",
+      "id":"2030240020",
+      "name":"【MUGEN BEAT】七草にちか",
+      "rarity":3,
+      "type":"s"
+    },
     "2040240010":{
       "card":"https://shinycolors.enza.fun/assets/ea38b51ab176294dd240861a87a8920dde3af20a84333b10d3d8a8212c1d7588?v=2",
       "hash":"402ab143176697c6a46e1a776fb9452b",
@@ -106,6 +148,22 @@
       "name":"【浪漫キャメラ0号】七草にちか",
       "rarity":4,
       "type":"s"
+    },
+    "2040240040":{
+      "card":"https://shinycolors.enza.fun/assets/f19a9672f1e8e1e778642e721f1b51b2dff4dc8de5812e638c24e9589df85dc4?v=1",
+      "hash":"f59739e6995e27ebab4fecf9ba41258e",
+      "id":"2040240040",
+      "name":"【あっかい】七草にちか",
+      "rarity":4,
+      "type":"s"
+    },
+    "2040240050":{
+      "card":"https://shinycolors.enza.fun/assets/d79718c962ea825b13a905305eb69bf0bac1f1e5c2a55c33a3ba0ef7fda08d6b?v=1",
+      "hash":"e8710b7adade6288ad2d5e8f3b85ddca",
+      "id":"2040240050",
+      "name":"【こんなのホラーでしょ最悪】七草にちか",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -118,12 +176,20 @@
       "name":"【一億回めくらいの、その夏】七草にちか"
     },
     {
+      "id":"1030240020",
+      "name":"【泣けよ洗濯機】七草にちか"
+    },
+    {
       "id":"1040240010",
       "name":"【♡まっクろはムウサぎ♡】七草にちか"
     },
     {
       "id":"1040240020",
       "name":"【ヴぇりべりいかシたサマー】七草にちか"
+    },
+    {
+      "id":"1040240030",
+      "name":"【夜よこノ窓は塗らないデ】七草にちか"
     },
     {
       "id":"1930240010",
@@ -138,6 +204,14 @@
       "name":"【２８３プロのヒナ】七草にちか"
     },
     {
+      "id":"2030240010",
+      "name":"【夏葬灯】七草にちか"
+    },
+    {
+      "id":"2030240020",
+      "name":"【MUGEN BEAT】七草にちか"
+    },
+    {
       "id":"2040240010",
       "name":"【間違いそうだ】七草にちか"
     },
@@ -148,6 +222,14 @@
     {
       "id":"2040240030",
       "name":"【浪漫キャメラ0号】七草にちか"
+    },
+    {
+      "id":"2040240040",
+      "name":"【あっかい】七草にちか"
+    },
+    {
+      "id":"2040240050",
+      "name":"【こんなのホラーでしょ最悪】七草にちか"
     }
   ]
 }

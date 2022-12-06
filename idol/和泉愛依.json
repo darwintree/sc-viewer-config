@@ -47,6 +47,18 @@
       "road":false,
       "type":"p"
     },
+    "1030190040":{
+      "card":"https://shinycolors.enza.fun/assets/c91e59fe53f0ae15250ef3cf8488f770c704bac7831f91a346bb59954d0e4b63?v=1",
+      "fes_card":"https://shinycolors.enza.fun/assets/ca3ae9a2e0532603b4482cd4a9fa209d5f30d1149366d5d028d4bc7f464c58be?v=1",
+      "hash":"a259575cb7b6dd10042d94fccbe597d5",
+      "icon":"https://shinycolors.enza.fun/assets/edeb7ec9359fd4c46c4d164ad99a69c20f7a88299e3e3309f937786423d6a8dc?v=1",
+      "id":"1030190040",
+      "m_movie":"https://shinycolors.enza.fun/assets/4f5533ff8d539c68dc9996d4c515835ce6a0dde201b8590630bd37c94dc55c06.mp4?v=1",
+      "name":"【見つかっちゃった♪】和泉愛依",
+      "rarity":3,
+      "road":false,
+      "type":"p"
+    },
     "1040190010":{
       "card":"https://shinycolors.enza.fun/assets/f6b0ebcfebd5b5eae91abf9cb2f4a762db7723810e86a869a0ee249b888a6794?v=3",
       "comment":"ん～？　プロデューサーもわけて欲しい系～？",
@@ -117,6 +129,20 @@
       "road":false,
       "type":"p"
     },
+    "1040190060":{
+      "card":"https://shinycolors.enza.fun/assets/e2d3494ea157819ef4eea5fbffa121a799809e7228a310125dd12baa61c3f905?v=1",
+      "comment":"あたしだけの、笑顔……",
+      "fes_card":"https://shinycolors.enza.fun/assets/f00a08b188613afe1f03655b1d40e40850c9dfd72f27fa92b3be1275c1e295ad?v=1",
+      "hash":"455ff7f00615976e6f2ecaf9b51285fb",
+      "icon":"https://shinycolors.enza.fun/assets/e8ba56141b5599ef8e9b3d15367df6beee0cc4dd0be98f4231f77326698c0d7c?v=1",
+      "id":"1040190060",
+      "m_movie":"https://shinycolors.enza.fun/assets/0ee1a499199459f3d81ec1b038f86fa391590682312df0b0ded0947abfb37854.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/8fc7080e5b4bb79eb606ec0ab04b82bb6b4f9a65784618b0a1f8f8610e36f525.mp4?v=1",
+      "name":"【あたし流・かっこいい】和泉愛依",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930190010":{
       "card":"https://shinycolors.enza.fun/assets/f18ab8ad4119831790406ca639f6e6d9b3f689ef44ca34977c696ac86cd97303?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/d48f189636087dce0b81565009e1d6fdd7c6a94f734f8f796646f73955814ed9?v=3",
@@ -170,6 +196,14 @@
       "hash":"9a7e5362b6e71d813b9e3935d50f425b",
       "id":"2030190030",
       "name":"【イケてた！？】和泉愛依",
+      "rarity":3,
+      "type":"s"
+    },
+    "2030190040":{
+      "card":"https://shinycolors.enza.fun/assets/1a693e7d284ffbb908fe2904f1bfefe1ebb879ebb2e07ff62bfc6d10cfd00c4b?v=1",
+      "hash":"381e0f5644acd2a2dd43d897812d8216",
+      "id":"2030190040",
+      "name":"【PANOR@MA WING 06】和泉愛依",
       "rarity":3,
       "type":"s"
     },
@@ -240,6 +274,10 @@
       "name":"【ご褒美、いるよね♪】和泉愛依"
     },
     {
+      "id":"1030190040",
+      "name":"【見つかっちゃった♪】和泉愛依"
+    },
+    {
       "id":"1040190010",
       "name":"【ちょっとあげる～】和泉愛依"
     },
@@ -258,6 +296,10 @@
     {
       "id":"1040190050",
       "name":"【ちょー早い！】和泉愛依"
+    },
+    {
+      "id":"1040190060",
+      "name":"【あたし流・かっこいい】和泉愛依"
     },
     {
       "id":"1930190010",
@@ -282,6 +324,10 @@
     {
       "id":"2030190030",
       "name":"【イケてた！？】和泉愛依"
+    },
+    {
+      "id":"2030190040",
+      "name":"【PANOR@MA WING 06】和泉愛依"
     },
     {
       "id":"2040190010",

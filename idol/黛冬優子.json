@@ -47,6 +47,18 @@
       "road":false,
       "type":"p"
     },
+    "1030180040":{
+      "card":"https://shinycolors.enza.fun/assets/412b3b1431b80beb2ef47eb91d407cc4f270d29f12dcac62da90c9a466367574?v=1",
+      "fes_card":"https://shinycolors.enza.fun/assets/17117f78e773b1655ac895fa9320ca52690db44125432216bbe4dbdfab19ccf7?v=1",
+      "hash":"2f552ff0a1435e7b6a6b1beb1ab31c67",
+      "icon":"https://shinycolors.enza.fun/assets/bd2f872c914e19ec73e7a8b329ebc4b723050de38cf2414040c2f9de77584c4d?v=1",
+      "id":"1030180040",
+      "m_movie":"https://shinycolors.enza.fun/assets/7e56ea98e0ad051f36d298cdf0830313b9241c51163444787c4a47d8a8b8bc80.mp4?v=1",
+      "name":"【アンコンシャス35→80】黛冬優子",
+      "rarity":3,
+      "road":false,
+      "type":"p"
+    },
     "1040180010":{
       "card":"https://shinycolors.enza.fun/assets/caeb5ff18a5e844f0964c267ebf4910775784129559a8e2ea7642700579f1d5f?v=3",
       "comment":"プロデューサーさん、どうしたんですかぁ？\n──……ふふっ",
@@ -117,6 +129,20 @@
       "road":false,
       "type":"p"
     },
+    "1040180060":{
+      "card":"https://shinycolors.enza.fun/assets/6da5135601bee499e0a2a1dc440664a89277eeb92953ab2b224272df8623b84b?v=1",
+      "comment":"許さないの、全部",
+      "fes_card":"https://shinycolors.enza.fun/assets/5084070e0a6a129286ed553bdd3246be6d0b6a6ae3c63b7b2fadff9cde6cbba4?v=1",
+      "hash":"857d966d6498e5d59608b53753829002",
+      "icon":"https://shinycolors.enza.fun/assets/d8fccf6786db88735e9a9563d62169f1664dea7b08d741db0d4e973052f7f22c?v=1",
+      "id":"1040180060",
+      "m_movie":"https://shinycolors.enza.fun/assets/be1f3356ca6939c9f13d3a14d87a516008550f171bb1410fe4ec28f320c553a3.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/ddd36d701e359033d0d57f7c7991fce30a53ea5c238fbb4b90b020f5b68d7b29.mp4?v=1",
+      "name":"【幕間、沸々と高温】黛冬優子",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930180010":{
       "card":"https://shinycolors.enza.fun/assets/49a5ae60a54cf89a1be05ddbfecaf272e81d3f52052cae8eb42a49205b9bebd2?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/2ae8e9110b0ce017746beac286efd1f3d1d64bf2d5f5cb617dac945d21f18b39?v=3",
@@ -162,6 +188,14 @@
       "hash":"dfd5bb884588867a8e3f1983209834b7",
       "id":"2030180020",
       "name":"【馴染まないで非日常】黛冬優子",
+      "rarity":3,
+      "type":"s"
+    },
+    "2030180030":{
+      "card":"https://shinycolors.enza.fun/assets/3bd8ff4784b98605ba9e858ccf19edc6dbe6f0e77028795844bc1a3fe48a8f8b?v=1",
+      "hash":"c2ea41bd4ffc0d6f6960ad0427247111",
+      "id":"2030180030",
+      "name":"【MUGEN BEAT】黛冬優子",
       "rarity":3,
       "type":"s"
     },
@@ -220,6 +254,14 @@
       "name":"【二律背反sweet】黛冬優子",
       "rarity":4,
       "type":"s"
+    },
+    "2040180080":{
+      "card":"https://shinycolors.enza.fun/assets/01969b6b0e0ce7af9ed71fc90834468a69025b79f5e8343eddd7f54560bc1b7f?v=1",
+      "hash":"4903afd2f3f51d9fd2ccb46ea97c0e68",
+      "id":"2040180080",
+      "name":"【＜IF＞】黛冬優子",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -238,6 +280,10 @@
     {
       "id":"1030180030",
       "name":"【はるさき可憐花】黛冬優子"
+    },
+    {
+      "id":"1030180040",
+      "name":"【アンコンシャス35→80】黛冬優子"
     },
     {
       "id":"1040180010",
@@ -260,6 +306,10 @@
       "name":"【multi-angle】黛冬優子"
     },
     {
+      "id":"1040180060",
+      "name":"【幕間、沸々と高温】黛冬優子"
+    },
+    {
       "id":"1930180010",
       "name":"【白いツバサ】黛冬優子"
     },
@@ -278,6 +328,10 @@
     {
       "id":"2030180020",
       "name":"【馴染まないで非日常】黛冬優子"
+    },
+    {
+      "id":"2030180030",
+      "name":"【MUGEN BEAT】黛冬優子"
     },
     {
       "id":"2040180010",
@@ -306,6 +360,10 @@
     {
       "id":"2040180070",
       "name":"【二律背反sweet】黛冬優子"
+    },
+    {
+      "id":"2040180080",
+      "name":"【＜IF＞】黛冬優子"
     }
   ]
 }

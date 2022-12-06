@@ -170,6 +170,22 @@
       "name":"【射陽】樋口円香",
       "rarity":4,
       "type":"s"
+    },
+    "2040210050":{
+      "card":"https://shinycolors.enza.fun/assets/989399784a288c3ce85c55571b5648df9ce795cfd92df7b533ba9ff1afed3534?v=1",
+      "hash":"539fb3067efa627e2db582b6ea696181",
+      "id":"2040210050",
+      "name":"【洒落】樋口円香",
+      "rarity":4,
+      "type":"s"
+    },
+    "2040210060":{
+      "card":"https://shinycolors.enza.fun/assets/f34880d8c254cbaa655861a2e37fd2dab5f3b7016efae6a674e5eee44a843a37?v=1",
+      "hash":"8ff841c0680cb04c188861c7d3a9f8c9",
+      "id":"2040210060",
+      "name":"【ハシルウマ】樋口円香",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -236,6 +252,14 @@
     {
       "id":"2040210040",
       "name":"【射陽】樋口円香"
+    },
+    {
+      "id":"2040210050",
+      "name":"【洒落】樋口円香"
+    },
+    {
+      "id":"2040210060",
+      "name":"【ハシルウマ】樋口円香"
     }
   ]
 }

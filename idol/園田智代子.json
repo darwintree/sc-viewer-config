@@ -143,6 +143,20 @@
       "road":false,
       "type":"p"
     },
+    "1040100070":{
+      "card":"https://shinycolors.enza.fun/assets/b0be7621d1019e4f0b91af932687f85aa187da57d9a05d94d33bb91745f390a5?v=1",
+      "comment":"触らないで、かまわないで",
+      "fes_card":"https://shinycolors.enza.fun/assets/5d18acad7a650738d8c38d645bf0e8e937b4933aadf3c58905981ddf89deaa04?v=1",
+      "hash":"2fe6b83977a66452afaae3454c8cc329",
+      "icon":"https://shinycolors.enza.fun/assets/16a1ca86ab838551fc36d0bd0822e38ac96d1e0c690d6a4618f6429b8f2e9d3c?v=1",
+      "id":"1040100070",
+      "m_movie":"https://shinycolors.enza.fun/assets/de4ebf337ce431e24b2fed999180f9625f78bfc5fb7af258f0880fa27ec02025.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/9ef499203320370eee93c69aa3d32262990124dd327063918de7c535f3b7faa8.mp4?v=1",
+      "name":"【トコハレ☀コメディ】園田智代子",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930100010":{
       "card":"https://shinycolors.enza.fun/assets/68b3359b34dac75b9fb6f52a41412e3c2b7e67726d702418846bb62ba83a914c?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/d2c4604141286cecc1a68117d0a54326bc9caa35781fb4476d9879f97307c6a6?v=3",
@@ -316,6 +330,10 @@
     {
       "id":"1040100060",
       "name":"【砂糖づけ・ビターエンド】園田智代子"
+    },
+    {
+      "id":"1040100070",
+      "name":"【トコハレ☀コメディ】園田智代子"
     },
     {
       "id":"1930100010",

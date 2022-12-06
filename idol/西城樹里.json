@@ -157,6 +157,20 @@
       "road":false,
       "type":"p"
     },
+    "1040110080":{
+      "card":"https://shinycolors.enza.fun/assets/d7517595941780a41511808b49fc48fb6205f3e05e0fe9ee3245d30aa5201940?v=1",
+      "comment":"瞬きしたくない──",
+      "fes_card":"https://shinycolors.enza.fun/assets/0eacd2764211585ed131dd2a81f19f1ec11f625508de5c073682ec7fbd0415b3?v=1",
+      "hash":"ef0b6a5101886733dfdfb52a5870f9a5",
+      "icon":"https://shinycolors.enza.fun/assets/c9e05de7154dd10bee9e5a8df0bb2ea6957a661257e363898bc0bffe9e9753c8?v=1",
+      "id":"1040110080",
+      "m_movie":"https://shinycolors.enza.fun/assets/5c7f948a7d531bf2881112df14b3d6343bb4346546a54ddd588fa7251ea7815d.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/81273e8fda7a2bcc0d8d02b629bcd83a00995c9ee4841e8f262eee8dd8427e61.mp4?v=1",
+      "name":"【sparkle,,,】西城樹里",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930110010":{
       "card":"https://shinycolors.enza.fun/assets/96a96880795c2ee2d1cb9b7a93ef59a2bd0f3c945c3b3d4998d01d752e19e452?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/ae2070ede5e563880854b17fc58b7c21d74ac142c76b791cc94dd89c3f74b2ca?v=3",
@@ -268,6 +282,22 @@
       "name":"【Hearty!Holy!Party!】西城樹里",
       "rarity":4,
       "type":"s"
+    },
+    "2040110070":{
+      "card":"https://shinycolors.enza.fun/assets/5054f0390437e3717c0dfa144d036baa10e8f5430a1886c152d9327917c313e5?v=1",
+      "hash":"cafd9c1295dad21e6dcf97b717572aab",
+      "id":"2040110070",
+      "name":"【日々の灯り】西城樹里",
+      "rarity":4,
+      "type":"s"
+    },
+    "2040110080":{
+      "card":"https://shinycolors.enza.fun/assets/b5842b4a2b1ff9a84061b4bcbda1a0b26283c09d72b2eb61032cf4e6a0717341?v=1",
+      "hash":"7311e6767e1d935c83765df2ee7bd600",
+      "id":"2040110080",
+      "name":"【はずむ息、夜を縫って】西城樹里",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -320,6 +350,10 @@
       "name":"【花染む街で、君と】西城樹里"
     },
     {
+      "id":"1040110080",
+      "name":"【sparkle,,,】西城樹里"
+    },
+    {
       "id":"1930110010",
       "name":"【白いツバサ】西城樹里"
     },
@@ -370,6 +404,14 @@
     {
       "id":"2040110060",
       "name":"【Hearty!Holy!Party!】西城樹里"
+    },
+    {
+      "id":"2040110070",
+      "name":"【日々の灯り】西城樹里"
+    },
+    {
+      "id":"2040110080",
+      "name":"【はずむ息、夜を縫って】西城樹里"
     }
   ]
 }

@@ -155,6 +155,20 @@
       "road":false,
       "type":"p"
     },
+    "1040080070":{
+      "card":"https://shinycolors.enza.fun/assets/37d96ba8281b574596433d6468648f3065f31609830dff652be084277235cf03?v=1",
+      "comment":"──────来たの……？",
+      "fes_card":"https://shinycolors.enza.fun/assets/92e7847d25b72ddac1af657b3d68e57475e7e31193b7c2a044b70b77792fd2c4?v=1",
+      "hash":"75cc7ee66752717e6502b12d29ddae79",
+      "icon":"https://shinycolors.enza.fun/assets/60100ca98537d4f5ab64b999f739872dc2c29e59194bacaac8d5b74f984cbdcb?v=1",
+      "id":"1040080070",
+      "m_movie":"https://shinycolors.enza.fun/assets/416876767949a695141a302cb0594c154dd8de63318c19305862ee4567b356d8.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/ebda93bbc904b1922921f9baf8f49337b47014d8c9af3590c35c5fec0ea702ba.mp4?v=1",
+      "name":"【縷・縷・屡・来】幽谷霧子",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930080010":{
       "card":"https://shinycolors.enza.fun/assets/54b8922968d50ee54c324c64dde908349d0b728360e43f7216a10f71c3d84acf?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/de828e5344ed3417ecc1d3aa67064f2c1eb1edc2c167c9761cbd174cf1def2c1?v=3",
@@ -219,6 +233,14 @@
       "rarity":3,
       "type":"s"
     },
+    "2030080050":{
+      "card":"https://shinycolors.enza.fun/assets/59cf18e42fc79d61ecb122385868295b21038765266dd4af1c45a72e3eb28569?v=1",
+      "hash":"59978c532f4860cdc77ce2d103c66ffe",
+      "id":"2030080050",
+      "name":"【MUGEN BEAT】幽谷霧子",
+      "rarity":3,
+      "type":"s"
+    },
     "2040080010":{
       "card":"https://shinycolors.enza.fun/assets/4dc66c1ec275fdffb5a8794ccfbc3244c5d293cfbc45fea3527b502905232c20?v=7",
       "hash":"f4315d07e4ea9565101adf53d4470e77",
@@ -264,6 +286,30 @@
       "hash":"cf741b1b85e37cfb1cf5610e7534e82d",
       "id":"2040080060",
       "name":"【午・燦・娘・娘】幽谷霧子",
+      "rarity":4,
+      "type":"s"
+    },
+    "2040080070":{
+      "card":"https://shinycolors.enza.fun/assets/797ff246d14ad7f258aeba0f3c5854e9a3a9779e4c5d0e59fd70c1e519a4c000?v=1",
+      "hash":"833bf2e2405427acf028ca0cb8ec911e",
+      "id":"2040080070",
+      "name":"【奏・奏・綺・羅】幽谷霧子",
+      "rarity":4,
+      "type":"s"
+    },
+    "2040080080":{
+      "card":"https://shinycolors.enza.fun/assets/67dd6f348d58a02f9e1fcec634222c020b0649a16b910df9af2237e2479cc07a?v=1",
+      "hash":"fc00153aaa0a939f0ced5139006f4f66",
+      "id":"2040080080",
+      "name":"【吼・吼・熱・々】幽谷霧子",
+      "rarity":4,
+      "type":"s"
+    },
+    "2040080090":{
+      "card":"https://shinycolors.enza.fun/assets/b301b0aa913172f310495b04c593c4ecd4ae28aec5aabf816e2303341e909d34?v=1",
+      "hash":"b92fdf6d634a98929167f7a71bebd2d9",
+      "id":"2040080090",
+      "name":"【煌・煌・星・娘】幽谷霧子",
       "rarity":4,
       "type":"s"
     }
@@ -318,6 +364,10 @@
       "name":"【かぜかんむりのこどもたち】幽谷霧子"
     },
     {
+      "id":"1040080070",
+      "name":"【縷・縷・屡・来】幽谷霧子"
+    },
+    {
       "id":"1930080010",
       "name":"【白いツバサ】幽谷霧子"
     },
@@ -346,6 +396,10 @@
       "name":"【君・空・我・空】幽谷霧子"
     },
     {
+      "id":"2030080050",
+      "name":"【MUGEN BEAT】幽谷霧子"
+    },
+    {
       "id":"2040080010",
       "name":"【霧・霧・奇・譚】幽谷霧子"
     },
@@ -368,6 +422,18 @@
     {
       "id":"2040080060",
       "name":"【午・燦・娘・娘】幽谷霧子"
+    },
+    {
+      "id":"2040080070",
+      "name":"【奏・奏・綺・羅】幽谷霧子"
+    },
+    {
+      "id":"2040080080",
+      "name":"【吼・吼・熱・々】幽谷霧子"
+    },
+    {
+      "id":"2040080090",
+      "name":"【煌・煌・星・娘】幽谷霧子"
     }
   ]
 }

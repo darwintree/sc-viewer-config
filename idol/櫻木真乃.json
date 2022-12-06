@@ -195,6 +195,20 @@
       "road":false,
       "type":"p"
     },
+    "1040010090":{
+      "card":"https://shinycolors.enza.fun/assets/0a6847904ed031c1595a1e38ff5f58181e8578aa82eaf618e5a7e226ee73f107?v=1",
+      "comment":"は、『はじめまして』……っ",
+      "fes_card":"https://shinycolors.enza.fun/assets/57753399fcf5959773b1e2e8bcfbe9ced8b654fffdcd8424c365e67865d24b01?v=1",
+      "hash":"4bd25fbd273544a6b0cb1af5b5aa3e4c",
+      "icon":"https://shinycolors.enza.fun/assets/12b51ac2bf5b675ac3413396e4f25f099543ebe7d4e9bbe78cde890db20cd3ee?v=1",
+      "id":"1040010090",
+      "m_movie":"https://shinycolors.enza.fun/assets/0e540d30c9cd79f8734e54a9731d5eb48bbb74422f4b386c54d9f4d5e4434b38.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/c48db29deae7f273115d25121dc9818204acaf7fee7ad7837611f8fd8f47649a.mp4?v=1",
+      "name":"【きみと巡り行く】櫻木真乃",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930010010":{
       "card":"https://shinycolors.enza.fun/assets/1416af99e4b181dfc06525be1bfbb41db1972ea85385ae2b4806a4b1e30d3c4a?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/1ff945a01a8df02ae770b520524774b43127b05c80275e9f06fea1133581db71?v=3",
@@ -256,6 +270,22 @@
       "hash":"2e68099f0ee9d801d11525d3103e5da3",
       "id":"2030010040",
       "name":"【まわる音色、君色のかおり】櫻木真乃",
+      "rarity":3,
+      "type":"s"
+    },
+    "2030010050":{
+      "card":"https://shinycolors.enza.fun/assets/0f0c5985c28b5f3b5d6e9bee00c75386c844e04eb8c9d524d9c026530d877100?v=1",
+      "hash":"756e463d94ee36aa9035066ccb72884c",
+      "id":"2030010050",
+      "name":"【空は澄み、今を越えて。】櫻木真乃",
+      "rarity":3,
+      "type":"s"
+    },
+    "2030010060":{
+      "card":"https://shinycolors.enza.fun/assets/e1593bf63acee80d287733db6c7c90ebdd1cd13a847a24b3ff9333933146546e?v=1",
+      "hash":"0709c1d71db9507d31837c74d4056c12",
+      "id":"2030010060",
+      "name":"【ふわり気持ち、秋かおり】櫻木真乃",
       "rarity":3,
       "type":"s"
     },
@@ -346,6 +376,14 @@
       "name":"【春日影、さんならび】櫻木真乃",
       "rarity":4,
       "type":"s"
+    },
+    "2040010120":{
+      "card":"https://shinycolors.enza.fun/assets/c8959798e9fa883d37b817e05ea3d367a07a84fb0c04bb71794bb34b496a5693?v=1",
+      "hash":"ceeab1718c818084d68195718e309e92",
+      "id":"2040010120",
+      "name":"【私のレンズの先のこと】櫻木真乃",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -410,6 +448,10 @@
       "name":"【interStellar-Stella】櫻木真乃"
     },
     {
+      "id":"1040010090",
+      "name":"【きみと巡り行く】櫻木真乃"
+    },
+    {
       "id":"1930010010",
       "name":"【白いツバサ】櫻木真乃"
     },
@@ -436,6 +478,14 @@
     {
       "id":"2030010040",
       "name":"【まわる音色、君色のかおり】櫻木真乃"
+    },
+    {
+      "id":"2030010050",
+      "name":"【空は澄み、今を越えて。】櫻木真乃"
+    },
+    {
+      "id":"2030010060",
+      "name":"【ふわり気持ち、秋かおり】櫻木真乃"
     },
     {
       "id":"2040010010",
@@ -480,6 +530,10 @@
     {
       "id":"2040010110",
       "name":"【春日影、さんならび】櫻木真乃"
+    },
+    {
+      "id":"2040010120",
+      "name":"【私のレンズの先のこと】櫻木真乃"
     }
   ]
 }

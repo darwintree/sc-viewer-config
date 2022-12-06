@@ -59,6 +59,18 @@
       "road":false,
       "type":"p"
     },
+    "1030050050":{
+      "card":"https://shinycolors.enza.fun/assets/1c82cbbe774ae0e82aa6097e1ebdbbc0b4e4d92eb86f09b7ac58593e02ed4b38?v=1",
+      "fes_card":"https://shinycolors.enza.fun/assets/83704b51978f442ecbeb9f8b7de36fbb329c202113cba99df32a71ccf3b6d7f1?v=1",
+      "hash":"52970a2d155674f2f588cfafcedbc2e9",
+      "icon":"https://shinycolors.enza.fun/assets/bbb1ce0d9ef6e56a17f13eb131e4cd344cffa660384d0ed45b43c0f1f0c61959?v=1",
+      "id":"1030050050",
+      "m_movie":"https://shinycolors.enza.fun/assets/3118e510ac9eb22d69a1e123436eafc6bdf947bb125afb44ec1fac5dfca69414.mp4?v=1",
+      "name":"【irodori-corridor】田中摩美々",
+      "rarity":3,
+      "road":false,
+      "type":"p"
+    },
     "1040050010":{
       "card":"https://shinycolors.enza.fun/assets/fdccabe9484260b681d9e5d1e442d75d057c1b8a97be9ccaa57f0dd737ef327f?v=7",
       "comment":"ふふー。私を待たせるなんてー\n覚悟しておいてくださいねー",
@@ -153,6 +165,20 @@
       "m_movie":"https://shinycolors.enza.fun/assets/7bd781eb05861a36aa92420113ddd7ab5fe51a1fa9a944230db81b32618be418.mp4?v=1",
       "movie":"https://shinycolors.enza.fun/assets/eb389d81e05c5db0b4ee97a33238b1dd7e8205234ae2c3f40213bc67684941ff.mp4?v=1",
       "name":"【Have a bad day♥】田中摩美々",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
+    "1040050080":{
+      "card":"https://shinycolors.enza.fun/assets/d075aa2c43974bd04007dfd924d312fa0235d7cb4d31ed9d13b1fd8864c0c534?v=1",
+      "comment":"イージー、ですねー",
+      "fes_card":"https://shinycolors.enza.fun/assets/8e4ef52208ec1b2f7c6bdf56796572948887daca41f4b7ea2f62dcd665338a9c?v=1",
+      "hash":"f78e9ca0fdc9b823b9ab26509f4e5293",
+      "icon":"https://shinycolors.enza.fun/assets/72e15f6bf5eebf4c1e74bb10e6da0952e52c2c597b0357dbc210885ec62715b3?v=1",
+      "id":"1040050080",
+      "m_movie":"https://shinycolors.enza.fun/assets/d87ab69a8001209ae5d159f0758a327d8bc4f2c7fc42731687f169e15a73217e.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/c34c03b99d779a0cc782914e60616d13cd12e348b63e4f2fcd30160027eaeeb1.mp4?v=1",
+      "name":"【リバーシブル・トースト】田中摩美々",
       "rarity":4,
       "road":false,
       "type":"p"
@@ -284,6 +310,14 @@
       "name":"【ソバニアル・サマー】田中摩美々",
       "rarity":4,
       "type":"s"
+    },
+    "2040050080":{
+      "card":"https://shinycolors.enza.fun/assets/3e260b5af770db4ffe953e523da5ae9852935f69b93550cede0c69d75303f79f?v=1",
+      "hash":"83a8a431bc927055d0efe89c69eb2cb8",
+      "id":"2040050080",
+      "name":"【murmurmaid】田中摩美々",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -306,6 +340,10 @@
     {
       "id":"1030050040",
       "name":"【FANCY 24g】田中摩美々"
+    },
+    {
+      "id":"1030050050",
+      "name":"【irodori-corridor】田中摩美々"
     },
     {
       "id":"1040050010",
@@ -334,6 +372,10 @@
     {
       "id":"1040050070",
       "name":"【Have a bad day♥】田中摩美々"
+    },
+    {
+      "id":"1040050080",
+      "name":"【リバーシブル・トースト】田中摩美々"
     },
     {
       "id":"1930050010",
@@ -394,6 +436,10 @@
     {
       "id":"2040050070",
       "name":"【ソバニアル・サマー】田中摩美々"
+    },
+    {
+      "id":"2040050080",
+      "name":"【murmurmaid】田中摩美々"
     }
   ]
 }

@@ -157,6 +157,20 @@
       "road":false,
       "type":"p"
     },
+    "1040030080":{
+      "card":"https://shinycolors.enza.fun/assets/ba068651bc120559376200d7d92530dbe652f8f3c1ef0b6f0b64cf11db7126ab?v=1",
+      "comment":"──……まぶしーい",
+      "fes_card":"https://shinycolors.enza.fun/assets/a4fe9e40a420c21ea64298c481e2ba2a427e85aa3289abbd8d9e431dd1e3cb7d?v=1",
+      "hash":"07abad95849b2beeec30eab79920aa8e",
+      "icon":"https://shinycolors.enza.fun/assets/0ebe9ef01289a0756f3bfead14a43ae8f486b1714f0f89088d29689efabf8a3d?v=1",
+      "id":"1040030080",
+      "m_movie":"https://shinycolors.enza.fun/assets/f938c90aa48283812cea0574917bc61ede3ee7debd00bdf82f4e100b3448990f.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/d5d9991ebdebc0b679bbdefc45d62494288f93c3968859b18f55ae729bead2d9.mp4?v=1",
+      "name":"【たそかれスワッグ】八宮めぐる",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930030010":{
       "card":"https://shinycolors.enza.fun/assets/b5c19e663a808fb19ac6cf08e465719fe1fe5efbed3e998ae2f5c73cf5d996b3?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/227f08306e4d9ab0ac0404b75827c7ad44a320d9d19182afec318e4b01df8968?v=3",
@@ -229,6 +243,14 @@
       "rarity":3,
       "type":"s"
     },
+    "2030030060":{
+      "card":"https://shinycolors.enza.fun/assets/b10b2931edc86916a1532bdb0b8705774a9099873a25e06c8bbb87e9aa7f1c36?v=1",
+      "hash":"15612bc5eb3807dd35ea1bd49e1faed3",
+      "id":"2030030060",
+      "name":"【MUGEN BEAT】八宮めぐる",
+      "rarity":3,
+      "type":"s"
+    },
     "2040030010":{
       "card":"https://shinycolors.enza.fun/assets/0425a76c9c0115b672908a51096babd1801294cdfa8969c1b55fd793a7c52ba5?v=8",
       "hash":"8bb4ca7c14b7463a683e6cef9c4347a9",
@@ -292,6 +314,22 @@
       "name":"【ワン・デイ】八宮めぐる",
       "rarity":4,
       "type":"s"
+    },
+    "2040030090":{
+      "card":"https://shinycolors.enza.fun/assets/93787aadcb772b0a0b14728ead499ecda238deb419581e25d0ba52f8d94267ff?v=1",
+      "hash":"328c1619263adf25c6f37386f52493e7",
+      "id":"2040030090",
+      "name":"【オールウェイズ】八宮めぐる",
+      "rarity":4,
+      "type":"s"
+    },
+    "2040030100":{
+      "card":"https://shinycolors.enza.fun/assets/ce13965991ae544172404dce311fd6483a5fee292deebfaa420ae65f19e9016d?v=1",
+      "hash":"14ce5845753ac6366cf59e0be351b550",
+      "id":"2040030100",
+      "name":"【シェア・シェア・ハピネス】八宮めぐる",
+      "rarity":4,
+      "type":"s"
     }
   },
   "list":[
@@ -344,6 +382,10 @@
       "name":"【きゅん♡コメ】八宮めぐる"
     },
     {
+      "id":"1040030080",
+      "name":"【たそかれスワッグ】八宮めぐる"
+    },
+    {
       "id":"1930030010",
       "name":"【白いツバサ】八宮めぐる"
     },
@@ -376,6 +418,10 @@
       "name":"【スローリー・メモリー】八宮めぐる"
     },
     {
+      "id":"2030030060",
+      "name":"【MUGEN BEAT】八宮めぐる"
+    },
+    {
       "id":"2040030010",
       "name":"【スタァライトショウタイム】八宮めぐる"
     },
@@ -406,6 +452,14 @@
     {
       "id":"2040030080",
       "name":"【ワン・デイ】八宮めぐる"
+    },
+    {
+      "id":"2040030090",
+      "name":"【オールウェイズ】八宮めぐる"
+    },
+    {
+      "id":"2040030100",
+      "name":"【シェア・シェア・ハピネス】八宮めぐる"
     }
   ]
 }
