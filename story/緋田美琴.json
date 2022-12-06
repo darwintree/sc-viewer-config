@@ -11,9 +11,10 @@
     "【FEEL】緋田美琴",
     "【GAP】緋田美琴",
     "节日剧情",
+    "感谢祭編",
+    "G.R.A.D編",
     "W.I.N.G.編",
     "【CONTRAIL】緋田美琴",
-    "感谢祭篇",
     "约定",
     "【SEASON】緋田美琴",
     "【ROUNDLY】緋田美琴"
@@ -87,6 +88,34 @@
       "誕生日",
       "2022白色情人节"
     ],
+    "感谢祭編":[
+      "リハーサル後.csv",
+      "ED done.csv",
+      "リハーサル前.csv",
+      "感謝祭本番前.csv",
+      "OP new.csv"
+    ],
+    "G.R.A.D編":[
+      "G.R.A.D.淘汰剧情①.csv",
+      "决赛前剧情.csv",
+      "3 dead.csv",
+      "决赛后剧情 失败②.csv",
+      "4 alive.csv",
+      "6 goodbye.csv",
+      "敗者復活後コミュ 胜利.csv",
+      "5 close.csv",
+      "G.R.A.D.淘汰剧情②前.csv",
+      "决赛后剧情 失败①.csv",
+      "1 hello.csv",
+      "2 distant.csv",
+      "予選後コミュ 胜利.csv",
+      "决赛后剧情 胜利.csv",
+      "敗者復活後コミュ 失败.csv",
+      "予選前コミュ.csv",
+      "敗者復活前コミュ.csv",
+      "予選後コミュ 失败.csv",
+      "G.R.A.D.淘汰剧情②後.csv"
+    ],
     "W.I.N.G.編":[
       "シーズン2（クリア）.csv",
       "WING 5 become.csv",
@@ -129,13 +158,6 @@
       "5 real.csv",
       "3 intermission.csv",
       "4 message.csv"
-    ],
-    "感谢祭篇":[
-      "リハーサル後.csv",
-      "ED done.csv",
-      "リハーサル前.csv",
-      "感謝祭本番前.csv",
-      "OP new.csv"
     ],
     "约定":[
       "produce_communication_promise_results_202500100131.csv",

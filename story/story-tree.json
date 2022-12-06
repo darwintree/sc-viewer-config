@@ -237,11 +237,19 @@
           "type":"directory",
           "children":[
             {
+              "name":"预赛后（胜利）.csv",
+              "type":"file"
+            },
+            {
               "name":"3 よくないよ（这样可不好）.csv",
               "type":"file"
             },
             {
               "name":"1 いいね日常！（美好的日常！）.csv",
+              "type":"file"
+            },
+            {
+              "name":"预赛前.csv",
               "type":"file"
             },
             {
@@ -425,6 +433,68 @@
           ]
         },
         {
+          "name":"感谢祭編",
+          "type":"directory",
+          "children":[
+            {
+              "name":"感謝祭本番前（ユニット）.csv",
+              "type":"file"
+            },
+            {
+              "name":"ED きらきらしてて.csv",
+              "type":"file"
+            },
+            {
+              "name":"5 #####.csv",
+              "type":"file"
+            },
+            {
+              "name":"1 ヴォイセズ.csv",
+              "type":"file"
+            },
+            {
+              "name":"3 空の奥の音.csv",
+              "type":"file"
+            },
+            {
+              "name":"リハーサル後.csv",
+              "type":"file"
+            },
+            {
+              "name":"6 0　0　0.csv",
+              "type":"file"
+            },
+            {
+              "name":"4 コンコルディア.csv",
+              "type":"file"
+            },
+            {
+              "name":"リハーサル前.csv",
+              "type":"file"
+            },
+            {
+              "name":"感謝祭本番前.csv",
+              "type":"file"
+            },
+            {
+              "name":"OP 聞こえるんですよ.csv",
+              "type":"file"
+            },
+            {
+              "name":"感謝祭本番後（通常）.csv",
+              "type":"file"
+            },
+            {
+              "name":"2 感謝.csv",
+              "type":"file"
+            },
+            {
+              "name":"感謝祭本番後（MVP）.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"W.I.N.G.編",
           "type":"directory",
           "children":[
@@ -598,68 +668,6 @@
             },
             {
               "name":"甘くないんですけどほんのり.csv",
-              "type":"file"
-            }
-          ]
-        },
-        {
-          "name":"感谢祭篇",
-          "type":"directory",
-          "children":[
-            {
-              "name":"感謝祭本番前（ユニット）.csv",
-              "type":"file"
-            },
-            {
-              "name":"ED きらきらしてて.csv",
-              "type":"file"
-            },
-            {
-              "name":"5 #####.csv",
-              "type":"file"
-            },
-            {
-              "name":"1 ヴォイセズ.csv",
-              "type":"file"
-            },
-            {
-              "name":"3 空の奥の音.csv",
-              "type":"file"
-            },
-            {
-              "name":"リハーサル後.csv",
-              "type":"file"
-            },
-            {
-              "name":"6 0　0　0.csv",
-              "type":"file"
-            },
-            {
-              "name":"4 コンコルディア.csv",
-              "type":"file"
-            },
-            {
-              "name":"リハーサル前.csv",
-              "type":"file"
-            },
-            {
-              "name":"感謝祭本番前.csv",
-              "type":"file"
-            },
-            {
-              "name":"OP 聞こえるんですよ.csv",
-              "type":"file"
-            },
-            {
-              "name":"感謝祭本番後（通常）.csv",
-              "type":"file"
-            },
-            {
-              "name":"2 感謝.csv",
-              "type":"file"
-            },
-            {
-              "name":"感謝祭本番後（MVP）.csv",
               "type":"file"
             }
           ]
@@ -14091,6 +14099,114 @@
           ]
         },
         {
+          "name":"感谢祭編",
+          "type":"directory",
+          "children":[
+            {
+              "name":"リハーサル後.csv",
+              "type":"file"
+            },
+            {
+              "name":"ED done.csv",
+              "type":"file"
+            },
+            {
+              "name":"リハーサル前.csv",
+              "type":"file"
+            },
+            {
+              "name":"感謝祭本番前.csv",
+              "type":"file"
+            },
+            {
+              "name":"OP new.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"G.R.A.D編",
+          "type":"directory",
+          "children":[
+            {
+              "name":"G.R.A.D.淘汰剧情①.csv",
+              "type":"file"
+            },
+            {
+              "name":"决赛前剧情.csv",
+              "type":"file"
+            },
+            {
+              "name":"3 dead.csv",
+              "type":"file"
+            },
+            {
+              "name":"决赛后剧情 失败②.csv",
+              "type":"file"
+            },
+            {
+              "name":"4 alive.csv",
+              "type":"file"
+            },
+            {
+              "name":"6 goodbye.csv",
+              "type":"file"
+            },
+            {
+              "name":"敗者復活後コミュ 胜利.csv",
+              "type":"file"
+            },
+            {
+              "name":"5 close.csv",
+              "type":"file"
+            },
+            {
+              "name":"G.R.A.D.淘汰剧情②前.csv",
+              "type":"file"
+            },
+            {
+              "name":"决赛后剧情 失败①.csv",
+              "type":"file"
+            },
+            {
+              "name":"1 hello.csv",
+              "type":"file"
+            },
+            {
+              "name":"2 distant.csv",
+              "type":"file"
+            },
+            {
+              "name":"予選後コミュ 胜利.csv",
+              "type":"file"
+            },
+            {
+              "name":"决赛后剧情 胜利.csv",
+              "type":"file"
+            },
+            {
+              "name":"敗者復活後コミュ 失败.csv",
+              "type":"file"
+            },
+            {
+              "name":"予選前コミュ.csv",
+              "type":"file"
+            },
+            {
+              "name":"敗者復活前コミュ.csv",
+              "type":"file"
+            },
+            {
+              "name":"予選後コミュ 失败.csv",
+              "type":"file"
+            },
+            {
+              "name":"G.R.A.D.淘汰剧情②後.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"W.I.N.G.編",
           "type":"directory",
           "children":[
@@ -14254,32 +14370,6 @@
             },
             {
               "name":"4 message.csv",
-              "type":"file"
-            }
-          ]
-        },
-        {
-          "name":"感谢祭篇",
-          "type":"directory",
-          "children":[
-            {
-              "name":"リハーサル後.csv",
-              "type":"file"
-            },
-            {
-              "name":"ED done.csv",
-              "type":"file"
-            },
-            {
-              "name":"リハーサル前.csv",
-              "type":"file"
-            },
-            {
-              "name":"感謝祭本番前.csv",
-              "type":"file"
-            },
-            {
-              "name":"OP new.csv",
               "type":"file"
             }
           ]
