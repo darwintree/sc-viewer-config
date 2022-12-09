@@ -14051,6 +14051,28 @@
               ]
             },
             {
+              "name":"2022圣诞节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"special_communications_490103599.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"special_communications_490103598.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"special_communications_490103601.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"special_communications_490103597.csv",
+                  "type":"file"
+                }
+              ]
+            },
+            {
               "name":"2021圣诞节",
               "type":"directory",
               "children":[
