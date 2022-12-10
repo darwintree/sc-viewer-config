@@ -6661,6 +6661,20 @@
       "type":"directory",
       "children":[
         {
+          "name":"【冬の隙間】白瀨咲耶",
+          "type":"directory",
+          "children":[
+            {
+              "name":"嚔のあいだ.csv",
+              "type":"file"
+            },
+            {
+              "name":"いつか、すぐにも.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【あのねが言える場所】白瀬咲耶",
           "type":"directory",
           "children":[
