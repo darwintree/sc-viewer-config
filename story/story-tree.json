@@ -237,6 +237,10 @@
           "type":"directory",
           "children":[
             {
+              "name":"预赛后（失败）.csv",
+              "type":"file"
+            },
+            {
               "name":"预赛后（胜利）.csv",
               "type":"file"
             },
@@ -249,7 +253,23 @@
               "type":"file"
             },
             {
+              "name":"复活赛后（失败）.csv",
+              "type":"file"
+            },
+            {
               "name":"ED そうな　の（是这样　吗）.csv",
+              "type":"file"
+            },
+            {
+              "name":"淘汰-观赛前.csv",
+              "type":"file"
+            },
+            {
+              "name":"淘汰-休息.csv",
+              "type":"file"
+            },
+            {
+              "name":"决赛后（高人气失败）.csv",
               "type":"file"
             },
             {
@@ -257,7 +277,19 @@
               "type":"file"
             },
             {
+              "name":"决赛后（失败）.csv",
+              "type":"file"
+            },
+            {
               "name":"决赛前.csv",
+              "type":"file"
+            },
+            {
+              "name":"淘汰-观赛后.csv",
+              "type":"file"
+            },
+            {
+              "name":"复活赛前.csv",
               "type":"file"
             },
             {
@@ -266,6 +298,10 @@
             },
             {
               "name":"2 いいね日常！！（美好的日常！！）.csv",
+              "type":"file"
+            },
+            {
+              "name":"复活赛后（胜利）.csv",
               "type":"file"
             },
             {
@@ -972,6 +1008,44 @@
             },
             {
               "name":"第2话-１日目 夜.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"線たちの十二月",
+          "type":"directory",
+          "children":[
+            {
+              "name":"序章-洗いたての羽.csv",
+              "type":"file"
+            },
+            {
+              "name":"第3话-天使たちのあくび.csv",
+              "type":"file"
+            },
+            {
+              "name":"第5话-イヴ.csv",
+              "type":"file"
+            },
+            {
+              "name":"终章-ぼくたちはごみのように美しく.csv",
+              "type":"file"
+            },
+            {
+              "name":"第1话-天界の午後.csv",
+              "type":"file"
+            },
+            {
+              "name":"第6话-キャロル.csv",
+              "type":"file"
+            },
+            {
+              "name":"第4话-ごくささやかなミサ.csv",
+              "type":"file"
+            },
+            {
+              "name":"第2话-なにもない日.csv",
               "type":"file"
             }
           ]
