@@ -5067,6 +5067,24 @@
           ]
         },
         {
+          "name":"【ひかりしめすは】芹沢あさひ",
+          "type":"directory",
+          "children":[
+            {
+              "name":"よきことのしるし.csv",
+              "type":"file"
+            },
+            {
+              "name":"サンタの休息.csv",
+              "type":"file"
+            },
+            {
+              "name":"み使いの止まり木.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【不機嫌なテーマパーク】芹沢あさひ",
           "type":"directory",
           "children":[
