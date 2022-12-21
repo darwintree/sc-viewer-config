@@ -3887,6 +3887,24 @@
           ]
         },
         {
+          "name":"【セツナ_n】八宮めぐる",
+          "type":"directory",
+          "children":[
+            {
+              "name":"今日_n日.csv",
+              "type":"file"
+            },
+            {
+              "name":"雪の日_冬.csv",
+              "type":"file"
+            },
+            {
+              "name":"寒い日_冬.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【キャプテン★パンプキン】八宮めぐる",
           "type":"directory",
           "children":[
