@@ -931,6 +931,28 @@
               ]
             },
             {
+              "name":"2022圣诞节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"【’22Xmas】愛シャドウ.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"【’22Xmas】お徳用シートマスク.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"【’22Xmas】ハンドクリーム.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"【’22Xmas】にちか・許す.csv",
+                  "type":"file"
+                }
+              ]
+            },
+            {
               "name":"誕生日",
               "type":"directory",
               "children":[
