@@ -6555,6 +6555,28 @@
           ]
         },
         {
+          "name":"2022圣诞",
+          "type":"directory",
+          "children":[
+            {
+              "name":"【’22Xmas】ジンジャーブレッド.csv",
+              "type":"file"
+            },
+            {
+              "name":"【’22Xmas】ブッシュドノエル.csv",
+              "type":"file"
+            },
+            {
+              "name":"【’22Xmas】クグロフ.csv",
+              "type":"file"
+            },
+            {
+              "name":"【’22Xmas】雛菜・コーヒー.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"Landing Point編",
           "type":"directory",
           "children":[
@@ -11623,6 +11645,24 @@
       "type":"directory",
       "children":[
         {
+          "name":"【きっと色褪せるけど】福丸小糸",
+          "type":"directory",
+          "children":[
+            {
+              "name":"みんなと、わたし.csv",
+              "type":"file"
+            },
+            {
+              "name":"移動する場所をさがして.csv",
+              "type":"file"
+            },
+            {
+              "name":"指でつくった四角のむこう.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"ファン感謝祭編",
           "type":"directory",
           "children":[
@@ -11988,6 +12028,28 @@
             },
             {
               "name":"produce_communications_102200100121.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"2022圣诞",
+          "type":"directory",
+          "children":[
+            {
+              "name":"【’22Xmas】チョコ詰め合わせ.csv",
+              "type":"file"
+            },
+            {
+              "name":"【’22Xmas】クッキー詰め合わせ.csv",
+              "type":"file"
+            },
+            {
+              "name":"【’22Xmas】小糸・招き猫の置物.csv",
+              "type":"file"
+            },
+            {
+              "name":"【’22Xmas】キャンディー詰め合わせ.csv",
               "type":"file"
             }
           ]
