@@ -4603,6 +4603,36 @@
           ]
         },
         {
+          "name":"S.T.E.P編",
+          "type":"directory",
+          "children":[
+            {
+              "name":"旧・甜花の完璧な一日.csv",
+              "type":"file"
+            },
+            {
+              "name":"周回遅れ.csv",
+              "type":"file"
+            },
+            {
+              "name":"なーちゃんはアイドル、甜花も.csv",
+              "type":"file"
+            },
+            {
+              "name":"ベターな日々は続く.csv",
+              "type":"file"
+            },
+            {
+              "name":"約束？.csv",
+              "type":"file"
+            },
+            {
+              "name":"明日から頑張るから.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【彩りファッションドール】大崎甜花",
           "type":"directory",
           "children":[
