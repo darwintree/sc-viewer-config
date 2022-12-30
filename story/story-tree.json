@@ -10923,6 +10923,24 @@
           ]
         },
         {
+          "name":"【アンコンシャス35→80】 黛冬優子",
+          "type":"directory",
+          "children":[
+            {
+              "name":"温室.csv",
+              "type":"file"
+            },
+            {
+              "name":"メタ___コンポジション.csv",
+              "type":"file"
+            },
+            {
+              "name":"冷えらる気.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【ストーリィズ】黛冬優子",
           "type":"directory",
           "children":[
@@ -15994,6 +16012,44 @@
             },
             {
               "name":"第6話-救出大作戦☆守りたいのは、君.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"if(!Straylight)",
+          "type":"directory",
+          "children":[
+            {
+              "name":"第4话-RUMOR.csv",
+              "type":"file"
+            },
+            {
+              "name":"第6话-STAGE.csv",
+              "type":"file"
+            },
+            {
+              "name":"终章-HANABI.csv",
+              "type":"file"
+            },
+            {
+              "name":"第3话-EMPTY.csv",
+              "type":"file"
+            },
+            {
+              "name":"序章-ORDINARY.csv",
+              "type":"file"
+            },
+            {
+              "name":"第2话-MEET.csv",
+              "type":"file"
+            },
+            {
+              "name":"第5话-PRACTICE.csv",
+              "type":"file"
+            },
+            {
+              "name":"第1话-LINK.csv",
               "type":"file"
             }
           ]

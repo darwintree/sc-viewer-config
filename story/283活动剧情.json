@@ -13,6 +13,7 @@
     "ミッション・コンプリート！",
     "WorldEndBreakDown",
     "密着！ハロウィンワールド24時",
+    "if(!Straylight)",
     "アフター・スクール・タイム",
     "Catch the shiny tail",
     "モノラル・ダイアローグス",
@@ -208,6 +209,16 @@
       "第4話-街中ライオット.csv",
       "第2話-アノトキノ・キャンディ.csv",
       "第6話-救出大作戦☆守りたいのは、君.csv"
+    ],
+    "if(!Straylight)":[
+      "第4话-RUMOR.csv",
+      "第6话-STAGE.csv",
+      "终章-HANABI.csv",
+      "第3话-EMPTY.csv",
+      "序章-ORDINARY.csv",
+      "第2话-MEET.csv",
+      "第5话-PRACTICE.csv",
+      "第1话-LINK.csv"
     ],
     "アフター・スクール・タイム":[
       "第1话-思い出アルバム.csv",
