@@ -15885,6 +15885,44 @@
           ]
         },
         {
+          "name":"ミッション・コンプリート！",
+          "type":"directory",
+          "children":[
+            {
+              "name":"第6话-行ってください／待っているから.csv",
+              "type":"file"
+            },
+            {
+              "name":"第2话-VS ミッション.csv",
+              "type":"file"
+            },
+            {
+              "name":"第5话-繋ぐために落ちる.csv",
+              "type":"file"
+            },
+            {
+              "name":"序章-放クラ、現着です！.csv",
+              "type":"file"
+            },
+            {
+              "name":"终章-あはは で テッテレー.csv",
+              "type":"file"
+            },
+            {
+              "name":"第3话-SH☆☆T!!!!!.csv",
+              "type":"file"
+            },
+            {
+              "name":"第4话-誰かの祈りまで.csv",
+              "type":"file"
+            },
+            {
+              "name":"第1话-ドッキリがかくれんぼ.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"WorldEndBreakDown",
           "type":"directory",
           "children":[
