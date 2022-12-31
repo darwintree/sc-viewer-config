@@ -169,6 +169,20 @@
       "road":false,
       "type":"p"
     },
+    "1040160080":{
+      "card":"https://shinycolors.enza.fun/assets/12b412bd8e66a34c3c771613dd442e25220569edc6a78482b14301637ca11bd3?v=1",
+      "comment":"ひとひらずつ、降り注いで……",
+      "fes_card":"https://shinycolors.enza.fun/assets/5024ba9cec5ec197da60de7f84480b9059ce9f8a1ab549c90fcb3e04db289292?v=1",
+      "hash":"4273fc2388ea45a8b39cef9443511bc8",
+      "icon":"https://shinycolors.enza.fun/assets/deae8c4c7673166ce6906185e96e9c086d2c146e5017330ed082842290b076eb?v=1",
+      "id":"1040160080",
+      "m_movie":"https://shinycolors.enza.fun/assets/b2cfec083a8a4951c5c5e08f7edd486e84042b9c70d40ac971467c9b5c5ebbdd.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/9458ffb9d285b14f0fc4858cfc24932ea55deab0745211729dcd1680f10a8ac8.mp4?v=1",
+      "name":"【ひとひらで紡ぐ世界】桑山千雪",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930160010":{
       "card":"https://shinycolors.enza.fun/assets/e5edf2fd18156592c54d3eebfac8851ecf0345884b9911a0d4a19d2cc1e9a0fe?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/16f83b0ba0e3ad954b372813d11598ddc418a3870c133fb37a5cc8a12643fa85?v=3",
@@ -366,6 +380,10 @@
     {
       "id":"1040160070",
       "name":"【つよがりのためのララバイ】桑山千雪"
+    },
+    {
+      "id":"1040160080",
+      "name":"【ひとひらで紡ぐ世界】桑山千雪"
     },
     {
       "id":"1930160010",

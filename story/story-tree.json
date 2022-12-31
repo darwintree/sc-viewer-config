@@ -5747,6 +5747,36 @@
           ]
         },
         {
+          "name":"S.T.E.P編",
+          "type":"directory",
+          "children":[
+            {
+              "name":"あった！？.csv",
+              "type":"file"
+            },
+            {
+              "name":"ないない！.csv",
+              "type":"file"
+            },
+            {
+              "name":"プロデュー……サー……？.csv",
+              "type":"file"
+            },
+            {
+              "name":"半端じゃない、あたし.csv",
+              "type":"file"
+            },
+            {
+              "name":"プロデューサー！.csv",
+              "type":"file"
+            },
+            {
+              "name":"ゲーノー人、ちょーハンパない.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【エンジョイ！パーティ】和泉愛依",
           "type":"directory",
           "children":[

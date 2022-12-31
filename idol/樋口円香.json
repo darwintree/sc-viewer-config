@@ -91,6 +91,20 @@
       "road":false,
       "type":"p"
     },
+    "1040210050":{
+      "card":"https://shinycolors.enza.fun/assets/33d37d251cf7c47ba69cad6bd884dcb3bf19f00b6a97cddcd63d7e62bbb243e1?v=1",
+      "comment":"あなたは私にとっての、何？",
+      "fes_card":"https://shinycolors.enza.fun/assets/fe8bf8bcdf050afd0f74659a2ed99b30d5851cb5e1beb0aa03848d2bc9c34516?v=1",
+      "hash":"f70b9411228692fa9dec9cb683376efe",
+      "icon":"https://shinycolors.enza.fun/assets/bfe52831eddd97814a3620bd81a5e4fc9efa0afaa9f201f777c04a1f9092f37e?v=1",
+      "id":"1040210050",
+      "m_movie":"https://shinycolors.enza.fun/assets/4fcd58518945a7ff923d39c5da5370e57f05023ac90f0296a036e64d86d7ed25.mp4?v=1",
+      "movie":"https://shinycolors.enza.fun/assets/511bc019730cf146d965225c3237e00200612729de77c2eee38708d63fe3e91c.mp4?v=1",
+      "name":"【Merry】樋口円香",
+      "rarity":4,
+      "road":false,
+      "type":"p"
+    },
     "1930210010":{
       "card":"https://shinycolors.enza.fun/assets/c84ab237cc1188cdb6e8b4fa8f455bdbe2f21c0280b5c42bc9acb918a8ae1ea0?v=3",
       "fes_card":"https://shinycolors.enza.fun/assets/0772fee181f6965e2775c0714401b88298a0511d6656e7467014bef50fda523f?v=3",
@@ -216,6 +230,10 @@
     {
       "id":"1040210040",
       "name":"【オイサラバエル】樋口円香"
+    },
+    {
+      "id":"1040210050",
+      "name":"【Merry】樋口円香"
     },
     {
       "id":"1930210010",
