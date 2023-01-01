@@ -17,7 +17,8 @@
     "【CHILLY】緋田美琴",
     "【RESONANCE】緋田美琴",
     "感谢祭編",
-    "【X-DAY】緋田美琴"
+    "【X-DAY】緋田美琴",
+    "【MADE】緋田美琴"
   ],
   "details":{
     "【MANNEQUIN】緋田 美琴":[
@@ -196,6 +197,10 @@
     "【X-DAY】緋田美琴":[
       "matinee.csv",
       "soiree.csv"
+    ],
+    "【MADE】緋田美琴":[
+      "1 craft.csv",
+      "2 dish.csv"
     ]
   }
 }

@@ -13751,6 +13751,20 @@
               "type":"file"
             }
           ]
+        },
+        {
+          "name":"【MADE】緋田美琴",
+          "type":"directory",
+          "children":[
+            {
+              "name":"1 craft.csv",
+              "type":"file"
+            },
+            {
+              "name":"2 dish.csv",
+              "type":"file"
+            }
+          ]
         }
       ]
     },
