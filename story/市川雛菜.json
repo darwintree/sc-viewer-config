@@ -10,6 +10,7 @@
     "W.I.N.G.編",
     "【２８３プロのヒナ】市川雛菜",
     "Morning",
+    "【DE-S!GN】市川雛菜",
     "2022圣诞",
     "Landing Point編",
     "【♡like】市川雛菜",
@@ -113,6 +114,13 @@
       "produce_communications_102300100091.csv",
       "produce_communications_102300100131.csv",
       "produce_communications_102300100011.csv"
+    ],
+    "【DE-S!GN】市川雛菜":[
+      "model(idol).csv",
+      "student(idol).csv",
+      "NAM!NG.csv",
+      "VALUE!.csv",
+      "NAM_ED.csv"
     ],
     "2022圣诞":[
       "【’22Xmas】ジンジャーブレッド.csv",

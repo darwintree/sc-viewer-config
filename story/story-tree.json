@@ -1929,6 +1929,32 @@
           ]
         },
         {
+          "name":"【Have a bad day♥】田中摩美々",
+          "type":"directory",
+          "children":[
+            {
+              "name":"いい子には星.csv",
+              "type":"file"
+            },
+            {
+              "name":"バッド・タイミング.csv",
+              "type":"file"
+            },
+            {
+              "name":"Not Bad, So Good.csv",
+              "type":"file"
+            },
+            {
+              "name":"悪い子の星.csv",
+              "type":"file"
+            },
+            {
+              "name":"グッド・コール.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【フィドル・ファドル】田中摩美々",
           "type":"directory",
           "children":[
@@ -6610,6 +6636,32 @@
             },
             {
               "name":"produce_communications_102300100011.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【DE-S!GN】市川雛菜",
+          "type":"directory",
+          "children":[
+            {
+              "name":"model(idol).csv",
+              "type":"file"
+            },
+            {
+              "name":"student(idol).csv",
+              "type":"file"
+            },
+            {
+              "name":"NAM!NG.csv",
+              "type":"file"
+            },
+            {
+              "name":"VALUE!.csv",
+              "type":"file"
+            },
+            {
+              "name":"NAM_ED.csv",
               "type":"file"
             }
           ]
