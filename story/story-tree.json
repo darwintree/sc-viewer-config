@@ -11807,6 +11807,24 @@
           ]
         },
         {
+          "name":"【雲間のモーメント】白瀬咲耶",
+          "type":"directory",
+          "children":[
+            {
+              "name":"雨やんで、浮かぶ彩.csv",
+              "type":"file"
+            },
+            {
+              "name":"ふたりきりの、傘の中.csv",
+              "type":"file"
+            },
+            {
+              "name":"雨の中に、見えるもの.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【紺碧のボーダーライン】白瀬咲耶",
           "type":"directory",
           "children":[
