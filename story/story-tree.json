@@ -5833,6 +5833,44 @@
           ]
         },
         {
+          "name":"天槛",
+          "type":"directory",
+          "children":[
+            {
+              "name":"终章-それでもいましか見えないよ.csv",
+              "type":"file"
+            },
+            {
+              "name":"第4话-熱帯夜.csv",
+              "type":"file"
+            },
+            {
+              "name":"序章-やつらのゲーム.csv",
+              "type":"file"
+            },
+            {
+              "name":"第3话-いまはいつなのかっていう.csv",
+              "type":"file"
+            },
+            {
+              "name":"第6话-くじらを捕まえろ.csv",
+              "type":"file"
+            },
+            {
+              "name":"第5话-枝状未来.csv",
+              "type":"file"
+            },
+            {
+              "name":"第2话-ずっと仲良しノクチルとか笑.csv",
+              "type":"file"
+            },
+            {
+              "name":"第1话-鎖状時間.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"ミッション・コンプリート！",
           "type":"directory",
           "children":[
