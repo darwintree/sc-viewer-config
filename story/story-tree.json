@@ -11215,6 +11215,20 @@
       "type":"directory",
       "children":[
         {
+          "name":"【日々の灯り】西城樹里",
+          "type":"directory",
+          "children":[
+            {
+              "name":"電球色の時間.csv",
+              "type":"file"
+            },
+            {
+              "name":"思い出テイクアウト.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"节日剧情",
           "type":"directory",
           "children":[
