@@ -47,6 +47,22 @@
           ]
         },
         {
+          "name":"节日剧情",
+          "type":"directory",
+          "children":[
+            {
+              "name":"2023情人节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"special_communications_490103767.csv",
+                  "type":"file"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name":"【#SS】市川雛菜",
           "type":"directory",
           "children":[
@@ -581,6 +597,22 @@
           ]
         },
         {
+          "name":"节日剧情",
+          "type":"directory",
+          "children":[
+            {
+              "name":"2023情人节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"special_communications_490103764.csv",
+                  "type":"file"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name":"【２８３プロのヒナ】福丸小糸",
           "type":"directory",
           "children":[
@@ -1062,6 +1094,16 @@
           "name":"节日剧情",
           "type":"directory",
           "children":[
+            {
+              "name":"2023情人节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"special_communications_490103758.csv",
+                  "type":"file"
+                }
+              ]
+            },
             {
               "name":"圣诞节",
               "type":"directory",
@@ -3982,6 +4024,16 @@
           "name":"节日剧情",
           "type":"directory",
           "children":[
+            {
+              "name":"2023情人节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"special_communications_490103761.csv",
+                  "type":"file"
+                }
+              ]
+            },
             {
               "name":"圣诞节",
               "type":"directory",

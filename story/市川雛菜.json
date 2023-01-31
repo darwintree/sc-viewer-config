@@ -2,6 +2,7 @@
   "list":[
     "【HAPPY-!NG】市川雛菜",
     "【♡like】市川雛菜",
+    "节日剧情",
     "【#SS】市川雛菜",
     "【ReBIRTH】市川雛菜",
     "【S!GNATURE】市川雛菜",
@@ -29,6 +30,9 @@
     "【♡like】市川雛菜":[
       "PICTURE.csv",
       "BUTAMAN.csv"
+    ],
+    "节日剧情":[
+      "2023情人节"
     ],
     "【#SS】市川雛菜":[
       "Lucky me♡.csv",
