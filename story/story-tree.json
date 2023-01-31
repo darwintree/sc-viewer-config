@@ -3295,6 +3295,16 @@
               ]
             },
             {
+              "name":"2023情人节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"special_communications_490103773.csv",
+                  "type":"file"
+                }
+              ]
+            },
+            {
               "name":"2022情人节",
               "type":"directory",
               "children":[
@@ -8029,6 +8039,44 @@
           ]
         },
         {
+          "name":"VS．",
+          "type":"directory",
+          "children":[
+            {
+              "name":"终章-『I WIN』.csv",
+              "type":"file"
+            },
+            {
+              "name":"第6话-CALM BEFORE….csv",
+              "type":"file"
+            },
+            {
+              "name":"序章-HAZE.csv",
+              "type":"file"
+            },
+            {
+              "name":"第4话-ACCUMULATION.csv",
+              "type":"file"
+            },
+            {
+              "name":"第5话-DECLARATION.csv",
+              "type":"file"
+            },
+            {
+              "name":"第3话-REALIZATION.csv",
+              "type":"file"
+            },
+            {
+              "name":"第1话-CLUE.csv",
+              "type":"file"
+            },
+            {
+              "name":"第2话-DEMAND.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"はこぶものたち",
           "type":"directory",
           "children":[
@@ -8114,6 +8162,10 @@
             },
             {
               "name":"【三峰 結華】 誕生日ミニコミュ③.csv",
+              "type":"file"
+            },
+            {
+              "name":"fff情人节2023.csv",
               "type":"file"
             },
             {
@@ -12657,6 +12709,32 @@
           ]
         },
         {
+          "name":"【↓ろウTea】七草にちか",
+          "type":"directory",
+          "children":[
+            {
+              "name":"やば.csv",
+              "type":"file"
+            },
+            {
+              "name":"誰目線ですか.csv",
+              "type":"file"
+            },
+            {
+              "name":"終わらないやつ.csv",
+              "type":"file"
+            },
+            {
+              "name":"好きですね.csv",
+              "type":"file"
+            },
+            {
+              "name":"痛くしてるので.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【泣けよ洗濯機】七草にちか",
           "type":"directory",
           "children":[
@@ -13364,6 +13442,16 @@
           "children":[
             {
               "name":"摩美美2021生日.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"节日剧情",
+          "type":"directory",
+          "children":[
+            {
+              "name":"mmm2023情人节.csv",
               "type":"file"
             }
           ]
@@ -15747,6 +15835,10 @@
               "type":"file"
             },
             {
+              "name":"爱依2023情人节.csv",
+              "type":"file"
+            },
+            {
               "name":"【和泉 愛依】2021バレンタインデー.csv",
               "type":"file"
             },
@@ -17722,6 +17814,10 @@
           "name":"节日剧情",
           "type":"directory",
           "children":[
+            {
+              "name":"咲耶情人节2023.csv",
+              "type":"file"
+            },
             {
               "name":"special_communications_4902002006.csv",
               "type":"file"
