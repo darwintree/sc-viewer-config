@@ -12307,6 +12307,24 @@
           ]
         },
         {
+          "name":"【ずっと・グッド・ラック】八宮めぐる",
+          "type":"directory",
+          "children":[
+            {
+              "name":"歌はすべての人のために.csv",
+              "type":"file"
+            },
+            {
+              "name":"誰のための 誰のために.csv",
+              "type":"file"
+            },
+            {
+              "name":"日々の中にあるその言葉が.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【キャプテン★パンプキン】八宮めぐる",
           "type":"directory",
           "children":[
@@ -12665,6 +12683,16 @@
               ]
             },
             {
+              "name":"2023情人节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"490103770.csv",
+                  "type":"file"
+                }
+              ]
+            },
+            {
               "name":"2021七夕",
               "type":"directory",
               "children":[
@@ -12713,23 +12741,23 @@
           "type":"directory",
           "children":[
             {
-              "name":"やば.csv",
+              "name":"痛くしてるので（因为那份疼痛）.csv",
               "type":"file"
             },
             {
-              "name":"誰目線ですか.csv",
+              "name":"終わらないやつ（永远写不完啦）.csv",
               "type":"file"
             },
             {
-              "name":"終わらないやつ.csv",
+              "name":"誰目線ですか（你当你谁啊）.csv",
               "type":"file"
             },
             {
-              "name":"好きですね.csv",
+              "name":"やば（真受不了你）.csv",
               "type":"file"
             },
             {
-              "name":"痛くしてるので.csv",
+              "name":"好きですね（就喜欢这样）.csv",
               "type":"file"
             }
           ]
@@ -15924,6 +15952,20 @@
             },
             {
               "name":"おかえりなさいませ～？.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【なんでもない~】和泉愛依",
+          "type":"directory",
+          "children":[
+            {
+              "name":"また今度～.csv",
+              "type":"file"
+            },
+            {
+              "name":"ごめんっ！.csv",
               "type":"file"
             }
           ]
