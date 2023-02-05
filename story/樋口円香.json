@@ -16,6 +16,7 @@
     "W.I.N.G.編",
     "【Feb】樋口円香",
     "G.R.A.D.編",
+    "【Merry】樋口円香",
     "【洒落】樋口円香",
     "【２８３プロのヒナ】樋口円香",
     "Morning",
@@ -168,6 +169,13 @@
       "願いは叶う.csv",
       "G.R.A.D.淘汰剧情②後.csv",
       "决赛后剧情　失败①.csv"
+    ],
+    "【Merry】樋口円香":[
+      "HOLIDAY.csv",
+      "GIFT.csv",
+      "WEEKDAY.csv",
+      "NREM.csv",
+      "REM.csv"
     ],
     "【洒落】樋口円香":[
       "麻婆豆腐.csv",

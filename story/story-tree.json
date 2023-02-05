@@ -4617,6 +4617,32 @@
           ]
         },
         {
+          "name":"【Merry】樋口円香",
+          "type":"directory",
+          "children":[
+            {
+              "name":"HOLIDAY.csv",
+              "type":"file"
+            },
+            {
+              "name":"GIFT.csv",
+              "type":"file"
+            },
+            {
+              "name":"WEEKDAY.csv",
+              "type":"file"
+            },
+            {
+              "name":"NREM.csv",
+              "type":"file"
+            },
+            {
+              "name":"REM.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【洒落】樋口円香",
           "type":"directory",
           "children":[
