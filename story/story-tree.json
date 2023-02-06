@@ -3043,6 +3043,24 @@
           ]
         },
         {
+          "name":"【Boiling Sky】芹沢あさひ",
+          "type":"directory",
+          "children":[
+            {
+              "name":"顕れる熱.csv",
+              "type":"file"
+            },
+            {
+              "name":"沸点.csv",
+              "type":"file"
+            },
+            {
+              "name":"潜む熱.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【283プロのヒナ】芹沢あさひ",
           "type":"directory",
           "children":[
