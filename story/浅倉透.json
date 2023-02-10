@@ -19,7 +19,8 @@
     "【２８３プロのヒナ】浅倉透",
     "【faaaar】浅倉透",
     "【pooool】浅倉 透",
-    "Morning"
+    "Morning",
+    "【夜はなにいろ】浅倉透"
   ],
   "details":{
     "誕生日":[
@@ -185,6 +186,13 @@
       "produce_communications_102000100041.csv",
       "produce_communications_102000100081.csv",
       "produce_communications_102000100091.csv"
+    ],
+    "【夜はなにいろ】浅倉透":[
+      "あじする.csv",
+      "夜の器官としてぼくら.csv",
+      "202001011.csv",
+      "世界封切り.csv",
+      "いろする.csv"
     ]
   }
 }

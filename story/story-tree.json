@@ -55,7 +55,15 @@
               "type":"directory",
               "children":[
                 {
+                  "name":"490103769.csv",
+                  "type":"file"
+                },
+                {
                   "name":"special_communications_490103767.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"490103768.csv",
                   "type":"file"
                 }
               ]
@@ -604,6 +612,14 @@
               "name":"2023情人节",
               "type":"directory",
               "children":[
+                {
+                  "name":"490103765.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"490103766.csv",
+                  "type":"file"
+                },
                 {
                   "name":"special_communications_490103764.csv",
                   "type":"file"
@@ -1722,6 +1738,32 @@
             },
             {
               "name":"produce_communications_102000100091.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【夜はなにいろ】浅倉透",
+          "type":"directory",
+          "children":[
+            {
+              "name":"あじする.csv",
+              "type":"file"
+            },
+            {
+              "name":"夜の器官としてぼくら.csv",
+              "type":"file"
+            },
+            {
+              "name":"202001011.csv",
+              "type":"file"
+            },
+            {
+              "name":"世界封切り.csv",
+              "type":"file"
+            },
+            {
+              "name":"いろする.csv",
               "type":"file"
             }
           ]
@@ -3317,6 +3359,14 @@
               "type":"directory",
               "children":[
                 {
+                  "name":"【緋田 美琴】2023バレンタインデー.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"美琴へのプレゼント・チョコレート.csv",
+                  "type":"file"
+                },
+                {
                   "name":"special_communications_490103773.csv",
                   "type":"file"
                 }
@@ -4058,6 +4108,14 @@
               "children":[
                 {
                   "name":"special_communications_490103761.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"490103762.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"490103763.csv",
                   "type":"file"
                 }
               ]
