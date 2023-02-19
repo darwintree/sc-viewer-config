@@ -1,5 +1,6 @@
 {
   "list":[
+    "【福はうち】福丸小糸",
     "Morning",
     "【はるとあめ】福丸小糸",
     "【傍白のあいだ】福丸 小糸",
@@ -21,6 +22,11 @@
     "【しかえし優等生】福丸 小糸"
   ],
   "details":{
+    "【福はうち】福丸小糸":[
+      "内と外.csv",
+      "福と豆.csv",
+      "糸と鳥.csv"
+    ],
     "Morning":[
       "produce_communications_102200100011.csv",
       "produce_communications_102200100051.csv",
