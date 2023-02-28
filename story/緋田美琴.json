@@ -1,5 +1,6 @@
 {
   "list":[
+    "【STAGE】緋田美琴",
     "Morning",
     "【２８３プロのヒナ】緋田美琴",
     "【FEEL】緋田美琴",
@@ -21,6 +22,10 @@
     "【RESONANCE】緋田美琴"
   ],
   "details":{
+    "【STAGE】緋田美琴":[
+      "past.csv",
+      "future.csv"
+    ],
     "Morning":[
       "Morning⑪.csv",
       "Morning⑭.csv",

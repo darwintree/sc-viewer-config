@@ -10819,6 +10819,20 @@
       "type":"directory",
       "children":[
         {
+          "name":"【STAGE】緋田美琴",
+          "type":"directory",
+          "children":[
+            {
+              "name":"past.csv",
+              "type":"file"
+            },
+            {
+              "name":"future.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"Morning",
           "type":"directory",
           "children":[
@@ -18176,6 +18190,24 @@
             },
             {
               "name":"Q＆A・トレイン.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【ふたりといる夜のこと】風野灯織",
+          "type":"directory",
+          "children":[
+            {
+              "name":"夜は長くて短い.csv",
+              "type":"file"
+            },
+            {
+              "name":"ある公演の夜の話.csv",
+              "type":"file"
+            },
+            {
+              "name":"今はこんな夜もあって.csv",
               "type":"file"
             }
           ]
