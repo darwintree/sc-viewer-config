@@ -15737,6 +15737,20 @@
           ]
         },
         {
+          "name":"【ダ・カラ】樋口圆香",
+          "type":"directory",
+          "children":[
+            {
+              "name":"み.csv",
+              "type":"file"
+            },
+            {
+              "name":"る.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【閑話】樋口円香",
           "type":"directory",
           "children":[
