@@ -1629,6 +1629,32 @@
           ]
         },
         {
+          "name":"【うつくしいあした】  園田 智代子",
+          "type":"directory",
+          "children":[
+            {
+              "name":"うつくしいひび.csv",
+              "type":"file"
+            },
+            {
+              "name":"雨が目に染みないように.csv",
+              "type":"file"
+            },
+            {
+              "name":"彼女が思う彼女の責任の話.csv",
+              "type":"file"
+            },
+            {
+              "name":"スミレの花束.csv",
+              "type":"file"
+            },
+            {
+              "name":"星落.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"Landing Point編",
           "type":"directory",
           "children":[
@@ -1715,6 +1741,10 @@
               "type":"file"
             }
           ]
+        },
+        {
+          "name":"【うつくしいあした】園田 智代子",
+          "type":"file"
         },
         {
           "name":"G.R.A.D.編",
@@ -2365,6 +2395,20 @@
               ]
             },
             {
+              "name":"2023白色情人节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"美琴へのプレゼント・スコーン.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"美琴へのプレゼント・スコーン＋♥.csv",
+                  "type":"file"
+                }
+              ]
+            },
+            {
               "name":"万圣节",
               "type":"directory",
               "children":[
@@ -2740,6 +2784,32 @@
             },
             {
               "name":"画用紙コウモリ.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【なつやすみ学校】福丸小糸",
+          "type":"directory",
+          "children":[
+            {
+              "name":"思い出作りになる前に.csv",
+              "type":"file"
+            },
+            {
+              "name":"起立気をつけ礼.csv",
+              "type":"file"
+            },
+            {
+              "name":"夏の氷はすぐ溶ける.csv",
+              "type":"file"
+            },
+            {
+              "name":"アイドル先生.csv",
+              "type":"file"
+            },
+            {
+              "name":"だけど蜩が鳴いてる.csv",
               "type":"file"
             }
           ]
@@ -9516,6 +9586,20 @@
                 },
                 {
                   "name":"にちかへのプレゼント・チョコレート.csv",
+                  "type":"file"
+                }
+              ]
+            },
+            {
+              "name":"2023白色情人节",
+              "type":"directory",
+              "children":[
+                {
+                  "name":"にちかへのプレゼント・クッキー＋♥.csv",
+                  "type":"file"
+                },
+                {
+                  "name":"にちかへのプレゼント・クッキー.csv",
                   "type":"file"
                 }
               ]
@@ -16816,6 +16900,36 @@
             },
             {
               "name":"判明！ふたりの相違点.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"S.T.E.P",
+          "type":"directory",
+          "children":[
+            {
+              "name":"第１话（Bパート）.csv",
+              "type":"file"
+            },
+            {
+              "name":"第１话（Aパート）.csv",
+              "type":"file"
+            },
+            {
+              "name":"スピンオフ.csv",
+              "type":"file"
+            },
+            {
+              "name":"今は何話目？.csv",
+              "type":"file"
+            },
+            {
+              "name":"第０话.csv",
+              "type":"file"
+            },
+            {
+              "name":"第1.5话.csv",
               "type":"file"
             }
           ]
