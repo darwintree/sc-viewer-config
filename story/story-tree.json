@@ -15435,6 +15435,24 @@
           ]
         },
         {
+          "name":"【バグ・ル】樋口円香",
+          "type":"directory",
+          "children":[
+            {
+              "name":"bird.csv",
+              "type":"file"
+            },
+            {
+              "name":"bug.csv",
+              "type":"file"
+            },
+            {
+              "name":"or.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【雨情】樋口円香",
           "type":"directory",
           "children":[
