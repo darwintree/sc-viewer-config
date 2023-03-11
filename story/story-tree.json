@@ -1743,10 +1743,6 @@
           ]
         },
         {
-          "name":"【うつくしいあした】園田 智代子",
-          "type":"file"
-        },
-        {
           "name":"G.R.A.D.編",
           "type":"directory",
           "children":[
@@ -10540,6 +10536,24 @@
             },
             {
               "name":"行く朝.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【純粋・fall into a trap】白瀬咲耶",
+          "type":"directory",
+          "children":[
+            {
+              "name":"300601603.csv",
+              "type":"file"
+            },
+            {
+              "name":"300601602.csv",
+              "type":"file"
+            },
+            {
+              "name":"300601601.csv",
               "type":"file"
             }
           ]
