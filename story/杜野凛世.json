@@ -1,214 +1,214 @@
 {
   "list":[
-    "约定",
-    "【百色ふぉとぐらふ】杜野凛世",
+    "【をとめ大学】杜野凛世",
+    "【凛世花伝】杜野凛世",
+    "【さよならごつこ】杜野凛世",
+    "【水色感情】杜野凛世",
     "【日を食んで、夜を啜って】杜野凛世",
-    "【凛凛、凛世】杜野凛世",
+    "Morning",
+    "【杜野凛世の印象派】杜野凛世",
     "【常夏CLIMAX】杜野凛世",
+    "【ふらここのうた】杜野凛世",
+    "【凛凛、凛世】杜野凛世",
+    "【２８３プロのヒナ】杜野凛世",
+    "【春告窓】杜野凛世",
+    "【われにかへれ】杜野凛世",
+    "【祝唄-hogiuta-】杜野凛世",
     "【をとめ条約】杜野凛世",
+    "【百色ふぉとぐらふ】杜野凛世",
+    "W.I.N.G.編",
+    "【十二月短篇】杜野凛世",
+    "【夜明けの晩に】杜野凛世",
+    "【想ひいろは】杜野凛世",
+    "【微熱風鈴】杜野凛世",
+    "【階段式純情昇降機】杜野凛世",
     "节日剧情",
     "【ロー・ポジション】杜野凛世",
-    "【夜明けの晩に】杜野凛世",
-    "【春告窓】杜野凛世",
-    "【ふらここのうた】杜野凛世",
-    "【杜野凛世の印象派】杜野凛世",
-    "【さよならごつこ】杜野凛世",
-    "G.R.A.D.編",
-    "【微熱風鈴】杜野凛世",
-    "【われにかへれ】杜野凛世",
-    "W.I.N.G.編",
-    "【をとめ大学】杜野凛世",
-    "Morning",
-    "【凛世花伝】杜野凛世",
-    "【２８３プロのヒナ】杜野凛世",
-    "【水色感情】杜野凛世",
-    "【十二月短篇】杜野凛世",
-    "【想ひいろは】杜野凛世",
-    "【階段式純情昇降機】杜野凛世",
-    "【祝唄-hogiuta-】杜野凛世"
+    "约定",
+    "G.R.A.D.編"
   ],
   "details":{
-    "约定":[
-      "produce_communications_promises_20120010013.csv",
-      "produce_communication_promise_results_201200100112.csv",
-      "produce_communication_promise_results_201200100211.csv",
-      "produce_communications_promises_20120010021.csv",
-      "produce_communication_promise_results_201200100131.csv",
-      "produce_communications_promises_20120010011.csv",
-      "produce_communication_promise_results_201200100221.csv",
-      "produce_communications_promises_20120010022.csv"
+    "【をとめ大学】杜野凛世":[
+      "恋にやすらかなるものなし.csv",
+      "友にをかしからざるものなし.csv"
     ],
-    "【百色ふぉとぐらふ】杜野凛世":[
-      "朝ぼらけ.csv",
-      "夕さりて.csv",
-      "夜もすがら.csv"
+    "【凛世花伝】杜野凛世":[
+      "くもらす -kumorasu-.csv",
+      "こひめ -kohime-.csv",
+      "しゅら -syura-.csv",
+      "ひためん -hitamen-.csv",
+      "序破急 -jo ha kyu-.csv"
+    ],
+    "【さよならごつこ】杜野凛世":[
+      "遠きにて.csv",
+      "君離る.csv",
+      "常盤.csv",
+      "南天.csv",
+      "我に帰れ.csv"
+    ],
+    "【水色感情】杜野凛世":[
+      "A2.恋は何色（R.Morino）.csv",
+      "R&P.csv",
+      "B2.人の気も知らないで（Isnt）.csv",
+      "A1.君とabc（R.Morino）.csv",
+      "B1.マドリガル（R.Morino）.csv"
     ],
     "【日を食んで、夜を啜って】杜野凛世":[
       "そういう場所でございます.csv",
-      "お宝でございます.csv",
-      "メンマでございます.csv"
+      "メンマでございます.csv",
+      "お宝でございます.csv"
+    ],
+    "Morning":[
+      "morning①.csv",
+      "morning③.csv",
+      "morning⑭.csv",
+      "morning⑦.csv",
+      "morning⑫.csv",
+      "morning⑧.csv",
+      "morning⑤.csv",
+      "morning⑪.csv",
+      "morning⑮.csv",
+      "morning⑩.csv",
+      "morning⑬.csv",
+      "morning⑨.csv",
+      "morning⑥.csv",
+      "morning④.csv",
+      "morning②.csv"
+    ],
+    "【杜野凛世の印象派】杜野凛世":[
+      "drawing3（かつぷめん）.csv",
+      "たちきれぬ.csv",
+      "drawing2（まどひあか）.csv",
+      "drawing1（きみがそら）.csv",
+      "drawing4（かんかんかん）.csv"
+    ],
+    "【常夏CLIMAX】杜野凛世":[
+      "だんだん空色が濃くなるガールズ.csv",
+      "夕陽が沈む瞬間を見逃すガールズ.csv",
+      "沖もいいけど磯もいいねガールズ.csv"
+    ],
+    "【ふらここのうた】杜野凛世":[
+      "はちぶく.csv",
+      "ふらここ.csv"
     ],
     "【凛凛、凛世】杜野凛世":[
       "これからのふたり.csv",
       "想いぬれど.csv",
       "雨宿り.csv"
     ],
-    "【常夏CLIMAX】杜野凛世":[
-      "沖もいいけど磯もいいねガールズ.csv",
-      "夕陽が沈む瞬間を見逃すガールズ.csv",
-      "だんだん空色が濃くなるガールズ.csv"
-    ],
-    "【をとめ条約】杜野凛世":[
-      "わるい時間・上.csv",
-      "わるい時間・下.csv"
-    ],
-    "节日剧情":[
-      "凛世へのプレゼント・食事＋♥.csv",
-      "【杜野 凛世】2021バレンタインデー.csv",
-      "【杜野 凛世】2021バレンタイン準備.csv",
-      "凛世へのプレゼント・チョコレート (1).csv",
-      "凛世へのプレゼント・食事.csv"
-    ],
-    "【ロー・ポジション】杜野凛世":[
-      "木に花咲き.csv",
-      "芽ぐむ頃.csv",
-      "濡れて参ろう.csv",
-      "知らぬ顔.csv",
-      "春雪.csv"
-    ],
-    "【夜明けの晩に】杜野凛世":[
-      "ソラマメ.csv",
-      "ミライ.csv",
-      "ウシロノショウメン.csv"
-    ],
-    "【春告窓】杜野凛世":[
-      "小春.csv",
-      "沈丁.csv",
-      "来る.csv"
-    ],
-    "【ふらここのうた】杜野凛世":[
-      "ふらここ.csv",
-      "はちぶく.csv"
-    ],
-    "【杜野凛世の印象派】杜野凛世":[
-      "たちきれぬ.csv",
-      "drawing4（かんかんかん）.csv",
-      "drawing2（まどひあか）.csv",
-      "drawing3（かつぷめん）.csv",
-      "drawing1（きみがそら）.csv"
-    ],
-    "【さよならごつこ】杜野凛世":[
-      "我に帰れ.csv",
-      "常盤.csv",
-      "遠きにて.csv",
-      "君離る.csv",
-      "南天.csv"
-    ],
-    "G.R.A.D.編":[
-      "ほんよみ.csv",
-      "G.R.A.D.敗退コミュ②前.csv",
-      "『あ』のない少女.csv",
-      "she _ she.csv",
-      "she.csv",
-      "いたかった.csv",
-      "G.R.A.D.敗退コミュ②後.csv",
-      "he.csv",
-      "G.R.A.D.敗退コミュ①.csv"
-    ],
-    "【微熱風鈴】杜野凛世":[
-      "出来心.csv",
-      "とことはに.csv",
-      "みをつくし.csv"
-    ],
-    "【われにかへれ】杜野凛世":[
-      "こもれ　日.csv",
-      "月があたらしい.csv",
-      "夏雲だけを覚えてゐる.csv",
-      "むらさき.csv",
-      "われにかへる.csv"
-    ],
-    "W.I.N.G.編":[
-      "决赛前剧情.csv",
-      "淘汰剧情.csv",
-      "揺れる瞳.csv",
-      "试镜后 胜利①.csv",
-      "试镜后 失败②.csv",
-      "見つめる先に.csv",
-      "试镜后 失败①.csv",
-      "produce_events_101200002.csv",
-      "半决赛后剧情.csv",
-      "决赛后剧情.csv",
-      "试镜前①.csv",
-      "見えない心.csv",
-      "试镜前②.csv",
-      "アイドル優等生.csv",
-      "试镜后 胜利②.csv",
-      "漕ぎいでな.csv",
-      "世界.csv",
-      "運命の出会い.csv",
-      "半决赛前剧情.csv",
-      "试镜前④.csv",
-      "试镜前③.csv"
-    ],
-    "【をとめ大学】杜野凛世":[
-      "友にをかしからざるものなし.csv",
-      "恋にやすらかなるものなし.csv"
-    ],
-    "Morning":[
-      "morning⑥.csv",
-      "morning⑤.csv",
-      "morning⑩.csv",
-      "morning⑮.csv",
-      "morning②.csv",
-      "morning⑨.csv",
-      "morning④.csv",
-      "morning⑫.csv",
-      "morning①.csv",
-      "morning⑭.csv",
-      "morning⑧.csv",
-      "morning⑪.csv",
-      "morning③.csv",
-      "morning⑬.csv",
-      "morning⑦.csv"
-    ],
-    "【凛世花伝】杜野凛世":[
-      "ひためん -hitamen-.csv",
-      "しゅら -syura-.csv",
-      "くもらす -kumorasu-.csv",
-      "こひめ -kohime-.csv",
-      "序破急 -jo ha kyu-.csv"
-    ],
     "【２８３プロのヒナ】杜野凛世":[
       "恋ぞつもりて.csv",
       "恋愛いろは.csv"
     ],
-    "【水色感情】杜野凛世":[
-      "B2.人の気も知らないで（Isnt）.csv",
-      "A2.恋は何色（R.Morino）.csv",
-      "B1.マドリガル（R.Morino）.csv",
-      "R&P.csv",
-      "A1.君とabc（R.Morino）.csv"
+    "【春告窓】杜野凛世":[
+      "沈丁.csv",
+      "小春.csv",
+      "来る.csv"
+    ],
+    "【われにかへれ】杜野凛世":[
+      "われにかへる.csv",
+      "むらさき.csv",
+      "夏雲だけを覚えてゐる.csv",
+      "月があたらしい.csv",
+      "こもれ　日.csv"
+    ],
+    "【祝唄-hogiuta-】杜野凛世":[
+      "ぱちぱちぱち.csv",
+      "とんぱらん.csv",
+      "しょきしょき.csv"
+    ],
+    "【をとめ条約】杜野凛世":[
+      "わるい時間・下.csv",
+      "わるい時間・上.csv"
+    ],
+    "【百色ふぉとぐらふ】杜野凛世":[
+      "夕さりて.csv",
+      "夜もすがら.csv",
+      "朝ぼらけ.csv"
+    ],
+    "W.I.N.G.編":[
+      "世界.csv",
+      "見つめる先に.csv",
+      "半决赛前剧情.csv",
+      "漕ぎいでな.csv",
+      "運命の出会い.csv",
+      "试镜前②.csv",
+      "揺れる瞳.csv",
+      "试镜后 失败①.csv",
+      "试镜前④.csv",
+      "决赛前剧情.csv",
+      "试镜后 胜利①.csv",
+      "アイドル優等生.csv",
+      "見えない心.csv",
+      "半决赛后剧情.csv",
+      "试镜前③.csv",
+      "produce_events_101200002.csv",
+      "试镜前①.csv",
+      "试镜后 胜利②.csv",
+      "决赛后剧情.csv",
+      "淘汰剧情.csv",
+      "试镜后 失败②.csv"
     ],
     "【十二月短篇】杜野凛世":[
-      "紅の踊り子の主題・序.csv",
+      "歳末些事.csv",
       "紅の踊り子の主題・変.csv",
+      "紅の踊り子の主題・序.csv",
       "夜、と呼べばはいと言ふ.csv",
-      "紅の踊り子の主題・跋.csv",
-      "歳末些事.csv"
+      "紅の踊り子の主題・跋.csv"
+    ],
+    "【夜明けの晩に】杜野凛世":[
+      "ソラマメ.csv",
+      "ウシロノショウメン.csv",
+      "ミライ.csv"
     ],
     "【想ひいろは】杜野凛世":[
       "これからのふたり.csv",
       "想いぬれど.csv",
       "雨宿り.csv"
     ],
+    "【微熱風鈴】杜野凛世":[
+      "みをつくし.csv",
+      "出来心.csv",
+      "とことはに.csv"
+    ],
     "【階段式純情昇降機】杜野凛世":[
       "某日、入り前.csv",
       "チョコレートソースの夜.csv"
     ],
-    "【祝唄-hogiuta-】杜野凛世":[
-      "ぱちぱちぱち.csv",
-      "とんぱらん.csv",
-      "しょきしょき.csv"
+    "节日剧情":[
+      "凛世へのプレゼント・食事.csv",
+      "【杜野 凛世】2021バレンタイン準備.csv",
+      "凛世へのプレゼント・食事＋♥.csv",
+      "凛世へのプレゼント・チョコレート (1).csv",
+      "【杜野 凛世】2021バレンタインデー.csv"
+    ],
+    "【ロー・ポジション】杜野凛世":[
+      "濡れて参ろう.csv",
+      "木に花咲き.csv",
+      "芽ぐむ頃.csv",
+      "春雪.csv",
+      "知らぬ顔.csv"
+    ],
+    "约定":[
+      "produce_communication_promise_results_201200100112.csv",
+      "produce_communications_promises_20120010022.csv",
+      "produce_communications_promises_20120010021.csv",
+      "produce_communication_promise_results_201200100131.csv",
+      "produce_communication_promise_results_201200100221.csv",
+      "produce_communication_promise_results_201200100211.csv",
+      "produce_communications_promises_20120010011.csv",
+      "produce_communications_promises_20120010013.csv"
+    ],
+    "G.R.A.D.編":[
+      "ほんよみ.csv",
+      "G.R.A.D.敗退コミュ②前.csv",
+      "G.R.A.D.敗退コミュ①.csv",
+      "いたかった.csv",
+      "G.R.A.D.敗退コミュ②後.csv",
+      "he.csv",
+      "『あ』のない少女.csv",
+      "she.csv",
+      "she _ she.csv"
     ]
   }
 }
