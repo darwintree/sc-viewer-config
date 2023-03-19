@@ -6951,6 +6951,24 @@
           ]
         },
         {
+          "name":"【ちぐはぐ姫】芹沢 あさひ",
+          "type":"directory",
+          "children":[
+            {
+              "name":"まちがえた？.csv",
+              "type":"file"
+            },
+            {
+              "name":"春、ちらかす.csv",
+              "type":"file"
+            },
+            {
+              "name":"正しい仕分け箱.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【283プロのヒナ】芹沢あさひ",
           "type":"directory",
           "children":[
@@ -17770,6 +17788,24 @@
             },
             {
               "name":"Morning⑭.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【しじまに華ひととき】櫻木真乃",
+          "type":"directory",
+          "children":[
+            {
+              "name":"あのときの願い.csv",
+              "type":"file"
+            },
+            {
+              "name":"しばしお別れ、しかしすぐに.csv",
+              "type":"file"
+            },
+            {
+              "name":"迎春の巡り逢い.csv",
               "type":"file"
             }
           ]
