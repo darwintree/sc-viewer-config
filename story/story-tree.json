@@ -3203,6 +3203,24 @@
           ]
         },
         {
+          "name":"【UNCHARTE;D】市川雛菜",
+          "type":"directory",
+          "children":[
+            {
+              "name":"P♡P S.csv",
+              "type":"file"
+            },
+            {
+              "name":"WEAR!NG.csv",
+              "type":"file"
+            },
+            {
+              "name":"Im pression.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"【ReBIRTH】市川雛菜",
           "type":"directory",
           "children":[
@@ -5685,6 +5703,44 @@
           ]
         },
         {
+          "name":"セヴン＃ス",
+          "type":"directory",
+          "children":[
+            {
+              "name":"第3话-unrecorded.csv",
+              "type":"file"
+            },
+            {
+              "name":"第5话-shhh.csv",
+              "type":"file"
+            },
+            {
+              "name":"序章-蠢.csv",
+              "type":"file"
+            },
+            {
+              "name":"第2话-が／を.csv",
+              "type":"file"
+            },
+            {
+              "name":"第6话-recorded.csv",
+              "type":"file"
+            },
+            {
+              "name":"第1话-そうだよ.csv",
+              "type":"file"
+            },
+            {
+              "name":"终章-そうだね.csv",
+              "type":"file"
+            },
+            {
+              "name":"第4话-そうなの.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
           "name":"２８３プロダクション──某月某日、面談──",
           "type":"directory",
           "children":[
@@ -6636,6 +6692,52 @@
             },
             {
               "name":"にっこりまで.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"ジ・エピソード",
+          "type":"directory",
+          "children":[
+            {
+              "name":"490103910.csv",
+              "type":"file"
+            },
+            {
+              "name":"490103901.csv",
+              "type":"file"
+            },
+            {
+              "name":"490103908.csv",
+              "type":"file"
+            },
+            {
+              "name":"490103905.csv",
+              "type":"file"
+            },
+            {
+              "name":"490103904.csv",
+              "type":"file"
+            },
+            {
+              "name":"490103903.csv",
+              "type":"file"
+            },
+            {
+              "name":"490103902.csv",
+              "type":"file"
+            },
+            {
+              "name":"490103906.csv",
+              "type":"file"
+            },
+            {
+              "name":"490103909.csv",
+              "type":"file"
+            },
+            {
+              "name":"490103907.csv",
               "type":"file"
             }
           ]

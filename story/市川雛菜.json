@@ -9,6 +9,7 @@
     "誕生日",
     "【PEEPS! 】市川雛菜",
     "【DE-S!GN】市川雛菜",
+    "【UNCHARTE;D】市川雛菜",
     "【ReBIRTH】市川雛菜",
     "G.R.A.D.編",
     "【ROOKIE!】市川雛菜",
@@ -70,6 +71,11 @@
       "NAM_ED.csv",
       "model(idol).csv",
       "NAM!NG.csv"
+    ],
+    "【UNCHARTE;D】市川雛菜":[
+      "P♡P S.csv",
+      "WEAR!NG.csv",
+      "Im pression.csv"
     ],
     "【ReBIRTH】市川雛菜":[
       "00__03_hospital.csv",
