@@ -2827,11 +2827,19 @@
               "type":"file"
             },
             {
+              "name":"TV出演後コミュ②.csv",
+              "type":"file"
+            },
+            {
               "name":"シーズン1（クリア）.csv",
               "type":"file"
             },
             {
               "name":"決勝後コミュ.csv",
+              "type":"file"
+            },
+            {
+              "name":"TV出演後コミュ①.csv",
               "type":"file"
             }
           ]
@@ -16472,6 +16480,16 @@
             },
             {
               "name":"おかえりなさいませ～！.csv",
+              "type":"file"
+            }
+          ]
+        },
+        {
+          "name":"【なるんじゃん？】和泉愛依",
+          "type":"directory",
+          "children":[
+            {
+              "name":"ロッキュー！.csv",
               "type":"file"
             }
           ]
